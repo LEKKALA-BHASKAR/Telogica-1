@@ -1,0 +1,2432 @@
+{
+  "scrip": "532975",
+  "fetchedAt": "2026-07-15 04:46 UTC",
+  "quote": {
+    "name": "Telogica Ltd",
+    "scrip": "532975",
+    "category": "Listed",
+    "bseUrl": "https://www.bseindia.com/stock-share-price/telogica-ltd/telogica/532975/",
+    "ltp": "10.05",
+    "chg": "-0.28",
+    "pcChg": "-2.71",
+    "prevClose": "10.33",
+    "open": "10.05",
+    "high": "10.75",
+    "low": "9.90"
+  },
+  "company": {
+    "isin": "INE778I01024",
+    "faceValue": "5.00",
+    "industry": "Telecom -  Equipment & Accessories",
+    "sector": "Telecommunication",
+    "group": "XT",
+    "eps": "0.22",
+    "pe": "45.68",
+    "pb": "8.66",
+    "roe": "18.77",
+    "npm": "6.68",
+    "opm": "8.00"
+  },
+  "announcements": [
+    {
+      "date": "2026-07-08",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Compliance as per Regulation 74(5) of SEBI (DP) Regulations 2018 for the quarter ended June 30, 2026.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a5a8c96b-a5d1-4636-96b8-65c8351a0060.pdf",
+      "sizeKb": 1455
+    },
+    {
+      "date": "2026-07-01",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "Recipt of No-Objection Certificate From BSE For Reclassification of Promoter/Promoter Group Company to Public Catagory Parsuant to Regulation 31A of SEBI(LODR) Regulations, 2015",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c208756e-86cb-4d4d-b917-6f2e3399a8b8.pdf",
+      "sizeKb": 1362
+    },
+    {
+      "date": "2026-06-26",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Pursuant to SEBI (PIT) Regulations, 2015, and Company's code of conduct, the trading window shall be closed from 1st July 2026 till 48 hours after the announcement of financial results ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9dc42bc8-6a97-4135-aa3d-4986d5df785c.pdf",
+      "sizeKb": 492
+    },
+    {
+      "date": "2026-05-30",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "Newspaper Publication of the Audited Standalone Financial Results for the Fourth Quarter and Financial year ended March 31,2026.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/380879ae-a40f-466b-8edb-7a691858006b.pdf",
+      "sizeKb": 6042
+    },
+    {
+      "date": "2026-05-29",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "Disclosure of Related Party transaction as per Reg.23(9) of SEBI (LODR), regulation 2015",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/fc2bd2f9-30e9-4f82-8d86-5f00a00a1a0f.pdf",
+      "sizeKb": 505
+    },
+    {
+      "date": "2026-05-29",
+      "category": "Company Update",
+      "subcategory": "Reg. 32 (1), (3) - Statement of Deviation & Variation",
+      "headline": "Statement of utilization of funds",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/bfeb7af3-6252-4b72-878d-0e447153f451.pdf",
+      "sizeKb": 400
+    },
+    {
+      "date": "2026-05-29",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Audited financial results for fourth quarter and financial year ended 31.03.2026",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8be36082-3d92-43f7-97f5-fa0098113838.pdf",
+      "sizeKb": 11781
+    },
+    {
+      "date": "2026-05-29",
+      "category": "Board Meeting",
+      "subcategory": "Outcome of Board Meeting",
+      "headline": "Outcome of the Board Meeting held on Friday, 29th May, 2026 - Audited Financial Results for the Fourth Quarter and Financial Year ended 31st March, 2026.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5805a65c-4e33-49e9-a4c8-cc8e7df82674.pdf",
+      "sizeKb": 11091
+    },
+    {
+      "date": "2026-05-26",
+      "category": "Others",
+      "subcategory": "Outcome without intimation",
+      "headline": "1. Appointment of Mr. Sudhakara Reddy Allam (DIN: 02902130) as an Additional Director and Managing Director of the Company with effect from May 26, 2026., subject to the approval of the ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1614444a-f1db-4ec3-934f-d84383e2e790.pdf",
+      "sizeKb": 2828
+    },
+    {
+      "date": "2026-05-23",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Telogica Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 29/05/2026 ,inter alia, to consider and approve the Audited Standalone Financial Results ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5881dc36-79d8-4746-8f22-48b027f63f08.pdf",
+      "sizeKb": 628
+    },
+    {
+      "date": "2026-04-28",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "Telogica Limited informs the exchange regarding non-applicability of Initial disclosures of Large Corporate (LC) pursuant to the SEBI Circular No. SEBI/HO/DDHS/DDHS-RACPOD1/P/CIR/2023/172 ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5eb0cbd6-0228-4edf-8ec4-6a2179249adc.pdf",
+      "sizeKb": 1318
+    },
+    {
+      "date": "2026-04-10",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Compliance Certificate under Reg. 74(5) of SEBI (DP) Regulations, 2018",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1902f2f5-77f6-446d-84d4-6dd930d50b2e.pdf",
+      "sizeKb": 1104
+    },
+    {
+      "date": "2026-04-07",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "Disclosure Under Regulation 31(4) of SEBI(SAST) Regulations, 2011 as of March 31, 2026",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/21c43c2e-2dda-44d3-884a-c202554316c7.pdf",
+      "sizeKb": 1739
+    },
+    {
+      "date": "2026-03-24",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "The trading window for dealing in securities of the company shall remain closed from 1 April 2026 till 48 hours after the announcement of financial statements for quarter and year ending ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b20b3f12-1981-42db-8e96-26ff712684fb.pdf",
+      "sizeKb": 280
+    },
+    {
+      "date": "2026-03-20",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "In compliance with Regulation 30 read with part A of Schedule III of SEBI listing regulation, the Board of Directors of the Company at their meeting held on 20/03/2026 has appointed Ms. ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1463111f-1602-436f-8999-ffa46b9cefe2.pdf",
+      "sizeKb": 2062
+    },
+    {
+      "date": "2026-03-20",
+      "category": "Others",
+      "subcategory": "Outcome without intimation",
+      "headline": "In compliance with the Regulation 30 read with Part A of Schedule III of SEBI Listing Regulations, we wish to submit that   a) on the recommendation of Nomination and Remuneration Committee, ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b75d33a4-5e29-47e5-9348-a573c28bd3bf.pdf",
+      "sizeKb": 2062
+    },
+    {
+      "date": "2026-03-20",
+      "category": "Company Update",
+      "subcategory": "Appointment of Company Secretary / Compliance Officer",
+      "headline": "Intimation of Appointment of Company Secretary and Compliance Officer of the Company as per regulation 30 of SEBI (LODR) Regulations, 2015 read with Schedule III of Listing regulations.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/757bf913-ce5c-43b1-b183-3470b9c85d44.pdf",
+      "sizeKb": 2062
+    },
+    {
+      "date": "2026-02-06",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "We enclose herewith the copies of the un-audited standalone financial statements for the quarter ended 31st December 2025 published in the Financial Express (English Newspaper) and Andhra ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/634615ce-6f2f-42e0-9670-3d5897458317.pdf",
+      "sizeKb": 8759
+    },
+    {
+      "date": "2026-02-05",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "We hereby submit Un-Audited Standalone Financial Results along with the Limited Review Report of the Company for Quarter ended December 31, 2025.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4b01fc49-a502-4096-933f-466d9e233502.pdf",
+      "sizeKb": 3371
+    },
+    {
+      "date": "2026-02-05",
+      "category": "Board Meeting",
+      "subcategory": "Outcome of Board Meeting",
+      "headline": "The Board of Directors of the company in its meeting held today i.e., on February 05, 2026, has considered and approved: Un-audited Standalone Financial Results along with the Limited Review ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c1af4585-7c38-49fa-ba49-5e06ca154aad.pdf",
+      "sizeKb": 3371
+    },
+    {
+      "date": "2026-01-30",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "We would like to inform that the Company has received Trading Approval dated January 30, 2026, from BSE Limited for 3,15,50,000 equity shares of Rs. 5/- each allotted to promoter and non-promoters ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/12115039-c6b6-44cc-8581-6f4292f332b1.pdf",
+      "sizeKb": 944
+    },
+    {
+      "date": "2026-01-30",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Telogica Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 05/02/2026 ,inter alia, to consider and approve Un-Audited Financial Results Of The ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e3f99aaa-d01b-491e-858a-b885469f17c7.pdf",
+      "sizeKb": 763
+    },
+    {
+      "date": "2026-01-12",
+      "category": "Company Update",
+      "subcategory": "Resignation of Company Secretary / Compliance Officer",
+      "headline": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015, we wish to inform you that Mr. Khush Mohammed has resigned from the post of Company ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/65686e75-8276-42f0-a652-08a5782854e3.pdf",
+      "sizeKb": 1086
+    },
+    {
+      "date": "2026-01-07",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Compliances-certificate under Reg 74(5) of SEBI(DP) Regulations 2018.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8c2f3557-a72a-408e-b280-cbf0d524f7b8.pdf",
+      "sizeKb": 1099
+    },
+    {
+      "date": "2026-01-03",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "Pursuant to Regulation 30 and other applicable provisions of SEBI (LODR) Regulations, 2015 and in continuation to our intimations to BSE Limited dated 29th October 2025, 31st October 2025, ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/50f272c6-51f5-42a2-b59b-fcd56aabe8b2.pdf",
+      "sizeKb": 1685
+    },
+    {
+      "date": "2025-12-26",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Intimation of Closure of Trading Window",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3da698a0-e12f-4c69-a5ad-acbea1bd43b3.pdf",
+      "sizeKb": 658
+    },
+    {
+      "date": "2025-11-14",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "Announcement under Regulation 30 (LODR)-News paper publication",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e5c7d5fc-13ee-4a88-bbd2-365f2ece6957.pdf",
+      "sizeKb": 3039
+    },
+    {
+      "date": "2025-11-13",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Unaudited Financial results for the second qtr  and half year ended 30.09.2025 approved by the Board in its meeting held on 13.11.2025",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d8f02fa5-7666-44ff-b266-f492473784f1.pdf",
+      "sizeKb": 6420
+    },
+    {
+      "date": "2025-11-08",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Telogica Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2025 ,inter alia, to consider and approve Board Meeting Intimation for Board ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/574119b4-dbc9-4ab2-9fb7-61d43412acc5.pdf",
+      "sizeKb": 739
+    },
+    {
+      "date": "2025-11-06",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Devineni Rao",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6BD60067_D9E2_40B2_8266_056FEA75A712_100645.pdf",
+      "sizeKb": 1367
+    },
+    {
+      "date": "2025-11-06",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Devineni Venkateswara Rao",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5D0D3923_6FBC_4709_8A2E_8F9D9A77833B_093840.pdf",
+      "sizeKb": 1382
+    },
+    {
+      "date": "2025-11-06",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Devineni Venkateswara Rao",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/654C8A6C_7DB6_4E6B_988B_FB065E85E515_093726.pdf",
+      "sizeKb": 1367
+    },
+    {
+      "date": "2025-11-06",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Logiclinx Corporation",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8C497CE6_A696_4EE1_90D0_6CEEE6E76AAB_093627.pdf",
+      "sizeKb": 1082
+    },
+    {
+      "date": "2025-11-04",
+      "category": "Company Update",
+      "subcategory": "Allotment of Equity Shares",
+      "headline": "Apportionment of the amounts received from warrant holders belonging to promoter and non-promoter category against the warrants allotted on May 11, 2024, and allotment of 81,46,956 equity ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a16218bd-fe43-43d4-897e-5892188567a9.pdf",
+      "sizeKb": 3245
+    },
+    {
+      "date": "2025-11-04",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Logiclinx Corporation",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/BF41B78D_271B_4463_8048_CF51F3DE253B_110022.pdf",
+      "sizeKb": 1208
+    },
+    {
+      "date": "2025-11-04",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Logiclinx Corporation",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/E04DA804_C07A_4811_9BBB_A5F481746424_105845.pdf",
+      "sizeKb": 1366
+    },
+    {
+      "date": "2025-11-04",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Hari Krishna Reddy Kallam",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/13F05A51_8631_41B4_BE41_433C075CA4B3_105705.pdf",
+      "sizeKb": 1019
+    },
+    {
+      "date": "2025-11-04",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Srinivasa Rao Bodavula",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6B1DD9E4_0DCB_48AC_ABFD_AF8B75452958_105446.pdf",
+      "sizeKb": 680
+    },
+    {
+      "date": "2025-11-04",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Techmagix India Pvt Ltd",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4CCB2E91_6DA6_4A36_B784_1FBEE1961A1A_105228.pdf",
+      "sizeKb": 1667
+    },
+    {
+      "date": "2025-11-04",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Srinivasa Rao Mandava",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/704B81C3_091E_489D_83C5_F9E5C58E37D6_105039.pdf",
+      "sizeKb": 361
+    },
+    {
+      "date": "2025-11-01",
+      "category": "Company Update",
+      "subcategory": "Allotment of Equity Shares",
+      "headline": "Apportionment of the amounts received from warrant holders belonging to promoter and non-promoter category against the warrants allotted in the meeting held on May 11, 2024, and allotment ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5d02b844-1056-4554-a2f6-dbd611c4c1ae.pdf",
+      "sizeKb": 2943
+    },
+    {
+      "date": "2025-10-31",
+      "category": "Company Update",
+      "subcategory": "Allotment of Equity Shares",
+      "headline": "Apportionment of amounts received from Warrant Holders belonging to Non Promoter Category against warrants allotted in the meeting held on May 11, 2024, and Allotment of 4640290 equity ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ae874387-84af-442a-b042-c9e9bc83bbc3.pdf",
+      "sizeKb": 3296
+    },
+    {
+      "date": "2025-10-29",
+      "category": "Company Update",
+      "subcategory": "Allotment of Equity Shares",
+      "headline": "Apportionment of amounts received from Warrant Holders belonging to Promoter and Non-Promoter Category against warrants allotted in the meeting held on May 11, 2024, and Allotment of 1,40,62,754 ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b3b22557-2e9e-4a44-8d01-49fa3f5d4f0c.pdf",
+      "sizeKb": 4036
+    },
+    {
+      "date": "2025-10-14",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Compliance certificate under Regulation 74(5) of Securities Exchange Board of India (Depository Participants) Regulations, 2018, for the quarter ended on 30.09.2025.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2e7fe2be-914d-458c-b34f-4ad3203a0632.pdf",
+      "sizeKb": 235
+    },
+    {
+      "date": "2025-10-10",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "On December 19, 2023, the company has submitted an application to the exchange, seeking Re-classification of Promoters from 'Promoter category' to 'Public category'.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/28ae9eb9-19af-4c54-a565-af4fe5204a54.pdf",
+      "sizeKb": 857
+    },
+    {
+      "date": "2025-10-01",
+      "category": "AGM/EGM",
+      "subcategory": "AGM",
+      "headline": "We are hereby submitting the voting results along with the scrutinizer's report for the 30th Annual General Meeting of Telogica Limited.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/00001483-d5ed-4354-93d8-b9c8f705ebcc.pdf",
+      "sizeKb": 2223
+    },
+    {
+      "date": "2025-09-30",
+      "category": "Company Update",
+      "subcategory": "Change in Management",
+      "headline": "The Members of the company in their AGM held today i.e., Tuesday, September 30, 2025 has approved:  1. The re-appointment of Mr. Sreekanth Bolla (DIN: 05306196) as an Independent Director ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6fd94f91-957c-4ffb-8e7c-497f756ba525.pdf",
+      "sizeKb": 1267
+    },
+    {
+      "date": "2025-09-30",
+      "category": "AGM/EGM",
+      "subcategory": "AGM",
+      "headline": "We are hereby submitting the proceedings of the 30th Annual General Meeting of Telogica Limited held on Tuesday, September 30, 2025 through Video Conferencing (VC)/ Other Audio Visual Means (OAVM).",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/05a99f7a-b50a-4041-9ffa-d8d42edd3272.pdf",
+      "sizeKb": 1645
+    },
+    {
+      "date": "2025-09-30",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "The Trading Window for dealing in the securities of the company will remain closed from October 01, 2025 till 48 hours after the announcement of Standalone Un-audited Financial Results ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d1319a51-7e70-468d-b6fd-e53331ae576b.pdf",
+      "sizeKb": 457
+    },
+    {
+      "date": "2025-09-15",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Gangavaram Shailaja",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0A0EED26_3153_4495_AB80_E2A1DD0577C1_152041.pdf",
+      "sizeKb": 566
+    },
+    {
+      "date": "2025-09-08",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "We are hereby submitting the Newspaper Advertisement published in Financial Express (English  Language) and Andhra Prabha (Telugu Language) on 05th September, 2025 regarding dispatch of ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/28a8c118-a921-48aa-9c46-fad5501d53f3.pdf",
+      "sizeKb": 1471
+    },
+    {
+      "date": "2025-09-05",
+      "category": "Corp. Action",
+      "subcategory": "Book Closure",
+      "headline": "The Register of Members and the Share Transfer Books of the company will remain closed from Wednesday, September 24, 2025 to Tuesday, September 30, 2025 (both days inclusive) for the purpose ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3582994d-2268-46da-9264-cfa3427ea615.pdf",
+      "sizeKb": 95
+    },
+    {
+      "date": "2025-09-05",
+      "category": "AGM/EGM",
+      "subcategory": "AGM",
+      "headline": "The 30th Annual General Meeting of the company will be held on Tuesday, September 30, 2025 at 04:00 P.M. (IST) through video conferencing (VC) / Other Audio Visual Means (OAVM).",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b2751443-b8dc-4c4d-a78e-b4fe22be9c30.pdf",
+      "sizeKb": 143
+    },
+    {
+      "date": "2025-09-04",
+      "category": "Others",
+      "subcategory": "Reg. 34 (1) Annual Report",
+      "headline": "The 30th Annual Report of Telogica Limited for the financial year 2024-25 is being dispatched to the shareholders on September 04, 2025",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f02dbeed-03c2-488a-89a4-0cff1ac30f84.pdf",
+      "sizeKb": 3850
+    },
+    {
+      "date": "2025-08-14",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "We are hereby submitting copies of the Unaudited standalone financial results of the company for the first quarter ended on 30th June 2025, published in the following newspapers on August ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/127b574e-c9f5-44cc-ad6a-8061beafeb16.pdf",
+      "sizeKb": 8040
+    },
+    {
+      "date": "2025-08-12",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "We are hereby submitting the Un-audited Standalone Financial Results along with the Limited Review Report of the Company for the First Quarter ended on June 30, 2025.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/602f2859-cc47-48a6-9e90-be9cb9a4aaa7.pdf",
+      "sizeKb": 5179
+    },
+    {
+      "date": "2025-08-12",
+      "category": "Board Meeting",
+      "subcategory": "Outcome of Board Meeting",
+      "headline": "The Board of Directors of the company in its meeting held today i.e., on August 12, 2025 has considered and approved:  1. Un-audited Standalone Financial Results along with the Limited ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5dcac194-11e4-457f-b7dd-a0257db40818.pdf",
+      "sizeKb": 5179
+    },
+    {
+      "date": "2025-08-06",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Telogica Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 12/08/2025 ,inter alia, to consider and approve The Unaudited Standalone Financial ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/678e4d88-9f97-4e61-8d59-76c56863a0fb.pdf",
+      "sizeKb": 776
+    },
+    {
+      "date": "2025-07-09",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "We are hereby submitting the Compliance certificate issued by Bigshare Services Private Limited in compliance with Regulation 74(5) of SEBI (Depositories and Participants) Regulations, ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0862b51e-70b9-4744-a867-61443ddaf152.pdf",
+      "sizeKb": 620
+    },
+    {
+      "date": "2025-06-28",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "The Trading window for dealing in the securities of the company will remain closed from 01st July 2025 till 48 hours after the announcement of Standalone Un-audited Financial Results for ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/67db5812-a946-4e40-b41c-59db6de61639.pdf",
+      "sizeKb": 872
+    },
+    {
+      "date": "2025-06-03",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "We are submitting herewith the Trading Approval dated June 3, 2025 for 21,79,090 Equity shares (Face Value of Rs. 5/- each) allotted to Promoter and Non - Promoter pursuant to conversion ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e03bf54b-aeaa-49b8-8d8b-5c4f055ba100.pdf",
+      "sizeKb": 1058
+    },
+    {
+      "date": "2025-05-28",
+      "category": "Company Update",
+      "subcategory": "Reg.24(A)-Annual Secretarial Compliance",
+      "headline": "Annual Secretarial Compliance Report for FY 2024-25",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/eb46dd16-3cd8-4468-a868-67bd58cb458a.pdf",
+      "sizeKb": 4580
+    },
+    {
+      "date": "2025-05-24",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "Pursuant to the provisions of Regulations 33 and 47 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are submitting the clippings of fourth quarter and Annual ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3ac723cd-3db2-4ec5-aa46-a5f999d727f7.pdf",
+      "sizeKb": 3267
+    },
+    {
+      "date": "2025-05-23",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "The Board of Directors in its meeting held today i.e. on May 23, 2025 has recommended the appointment of M/s P S Rao & Associates, Company Secretaries as the Secretarial Auditors of the ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/016d55bf-af00-455b-a48e-f02dff841318.pdf",
+      "sizeKb": 5062
+    },
+    {
+      "date": "2025-05-23",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "We are hereby submitting the Audited Standalone Financial Results of the Company for the fourth quarter and the financial year ended on 31st March 2025.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5c621d13-6de5-4b42-ac6d-a18b4bc107bd.pdf",
+      "sizeKb": 5062
+    },
+    {
+      "date": "2025-05-23",
+      "category": "Board Meeting",
+      "subcategory": "Outcome of Board Meeting",
+      "headline": "The Board of Directors of the company in its meeting held today i.e., on May 23, 2025 has:  1. considered & approved the Audited Standalone Financial results of the Company for the fourth ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ada54044-1a23-4737-8421-07cbe14556b7.pdf",
+      "sizeKb": 5062
+    },
+    {
+      "date": "2025-05-23",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "This is to inform that our Company, Telogica Limited, has received \"Listing\" Approval dated May 22, 2025 from BSE Limited for 21,79,090 Equity Shares allotted on conversion of equivalent warrants.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2327b49f-b263-4b99-bd97-fcf9db926320.pdf",
+      "sizeKb": 424
+    },
+    {
+      "date": "2025-05-16",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Telogica Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 23/05/2025 ,inter alia, to consider and approve the Audited Standalone Financial Results ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5de58188-eeda-4fa3-ab0c-23c09b79f3c3.pdf",
+      "sizeKb": 746
+    },
+    {
+      "date": "2025-04-30",
+      "category": "Others",
+      "subcategory": "Format of the Initial Disclosure to be made by an entity identified as a Large Corporate : Annexure A",
+      "headline": "<b>Format of Initial Disclosure to be made by an entity identified as a Large Corporate.</b><br/><br/> <table border='1px'><tr> <td><b>Sr. No.</b></td> <td><b>Particulars</b></td> <td><b>Details</b></td> ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b7b1e722-0894-482c-a635-98f102923ba0.pdf",
+      "sizeKb": 903
+    },
+    {
+      "date": "2025-04-18",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "Pursuant to Regulation 30 and other applicable provisions of SEBI (LODR) Regulations, 2015 and in continuation to our intimation to BSE Limited dated March 31, 2025 w.r.t the allotment ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/cb1198cd-1714-4937-be03-baf1a4621ae6.pdf",
+      "sizeKb": 125
+    },
+    {
+      "date": "2025-04-10",
+      "category": "Others",
+      "subcategory": "Format of the Annual Disclosure to be made by an entity identified as a LC : Annexure B2",
+      "headline": "<b>Format of the Annual Disclosure to be made by an entity identified as a Large Corporate.</b><br/><br/> <table border='1px'>    <tr>       <td><b>Sr. No.</b></td>       <td><b>Particulars</b></td> ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1082b39a-4f80-41d3-b5ae-e515dc20c454.pdf",
+      "sizeKb": 903
+    },
+    {
+      "date": "2025-04-05",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Compliance certificate under Reg. 74(5) of SEBI(DP) Regulation for the quarter ended 31.03.2025",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/bc0cd744-8606-4f69-9a62-2dec77e275c5.pdf",
+      "sizeKb": 1238
+    },
+    {
+      "date": "2025-04-03",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Srinivasa Rao Mandava",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/A7562832_4A3B_4CA0_926E_5CC011F23861_100811.pdf",
+      "sizeKb": 805
+    },
+    {
+      "date": "2025-03-31",
+      "category": "Company Update",
+      "subcategory": "Allotment of Equity Shares",
+      "headline": "The Board of Directors in its meeting held on Monday, March 31, 2025 has considered and approved: 1. The apportionment of amounts received from the warrant holders against the warrants ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/59ed010c-f0f8-4fd2-b902-52edf4731173.pdf",
+      "sizeKb": 6588
+    },
+    {
+      "date": "2025-03-31",
+      "category": "Corp Action",
+      "subcategory": "Conversion of Securities",
+      "headline": "The Board of Directors in its meeting held on Monday, March 31, 2025 has considered and approved: 1. the apportionment of amounts received from warrant holders against the warrants allotted ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d3a886a2-cf46-4743-a52d-b9704caee56b.pdf",
+      "sizeKb": 6588
+    },
+    {
+      "date": "2025-03-31",
+      "category": "Company Update",
+      "subcategory": "Resignation of Director",
+      "headline": "The Board of Directors in its meeting held on Monday, March 31, 2025 has approved the resignation of Mr. Satish Kumar Maddineni from the office of Whole - time director w.e.f April 01, 2025",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a690c27e-5fdc-4c45-93de-c4aab0ecc54c.pdf",
+      "sizeKb": 6588
+    },
+    {
+      "date": "2025-03-31",
+      "category": "Company Update",
+      "subcategory": "Change in Management",
+      "headline": "The Board of Directors in its meeting held on Monday, March 31, 2025 has approved the resignation of Mr. Satish Kumar Maddineni from the office of Whole - time director, w.e.f April 1, 2025",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/929635d2-b987-4e92-b3ff-95e165294d0e.pdf",
+      "sizeKb": 6588
+    },
+    {
+      "date": "2025-03-31",
+      "category": "Others",
+      "subcategory": "Outcome without intimation",
+      "headline": "1. Accepted the resignation of Mr. Satish Kumar Maddineni (DIN: 03452107) from the Office of Whole Time Director of the Company w.e.f. April 01, 2025,   2. Approved the apportionment of ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9335ab17-9f79-4f65-8fe7-6388f7581d0b.pdf",
+      "sizeKb": 6588
+    },
+    {
+      "date": "2025-03-29",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "We are submitting herewith the \"Trading\" approval letter dated March 28, 2025 received from BSE limited for 77,00,000 Equity Shares allotted to Non - Promoters. The said Equity Shares are ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/53ea0d52-6171-4ec1-90e1-1bbe4e09e88d.pdf",
+      "sizeKb": 1059
+    },
+    {
+      "date": "2025-03-27",
+      "category": "Company Update",
+      "subcategory": "Resignation of Director",
+      "headline": "Intimation for resignation of Mr. M. Satish Kumar, executive director of the company",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7afcbf73-faf6-4f85-9547-34ed61d44ca1.pdf",
+      "sizeKb": 2272
+    },
+    {
+      "date": "2025-03-27",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Intimation of Closure of Trading Window",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5239e28c-1a48-40d4-88da-7c8317e8b66e.pdf",
+      "sizeKb": 848
+    },
+    {
+      "date": "2025-03-18",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "The company, Telogica Limited, has received \"Listing\" Approval dated March 18, 2025 from BSE Limited for 77,00,000 Equity shares allotted pursuant to conversion of 77,00,000 Convertible Warrants.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/dfca0dfe-4aac-44c9-9dbb-52da970cd876.pdf",
+      "sizeKb": 767
+    },
+    {
+      "date": "2025-02-11",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "Announcement under regulation 30 (LODR)- Newspaper publication",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2e9e135a-8c7d-4d33-b518-1f7f17b09565.pdf",
+      "sizeKb": 8186
+    },
+    {
+      "date": "2025-02-10",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Un audited Financial results for the qtr ended 31.12.2024",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2ed5dc0f-94ba-4213-8d7c-e8499d1f8d43.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2025-02-10",
+      "category": "Integrated Filing",
+      "subcategory": "Integrated Filing (Financial)",
+      "headline": "Integrated filing- for the qtr ended 31.12.2024",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e8756ded-b2f9-43ff-a049-cf34f265a7fb.pdf",
+      "sizeKb": 4526
+    },
+    {
+      "date": "2025-02-10",
+      "category": "Board Meeting",
+      "subcategory": "Outcome of Board Meeting",
+      "headline": "Board Meeting Outcome for Outcome BM With Unaudited FR For The Qtr Ended 31St December2024",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/cf693d89-0428-4e83-87f1-28017f64b6b3.pdf",
+      "sizeKb": 3955
+    },
+    {
+      "date": "2025-02-03",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Telogica Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 10/02/2025 ,inter alia, to consider and approve the un-audited financials of the company ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2e57b494-f5ce-4ee9-ad39-857a180c8b2b.pdf",
+      "sizeKb": 1001
+    },
+    {
+      "date": "2025-01-07",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Compliance Certificate  under Reg 74 (5) of SEBI (DP) Regulations",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1b1e245a-0198-4b46-8068-1e3d0d3a4d30.pdf",
+      "sizeKb": 2625
+    },
+    {
+      "date": "2025-01-04",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Hanuman Nandanampati",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/A4E960B6_C823_4C92_9C2D_7D24C05213EB_112529.pdf",
+      "sizeKb": 708
+    },
+    {
+      "date": "2025-01-02",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "We are hereby informing that our company has submitted an application to BSE Limited today i.e., 2nd January, 2025 for listing of 77,00,000 equity shares, post conversion of equal number of warrants.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4f53a3e4-d30e-4196-b31b-bca6813bca77.pdf",
+      "sizeKb": 428
+    },
+    {
+      "date": "2024-12-30",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Closure of Trading Window",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/48703e05-2a0d-40f4-bd92-093d4b8dcead.pdf",
+      "sizeKb": 850
+    },
+    {
+      "date": "2024-12-27",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Srinivasa Rao Mandava",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/D6222C56_E973_4C21_95A1_4ED19B6D2E7B_162057.pdf",
+      "sizeKb": 326
+    },
+    {
+      "date": "2024-12-23",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Venkateswara Rao Devineni",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/D93548E3_1205_48BC_AC50_F3658A9E182C_121835.pdf",
+      "sizeKb": 1465
+    },
+    {
+      "date": "2024-12-18",
+      "category": "Company Update",
+      "subcategory": "Allotment of Equity Shares",
+      "headline": "The Board of Directors in its meeting held today i.e., Wednesday, December 18, 2024 has considered and approved:    1. Apportionment of amounts received from warrant holders against the ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c7ddf03c-5d16-4f33-9572-04dd205c2e4a.pdf",
+      "sizeKb": 4359
+    },
+    {
+      "date": "2024-12-18",
+      "category": "Corp Action",
+      "subcategory": "Conversion of Securities",
+      "headline": "The Board of Directors in its meeting held today i.e., Wednesday, December 18, 2024 has considered and approved:    1. Apportionment of amounts received from warrant holders agianst the ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3a0f667f-9298-4099-8c1d-0dc1e9d4eab4.pdf",
+      "sizeKb": 4359
+    },
+    {
+      "date": "2024-12-18",
+      "category": "Others",
+      "subcategory": "Outcome without intimation",
+      "headline": "1. Apportionment of the amounts received from Warrant holders (mentioned in Table I) belonging to promoter and/or Non promoter category, against the warrants allotted in the Board Meeting ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ea07b0d8-cc02-4046-ac9d-b955f002ee32.pdf",
+      "sizeKb": 4359
+    },
+    {
+      "date": "2024-11-15",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "News paper publication regarding Financial results for the second quarter and half year ended 30.09.2024.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/cfab4b48-d774-4d2e-a4fb-b63c0dfe8439.pdf",
+      "sizeKb": 7450
+    },
+    {
+      "date": "2024-11-14",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Board Meeting outcome for Financial Results for the quarter ended 30.09.2024",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d3f618ed-bad9-4466-b641-d51dbde8d4ed.pdf",
+      "sizeKb": 16175
+    },
+    {
+      "date": "2024-11-05",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Telogica Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2024 ,inter alia, to consider and approve Telogica Limited,has informed BSE ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/64fffd14-e6d9-4018-bf0c-96d897adf4d0.pdf",
+      "sizeKb": 823
+    },
+    {
+      "date": "2024-10-08",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Compliance certificate under Reg74(5) of SEBI (DP) Regulation,2018",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5c5e4e94-8d6e-420b-89ae-221ce3f69cdf.pdf",
+      "sizeKb": 737
+    },
+    {
+      "date": "2024-09-30",
+      "category": "AGM/EGM",
+      "subcategory": "AGM",
+      "headline": "Out come, voting Results, Scrutinizer Report pertaining to 29th Annual General Meeting.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/df3a9b5b-2b60-4b7e-a1cb-8935339dcecb.pdf",
+      "sizeKb": 21866
+    },
+    {
+      "date": "2024-09-26",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Closure of Trading Window intimation",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/699e9464-7746-4847-bd44-81b9e4803ca5.pdf",
+      "sizeKb": 805
+    },
+    {
+      "date": "2024-09-24",
+      "category": "Company Update",
+      "subcategory": "Change in Management",
+      "headline": "Additional details for corporate announcement.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f98415ac-7257-415c-9d8e-12b9e0212097.pdf",
+      "sizeKb": 1616
+    },
+    {
+      "date": "2024-09-11",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Chilakalapati Peda Bapulu",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/955272D9_9823_4056_8C7A_F4324E522707_150558.pdf",
+      "sizeKb": 4645
+    },
+    {
+      "date": "2024-09-11",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Chilakalapati Peda Bapulu",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/D23F8E35_FA43_4DDA_A942_230C358756E9_121351.pdf",
+      "sizeKb": 1480
+    },
+    {
+      "date": "2024-09-10",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Chilakalapati Peda Bapulu",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/FC1B1AB6_0ED7_4A94_8F8A_B41B6DE018E3_165436.pdf",
+      "sizeKb": 4564
+    },
+    {
+      "date": "2024-09-09",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Chilakalapati Peda Bapulu",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/B3FAEFDE_F118_4B06_AA8A_F0B3C1B267BD_121201.pdf",
+      "sizeKb": 1304
+    },
+    {
+      "date": "2024-09-06",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "Submission of News paper publications with regard to date of Annual General Meeting , e-voting details and book closure.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d166ddf9-0be2-486d-9e5d-30dd952f762e.pdf",
+      "sizeKb": 9444
+    },
+    {
+      "date": "2024-09-04",
+      "category": "Others",
+      "subcategory": "Reg. 34 (1) Annual Report",
+      "headline": "In compliance with Regulation 34 of the SEBI (LODR) Regulations, 2015, Attached herewith Annual report of 29th Annual General Meeting ('AGM') of the Company to be held on Monday, September 30, 2024",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b6bdca0f-4d18-47e5-9bab-6a522b5fbc3e.pdf",
+      "sizeKb": 3313
+    },
+    {
+      "date": "2024-08-31",
+      "category": "Corp. Action",
+      "subcategory": "Book Closure",
+      "headline": "Intimation of Book Closure for 29th AGM",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/25a797b2-5391-445b-a102-8d40d548d89a.pdf",
+      "sizeKb": 680
+    },
+    {
+      "date": "2024-08-31",
+      "category": "AGM/EGM",
+      "subcategory": "AGM",
+      "headline": "Intimation of 29th Annual General meeting to be held on 30th September, 2024",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/678ec229-542b-46cb-aea7-718428c16b71.pdf",
+      "sizeKb": 834
+    },
+    {
+      "date": "2024-08-16",
+      "category": "Company Update",
+      "subcategory": "Change in Management",
+      "headline": "Change in Management",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2f053e1f-d6c3-468a-953a-8d5956002c40.pdf",
+      "sizeKb": 7907
+    },
+    {
+      "date": "2024-08-14",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "News paper Publication- Un audited financial results for the quarter ended 30.06.2024",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9dc51cc5-01ab-40ff-a0a8-22cc30f6856a.pdf",
+      "sizeKb": 7628
+    },
+    {
+      "date": "2024-08-13",
+      "category": "Company Update",
+      "subcategory": "Change in Management",
+      "headline": "Change in Management - Appointments, Resignations- Change in designations.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b1f2bc27-5fa2-4704-84b6-2e736f1934ce.pdf",
+      "sizeKb": 5092
+    },
+    {
+      "date": "2024-08-13",
+      "category": "Board Meeting",
+      "subcategory": "Outcome of Board Meeting",
+      "headline": "Board Meeting Outcome for Unaudited Financial Results 30-06-2024",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f1b3aaae-ce75-4299-b1d6-3dc957439e54.pdf",
+      "sizeKb": 12766
+    },
+    {
+      "date": "2024-08-05",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Telogica Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/08/2024 ,inter alia, to consider and approve Board Meeting Intimation for Considering ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8e59579a-f43f-449d-90d7-44e008f7b246.pdf",
+      "sizeKb": 957
+    },
+    {
+      "date": "2024-07-09",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Compliance certificate under Reg 74 (5) of SEBI(DP) Regulation, 2018",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/19c4efd0-0b84-4ea0-93f9-6087d6f18bfe.pdf",
+      "sizeKb": 1364
+    },
+    {
+      "date": "2024-06-28",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Intimation of closure of Trading WIndow",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/082919c7-5235-404f-bd6b-57b5e5dbc354.pdf",
+      "sizeKb": 992
+    },
+    {
+      "date": "2024-06-03",
+      "category": "Board Meeting",
+      "subcategory": "Outcome of Board Meeting",
+      "headline": "Business Objects",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9b9980ef-6264-4c4e-82e5-554ecaaa13ee.pdf",
+      "sizeKb": 366
+    },
+    {
+      "date": "2024-05-31",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Telogica Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 03/06/2024 ,inter alia, to consider and approve 1) Change of Company name  2) Expansion ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/40115e69-19c3-41c2-8c80-1134d7a5bf42.pdf",
+      "sizeKb": 1099
+    },
+    {
+      "date": "2024-05-30",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "News paper Publication of Audited Results for quarter and year ended 31.03.2024",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5d52eb7a-572d-4ebc-9777-9d1f3baadc4e.pdf",
+      "sizeKb": 1767
+    },
+    {
+      "date": "2024-05-29",
+      "category": "Company Update",
+      "subcategory": "Reg.24(A)-Annual Secretarial Compliance",
+      "headline": "Submission of Annual Compliance Secretarial  Report for the year ended 31st March, 2024",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b6d2f2d7-36aa-4e78-8717-2f40031ab82d.pdf",
+      "sizeKb": 13403
+    },
+    {
+      "date": "2024-05-28",
+      "category": "Company Update",
+      "subcategory": "Change in Management",
+      "headline": "Change in Management - Appointments- resignation- change in designations",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/90a28fe5-37cf-4d14-8831-06bc8fca3241.pdf",
+      "sizeKb": 17921
+    },
+    {
+      "date": "2024-05-28",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Board Meeting- Out come of Audited Results",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a544cddc-fab3-4454-8e57-495540144c94.pdf",
+      "sizeKb": 17921
+    },
+    {
+      "date": "2024-05-22",
+      "category": "Company Update",
+      "subcategory": "Board Meeting Rescheduled",
+      "headline": "Telogica Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 28/05/2024 ,inter alia, to consider and approve Board meeting  Intimation Of Preponement ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0f27547f-ea36-4a6c-80d1-4869b5d76478.pdf",
+      "sizeKb": 735
+    },
+    {
+      "date": "2024-05-22",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Telogica Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 30/05/2024 ,inter alia, to consider and approve Board Meeting intimation for consideration ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/41b74062-1029-4c70-b208-f791f42f5117.pdf",
+      "sizeKb": 676
+    },
+    {
+      "date": "2024-05-21",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Srinivasa Rao Bodavula",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/CCF9EE4E_C909_4A48_9FBB_51E49BC0F0B9_111308.pdf",
+      "sizeKb": 3460
+    },
+    {
+      "date": "2024-05-15",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Hanuman Nandanampati",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/685B94FB_9C8A_45CC_8BDA_C1EB2BC28DF0_104359.pdf",
+      "sizeKb": 550
+    },
+    {
+      "date": "2024-05-13",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(1) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(1) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Mandava Sriniavasa Rao",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2422E19F_F329_4883_9480_E6A4D36AAE15_122901.pdf",
+      "sizeKb": 279
+    },
+    {
+      "date": "2024-05-11",
+      "category": "Board Meeting",
+      "subcategory": "Outcome of Board Meeting",
+      "headline": "ALLOTMENT OF WARRANTS",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f10ff923-20d1-43a9-a6ea-90391517444b.pdf",
+      "sizeKb": 555
+    },
+    {
+      "date": "2024-05-09",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Telogica Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 11/05/2024 ,inter alia, to consider and approve Allotment of 5,00,00,000 warrants ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c224a6b3-0180-4411-b4b2-ca1300a269ec.pdf",
+      "sizeKb": 980
+    },
+    {
+      "date": "2024-04-23",
+      "category": "Company Update",
+      "subcategory": "Reg. 40 (10) - PCS Certificate for Transfer / Transmission / Transposition",
+      "headline": "Submission of certificate pursuant to Regulation 40(9) of SEBI(LODR) issued by the PCS.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/139e6c9a-4edd-434f-b4ea-a708a184e696.pdf",
+      "sizeKb": 788
+    },
+    {
+      "date": "2024-04-17",
+      "category": "Company Update",
+      "subcategory": "Reg. 7(3) \u2013 Compliance Certificate (RTA & Compliance Officer)",
+      "headline": "Compliance certificate under Regulation 7(3) of SEBI  LODR Regulations 2015 for the year ended 31.03.2024",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3bd4b8b5-77d5-4e41-88de-8838f357eae8.pdf",
+      "sizeKb": 818
+    },
+    {
+      "date": "2024-04-08",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Compliances - Certificate Under Reg 74(5) of SEBI Regulations,2018",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6010a880-61b1-4190-84f9-64923f490e40.pdf",
+      "sizeKb": 2038
+    },
+    {
+      "date": "2024-03-28",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Closure of Trading window",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1949a52b-03c0-44cb-874e-52a81ff8eb36.pdf",
+      "sizeKb": 754
+    },
+    {
+      "date": "2024-02-13",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "News Paper Publication",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/13542a4d-f400-4700-8c6e-6e78af4379c5.pdf",
+      "sizeKb": 7073
+    },
+    {
+      "date": "2024-02-12",
+      "category": "Board Meeting",
+      "subcategory": "Outcome of Board Meeting",
+      "headline": "Board Meeting Outcome for Unaudited Financial Results Of The Company For The Quarter And Nine Months Ended December 31, 2023",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/665e586a-340d-4451-8be7-749ade055ac3.pdf",
+      "sizeKb": 3654
+    },
+    {
+      "date": "2024-02-06",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Telogica Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 12/02/2024 ,inter alia, to consider and approve Telogica limited has informed BSE ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3f8b390e-9fbd-4e40-b50d-70127d66f3a8.pdf",
+      "sizeKb": 868
+    },
+    {
+      "date": "2024-01-24",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "Intimation for change of Email & website address of the Company.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ab221804-ca1b-41f9-af47-4080f643b8b9.pdf",
+      "sizeKb": 938
+    },
+    {
+      "date": "2024-01-08",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Compliance Certificate under Reg 74(5) of SEBI  (DP) Regulations 2018",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9f0340ab-1bf4-423f-8945-c37ebf5f3e3f.pdf",
+      "sizeKb": 1005
+    },
+    {
+      "date": "2023-12-28",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Closure of Trading Window",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/176b502d-4bc4-46cf-a7cf-2129472037b9.pdf",
+      "sizeKb": 652
+    },
+    {
+      "date": "2023-11-16",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "News paper publication of un audited financial results for the quarter ended 30.09.2023.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f463339a-9506-4236-bf31-e2ecf4a67a6d.pdf",
+      "sizeKb": 2284
+    },
+    {
+      "date": "2023-11-15",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Un audited Financial results for the quarter ended 30.09.2023",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/42681db8-e373-412c-a595-9f8e6d053a2d.pdf",
+      "sizeKb": 13247
+    },
+    {
+      "date": "2023-11-14",
+      "category": "Board Meeting",
+      "subcategory": "Outcome of Board Meeting",
+      "headline": "Un Audited Financial Results for the quarter and half year ended 30.09.2023.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/44aba7c7-41df-42b0-9313-0700fcd3ca5e.pdf",
+      "sizeKb": 11658
+    },
+    {
+      "date": "2023-11-06",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Aishwarya Technologies And Telecom Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2023 ,inter alia, to consider and approve Board Meeting ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/84162347-8fd6-46af-918c-189fc877a688.pdf",
+      "sizeKb": 253
+    },
+    {
+      "date": "2023-10-31",
+      "category": "Company Update",
+      "subcategory": "Change of Name",
+      "headline": "Intimation under Regulation 30 of the SEBI (LODR)Regulation 2015 (Listing Regulations - Change in Name of the Company",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/bc35f9c8-055f-4fed-bf3b-59d42cad300f.pdf",
+      "sizeKb": 516
+    },
+    {
+      "date": "2023-10-07",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Compliance cert- under 74(5) of SEBI (DP)  Regulation, 2018",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8f3b96b0-8797-4a38-8c4b-8009e77305f8.pdf",
+      "sizeKb": 839
+    },
+    {
+      "date": "2023-09-30",
+      "category": "AGM/EGM",
+      "subcategory": "AGM",
+      "headline": "Shareholder Meeting - Scrutinizer Report",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5af7277c-5b70-43c6-9445-7c9ec7a7e626.pdf",
+      "sizeKb": 3854
+    },
+    {
+      "date": "2023-09-30",
+      "category": "AGM/EGM",
+      "subcategory": "AGM",
+      "headline": "Shareholder Meeting/Postal Ballot- Outcome of AGM",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/08e5c089-34b1-4c09-95d0-dde591dcb72b.pdf",
+      "sizeKb": 7983
+    },
+    {
+      "date": "2023-09-29",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Closure of Trading Window",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/495c0ad6-c0fd-4c4e-a170-1e7c388a68b2.pdf",
+      "sizeKb": 679
+    },
+    {
+      "date": "2023-09-09",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "News paper Publicaton",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/fc7e21ae-02c2-4151-874f-0608cf53ccb6.pdf",
+      "sizeKb": 2056
+    },
+    {
+      "date": "2023-09-08",
+      "category": "Corp. Action",
+      "subcategory": "Book Closure",
+      "headline": "Intimation of Book Closure",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d1b42a45-628c-4b8c-b68c-f0849011a711.pdf",
+      "sizeKb": 509
+    },
+    {
+      "date": "2023-09-08",
+      "category": "Others",
+      "subcategory": "Reg. 34 (1) Annual Report",
+      "headline": "Annual report- 2022-23",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a573e8c0-5d43-4adb-af26-d1295d5dac5e.pdf",
+      "sizeKb": 958
+    },
+    {
+      "date": "2023-09-07",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "Out come of Board Meeting held on 07.09.2023",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/fc9b6e44-f3cc-4e11-b0f9-72f4bb99fb5e.pdf",
+      "sizeKb": 369
+    },
+    {
+      "date": "2023-08-30",
+      "category": "Company Update",
+      "subcategory": "Change in Registered Office Address",
+      "headline": "Change in Registered Office",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6e912ce3-b353-4a7a-8071-22ab64235e33.pdf",
+      "sizeKb": 219
+    },
+    {
+      "date": "2023-08-16",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "News Paper Publication- Unaudited Financial Results- 30.06.2023",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d99b9a58-b3bf-4839-b6d9-687f82028677.pdf",
+      "sizeKb": 16725
+    },
+    {
+      "date": "2023-08-14",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Out come of the board meeting - unaudited quartely results for the period ended 30th June 2023",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0de9a0d1-89ba-4f39-a7e6-9eaa3ee5a480.pdf",
+      "sizeKb": 2156
+    },
+    {
+      "date": "2023-08-07",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Aishwarya Technologies And Telecom Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/08/2023 ,inter alia, to consider and approve Board Meeting ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6c007683-86bb-48b4-a17a-5756d16ae543.pdf",
+      "sizeKb": 1598
+    },
+    {
+      "date": "2023-08-04",
+      "category": "Company Update",
+      "subcategory": "Change of Name",
+      "headline": "A Meeting of the Board of directors of the company was held today on 03rd Day of August 2023 at 03.00 PM. wherein the board proposed to change the name of the company from M/s. Aishwarya ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f3e6b1e4-c1ec-4aff-995a-6658142dbabd.pdf",
+      "sizeKb": 259
+    },
+    {
+      "date": "2023-07-06",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Compliances Certificate under Reg 74(5) of SEBI (DP) Regulation",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0584f5c0-7b0c-43e2-9f2f-99df32dd6bbf.pdf",
+      "sizeKb": 5931
+    },
+    {
+      "date": "2023-06-29",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Closure of Trading Window",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4850e91d-ec75-4470-9306-5aa1109fe6c6.pdf",
+      "sizeKb": 1428
+    },
+    {
+      "date": "2023-06-17",
+      "category": "Others",
+      "subcategory": "Outcome without intimation",
+      "headline": "Intimation pursuant to Regulation 31A of SEBl (Listing Obligations and Disclosure Requirements) Regulations, 2015 (SEBI Listing Regulations)",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4b506866-3880-43c7-a978-9d41fb6b3be8.pdf",
+      "sizeKb": 2111
+    },
+    {
+      "date": "2023-06-01",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "News paper Publication",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/615309ec-6df1-4caf-beb4-09b84165db1c.pdf",
+      "sizeKb": 17745
+    },
+    {
+      "date": "2023-05-31",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Audited Financial results for the quarter and year ended 31.03.2023",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4766080e-8eea-460f-a0ac-7f189d2f579a.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2023-05-30",
+      "category": "Company Update",
+      "subcategory": "Reg.24(A)-Annual Secretarial Compliance",
+      "headline": "Compliances- 24(A) Annual Secretarial Compliance",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f4dda90f-c09f-4cf3-b15f-f4b609705187.pdf",
+      "sizeKb": 17993
+    },
+    {
+      "date": "2023-05-27",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Mrs Gangavaram Amulya Reddy",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/984A948A_0929_4A94_94F0_A41674188231_161157.pdf",
+      "sizeKb": 151
+    },
+    {
+      "date": "2023-05-23",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Mandava Srinivasa Rao",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/66DA19E8_C029_416A_835A_121943B45FC6_144909.pdf",
+      "sizeKb": 273
+    },
+    {
+      "date": "2023-05-23",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Mandava Srinivasa Rao",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/25A45001_A3EC_4406_8954_105A127A308F_114903.pdf",
+      "sizeKb": 648
+    },
+    {
+      "date": "2023-05-16",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Aishwarya Technologies And Telecom Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 30/05/2023 ,inter alia, to consider and approve Intimation ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/23b2efb6-546a-466d-b4b3-b42924278f93.pdf",
+      "sizeKb": 1688
+    },
+    {
+      "date": "2023-05-15",
+      "category": "AGM/EGM",
+      "subcategory": "EGM",
+      "headline": "Outcome of EGM",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/176c6a6e-2b81-4c24-9c86-58cce8b3c97f.pdf",
+      "sizeKb": 2522
+    },
+    {
+      "date": "2023-05-15",
+      "category": "AGM/EGM",
+      "subcategory": "EGM",
+      "headline": "EGM- CORRIGENDIUM",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4c8a60be-1df9-4b55-97d9-196f83a12b1f.pdf",
+      "sizeKb": 17330
+    },
+    {
+      "date": "2023-05-13",
+      "category": "AGM/EGM",
+      "subcategory": "EGM",
+      "headline": "EGM - corrigendum",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b9a5e572-dc80-428d-a01a-ad03872a4073.pdf",
+      "sizeKb": 5337
+    },
+    {
+      "date": "2023-05-09",
+      "category": "AGM/EGM",
+      "subcategory": "EGM",
+      "headline": "EGM CORRIGENDUM - NEWS PAPER PUBLICATION",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/002075b4-d66b-4d1b-991e-ef07071eb9b3.pdf",
+      "sizeKb": 1523
+    },
+    {
+      "date": "2023-05-08",
+      "category": "AGM/EGM",
+      "subcategory": "EGM",
+      "headline": "EGM CORRIGENDUM",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5bbd18c5-1e52-45e7-a589-0c35c3f2f0be.pdf",
+      "sizeKb": 8324
+    },
+    {
+      "date": "2023-05-06",
+      "category": "Company Update",
+      "subcategory": "Change in Directorate",
+      "headline": "Appointment of Non executive independent director and change in directorate",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5c2f5e2c-3afb-429c-baad-6a61474c2279.pdf",
+      "sizeKb": 3910
+    },
+    {
+      "date": "2023-05-02",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Gangavaram Amulya Reddy",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/D91F3928_EBEF_4179_8832_8639EB450CBF_153936.PDF",
+      "sizeKb": 154
+    },
+    {
+      "date": "2023-04-29",
+      "category": "Company Update",
+      "subcategory": "Reg. 40 (10) - PCS Certificate for Transfer / Transmission / Transposition",
+      "headline": "Compliance 40 (9)",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f222d2bb-b618-4f93-b1c6-39f86e1a7e91.pdf",
+      "sizeKb": 12045
+    },
+    {
+      "date": "2023-04-27",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Gangavaram Rama Manohar Reddy",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/12606F5A_FBAD_4712_ACDC_29E10E1A4B22_175914.pdf",
+      "sizeKb": 859
+    },
+    {
+      "date": "2023-04-27",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Gangavaram Rama Manohar Reddy",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/46BCA077_D540_45B4_BBA0_9D1ACE8513A9_175758.pdf",
+      "sizeKb": 874
+    },
+    {
+      "date": "2023-04-27",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Gangavaram Rama Manohar Reddy",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/DD780C94_FA66_4E18_AB2C_AF124CC6E77D_175652.pdf",
+      "sizeKb": 877
+    },
+    {
+      "date": "2023-04-25",
+      "category": "Company Update",
+      "subcategory": "Press Release / Media Release",
+      "headline": "News paper Publication of Notice of EGM",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/21897fad-2dd6-407e-9feb-eb36acb2937f.pdf",
+      "sizeKb": 29212
+    },
+    {
+      "date": "2023-04-24",
+      "category": "AGM/EGM",
+      "subcategory": "EGM",
+      "headline": "Extra Ordinary General Meeting",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/028ed164-e116-4253-b80c-d97306c7f2c7.pdf",
+      "sizeKb": 5489
+    },
+    {
+      "date": "2023-04-22",
+      "category": "Company Update",
+      "subcategory": "Preferential Issue",
+      "headline": "In supersession to the two resolutions passed in the prevision Board Meeting held on 16.02.2023, the Board proposed to Increase its Authorized Capital to Rs. 40,00,00,000 (Rs Forty Crores ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/dad8c181-7f6f-451f-ad05-d2e1d572eadd.pdf",
+      "sizeKb": 1743
+    },
+    {
+      "date": "2023-04-21",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Mandava Srinivasa Rao",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/832048B3_DC50_4440_8D7A_B19C362C8765_103205.pdf",
+      "sizeKb": 650
+    },
+    {
+      "date": "2023-04-21",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+      "headline": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Mandava Srinivasa Rao",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/64F5C9C6_C7E5_46FC_AD9E_831421E592AF_103053.pdf",
+      "sizeKb": 648
+    },
+    {
+      "date": "2023-04-20",
+      "category": "Company Update",
+      "subcategory": "Reg. 7(3) \u2013 Compliance Certificate (RTA & Compliance Officer)",
+      "headline": "Compliance Certificate",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b929e612-f027-44b4-9820-02309784f91d.pdf",
+      "sizeKb": 10529
+    },
+    {
+      "date": "2023-04-07",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b2cfc67b-d539-45af-a3fe-f6231fc6ebf5.pdf",
+      "sizeKb": 1712
+    },
+    {
+      "date": "2023-03-28",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Announcement regarding closure of trading window for the quarter and year ended 31.03.2023.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7358afe3-91e6-48a1-8c90-b279122a0a74.pdf",
+      "sizeKb": 414
+    },
+    {
+      "date": "2023-02-17",
+      "category": "Board Meeting",
+      "subcategory": "Outcome of Board Meeting",
+      "headline": "Increase of Authorised Capital, Reclassification of Promoters to Public, Warrants",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/18f6ea99-0d65-49c6-a403-c5a6a1860a24.pdf",
+      "sizeKb": 6373
+    },
+    {
+      "date": "2023-02-16",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "Announcement under Regulation 30 (LODR)-Newspaper Publication- for the quarter ended 31.12.2022",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/86c6305e-e924-4a0a-aa65-ba5ccea2a029.pdf",
+      "sizeKb": 16642
+    },
+    {
+      "date": "2023-02-14",
+      "category": "Board Meeting",
+      "subcategory": "Outcome of Board Meeting",
+      "headline": "In furtherance to our letter dated 06.02.2023, with respect to the issuance of securities, we wish to inform you that the Board of Directors of the Company (the \"Board\") has deferred this ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/43327531-59d8-4306-940b-b88a9e0445aa.pdf",
+      "sizeKb": 538
+    },
+    {
+      "date": "2023-02-14",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Quarterly unaudited results as on 31/12/2022",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/811db9d4-79dd-4ca7-9a0e-a5e2753b06be.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2023-02-10",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Aishwarya Technologies And Telecom Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 16/02/2023 ,inter alia, to consider and approve   1. Considering ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/96464b7b-54af-4cfc-937f-0f05f043260d.pdf",
+      "sizeKb": 2012
+    },
+    {
+      "date": "2023-02-08",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "Re classification of shareholding from promoters to public intimation",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/44a61195-b4bb-415f-afa5-88152fe42c18.pdf",
+      "sizeKb": 6159
+    },
+    {
+      "date": "2023-02-06",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Aishwarya Technologies And Telecom Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/02/2023 ,inter alia, to consider and approve Update on board meeting",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2155c0ed-ef37-49c7-abab-aede5dd57444.pdf",
+      "sizeKb": 2340
+    },
+    {
+      "date": "2023-02-06",
+      "category": "Company Update",
+      "subcategory": "Resignation of Director",
+      "headline": "Board of Director Resignation",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/291b74ea-9c2a-4b81-888c-0747ea19fcbe.pdf",
+      "sizeKb": 3330
+    },
+    {
+      "date": "2023-02-01",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Aishwarya Technologies And Telecom Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/02/2023 ,inter alia, to consider and approve Approval ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/399cfac2-5fcf-4f3d-a63b-b60e43a330d3.pdf",
+      "sizeKb": 1685
+    },
+    {
+      "date": "2023-01-11",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Compliance Certificate under Regulation 74(5) of SEBI (Depositories &Participants) Regulations, 2018, for the quarter ended 31.12.2022",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6fb47823-ed76-498c-b2e7-6109db0fe32e.pdf",
+      "sizeKb": 1050
+    },
+    {
+      "date": "2022-12-27",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Closure of trading window for quarter ended 31.12.2022",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/fc98ed85-7ad9-4efb-8d10-f6c016b82c41.pdf",
+      "sizeKb": 1456
+    },
+    {
+      "date": "2022-12-27",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Rectified financials for the quarter ended 30.09.2022.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/816bc999-1d25-4015-a03b-840f904a3ee6.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2022-11-26",
+      "category": "Company Update",
+      "subcategory": "Open Offer",
+      "headline": "Finshore Management Services Ltd (\"Manager to the Offer\") has submitted to BSE a copy of Post Offer Advertisement under Regulation 18(12) in terms of SEBI (Substantial Acquisition of Shares ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5A56C9F0-C785-4C5D-8E25-21E1CA1F26D6-142851.pdf",
+      "sizeKb": 739
+    },
+    {
+      "date": "2022-11-25",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "RPT for half year ended 30.09.2022",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/12fd675b-7d6c-4581-b2fc-9119f13fd1be.pdf",
+      "sizeKb": 1248
+    },
+    {
+      "date": "2022-11-17",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "Newspaper publication",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e0f009fd-82ff-460d-a936-c807c195c48d.pdf",
+      "sizeKb": 2598
+    },
+    {
+      "date": "2022-11-14",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Unaudited results for quarter & half year ended 30.09.2022",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/26932eac-2d45-40cc-a04b-1a065e663a0f.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2022-11-05",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Aishwarya Technologies And Telecom Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/11/2022 ,inter alia, to consider and approve   1. Unaudited ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/bc532385-7cc2-4b38-bc6d-dd126f327abd.pdf",
+      "sizeKb": 243
+    },
+    {
+      "date": "2022-11-03",
+      "category": "Company Update",
+      "subcategory": "Open Offer",
+      "headline": "Finshore Management Services Ltd (\"Manager to the Offer\") has submitted to BSE a copy of Advertisement under Regulation 18 (7) in terms of SEBI (Substantial Acquisition of Shares and Takeovers) ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5AC2E89D-D210-4DE7-AC61-7FCCB6E065F1-180812.pdf",
+      "sizeKb": 305
+    },
+    {
+      "date": "2022-10-28",
+      "category": "Company Update",
+      "subcategory": "Open Offer",
+      "headline": "Aishwarya Technologies And Telecom Ltd has submitted to BSE a copy of the Recommendations of the Committee of Independent Directors (\"IDC\") of Aishwarya Technologies and Telecom Ltd.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/E878C632-1118-4F53-B39D-2BB6377A8A0C-171639.pdf",
+      "sizeKb": 5263
+    },
+    {
+      "date": "2022-10-27",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "Finshore Management Services Ltd (\"Manager to the Offer\") has submitted to BSE a copy of the Letter of Offer with regard to the Open Offer to the Shareholders of Aishwarya Technologies ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/D6C4D4B5-8678-4736-99E7-EC2CEB928DFD-175055.pdf",
+      "sizeKb": 1810
+    },
+    {
+      "date": "2022-10-15",
+      "category": "Company Update",
+      "subcategory": "Reg. 13(3) - Statement of Investor Complaints",
+      "headline": "<table border='1'><tr bgcolor='#d6d6d6'><th class='TTRow_left'> No.of Investor complaints pending at the beginning of the quarter </th><th class='TTRow'> No.of Investor complaints received during the quarter</th><th class='TTRow'> No.of Investor complaints disposed of during the quarter </th><th class='TTRow'> No.of Investor complaints unresolved at the end of the quarter </th></tr><tr><td class='TTRow'>0</td><td class='TTRow'>0</td><td class='TTRow'>0</td><td class='TTRow'>0</td></tr></table><table border='1'><tr><td  > <span style='font-weight:bold'>Name of the Signatory </span> </td><td> :- </td><td>khush mohammad</td></tr><tr><td  ><span style='font-weight:bold'>Designation </span></td><td> :- </td><td>Company Secretary and Compliance Officer</td></tr></table>",
+      "pdf": "",
+      "sizeKb": null
+    },
+    {
+      "date": "2022-10-13",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Compliance Certificate under Reg 74 (5)",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a1a5be82-7875-41ac-a2cb-eb9410115cda.pdf",
+      "sizeKb": 837
+    },
+    {
+      "date": "2022-10-01",
+      "category": "AGM/EGM",
+      "subcategory": "AGM",
+      "headline": "Outcome of 27\" Annual General Meeting held on 30.09.2022",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d1125082-835c-4973-acae-48ce08535e4d.pdf",
+      "sizeKb": 7055
+    },
+    {
+      "date": "2022-09-29",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Closure of Trading Window",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a5486ad5-5c98-4058-8c34-8a4ecf1adc13.pdf",
+      "sizeKb": 428
+    },
+    {
+      "date": "2022-09-08",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "Newspaper publication for AGM",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ab92a269-57bb-4b26-a090-a6727a8eb572.pdf",
+      "sizeKb": 1811
+    },
+    {
+      "date": "2022-09-08",
+      "category": "Corp. Action",
+      "subcategory": "Book Closure",
+      "headline": "Intimation of Book Closure for 27th AGM for the Financial Year-2021-22",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b5bacfc9-8722-4317-a9b0-f03fa7cafa78.pdf",
+      "sizeKb": 776
+    },
+    {
+      "date": "2022-09-08",
+      "category": "Others",
+      "subcategory": "Reg. 34 (1) Annual Report",
+      "headline": "Annual Report for the financial year 2021-22",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6e8cb21d-6e12-43ee-8d46-658bfd846f9b.pdf",
+      "sizeKb": 1349
+    },
+    {
+      "date": "2022-09-02",
+      "category": "Company Update",
+      "subcategory": "Open Offer - Updates",
+      "headline": "open offer announcement",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f4313f7c-1e28-449f-bdbd-5d25a861d7e7.pdf",
+      "sizeKb": 178
+    },
+    {
+      "date": "2022-08-24",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "Finshore Management Services Ltd (\"Manager to the Offer\") has submitted to BSE a copy of Draft Letter of Offer for the attention of the Public Shareholders of Aishwarya Technologies And ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/671013A7-92B8-4E0E-8EE8-EB74BB05009B-091913.pdf",
+      "sizeKb": 1768
+    },
+    {
+      "date": "2022-08-20",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "Unaudited Financial Results for the quarter ended 30.06.2022.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5b642ddf-4d3f-4fc6-91d7-e8147db413ee.pdf",
+      "sizeKb": 3473
+    },
+    {
+      "date": "2022-08-18",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Board approved Un audited results for the quarter ended 30.06.2022",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/885968d4-3482-42ce-bee8-c7564641fab7.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2022-08-14",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Delay in financial results",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/17057546-f6ae-4a98-89a2-9f6ba6bd7ee8.pdf",
+      "sizeKb": 68
+    },
+    {
+      "date": "2022-08-12",
+      "category": "Company Update",
+      "subcategory": "Open Offer",
+      "headline": "Finshore Management Services Ltd (\"Manager to the Offer\") has submitted to BSE a copy of Detailed Public Statement under Regulation 15(2) read with Regulation 13(4) of SEBI (Substantial ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/460E03EE-8481-4EE0-9358-EBB5ECB03F49-134736.pdf",
+      "sizeKb": 817
+    },
+    {
+      "date": "2022-08-08",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Aishwarya Technologies And Telecom Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/08/2022 ,inter alia, to consider and approve Approval ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5119ce43-03bd-4a0d-925b-a32eafdcc876.pdf",
+      "sizeKb": 429
+    },
+    {
+      "date": "2022-08-05",
+      "category": "Company Update",
+      "subcategory": "Open Offer",
+      "headline": "Finshore Management Services Ltd (\"Manager to the Offer\") has submitted to BSE a copy of Public Announcement under Regulations 13(1) and 15(1) and SEBI (Substantial Acquisition of Shares ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/255CF24F-7006-4E42-82DA-2ED25C965A39-090626.pdf",
+      "sizeKb": 732
+    },
+    {
+      "date": "2022-07-21",
+      "category": "Company Update",
+      "subcategory": "Reg. 13(3) - Statement of Investor Complaints",
+      "headline": "<table border='1'><tr bgcolor='#d6d6d6'><th class='TTRow_left'> No.of Investor complaints pending at the beginning of the quarter </th><th class='TTRow'> No.of Investor complaints received during the quarter</th><th class='TTRow'> No.of Investor complaints disposed of during the quarter </th><th class='TTRow'> No.of Investor complaints unresolved at the end of the quarter </th></tr><tr><td class='TTRow'>0</td><td class='TTRow'>0</td><td class='TTRow'>0</td><td class='TTRow'>0</td></tr></table><table border='1'><tr><td  > <span style='font-weight:bold'>Name of the Signatory </span> </td><td> :- </td><td>Mr Khush Mohammad</td></tr><tr><td  ><span style='font-weight:bold'>Designation </span></td><td> :- </td><td>Company Secretary and Compliance Officer</td></tr></table>",
+      "pdf": "",
+      "sizeKb": null
+    },
+    {
+      "date": "2022-07-14",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Compliances under regulation 74(5) of SEBI (DP) Regulations, 2018.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/37741c5a-4712-421a-8d7e-2f6f8e65c96e.pdf",
+      "sizeKb": 1019
+    },
+    {
+      "date": "2022-06-30",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Closure of trading window",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8d54d2f9-f7fa-43f1-8479-675d3e5f16ce.pdf",
+      "sizeKb": 371
+    },
+    {
+      "date": "2022-06-21",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Disclosure of Related Party Transactions on Standalone basis for the half year ended  March 31,2022.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/63370cf2-31f8-42b7-82d5-202128e7a7b0.pdf",
+      "sizeKb": 261
+    },
+    {
+      "date": "2022-06-16",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "Paper Advertisement for the financial results for the quarter and year ended 31.03.2022",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c682ab4d-d452-4608-9da6-78e14f44f228.pdf",
+      "sizeKb": 798
+    },
+    {
+      "date": "2022-06-09",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Audited financial results for the quarter and year ended 31.O3.2022.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e954c3fe-4324-40dd-9c6f-384015e0e4cb.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2022-05-30",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Delay in financial results",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9dc74eea-69f4-4858-bd96-81dd7d0f0274.pdf",
+      "sizeKb": 507
+    },
+    {
+      "date": "2022-05-30",
+      "category": "Company Update",
+      "subcategory": "Reg.24(A)-Annual Secretarial Compliance",
+      "headline": "Secretarial Compliance report for the year 2021-22.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/81ee4acd-7816-4590-9a5b-987cdc8c19a4.pdf",
+      "sizeKb": 1559
+    },
+    {
+      "date": "2022-05-23",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Aishwarya Technologies And Telecom Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 30/05/2022 ,inter alia, to consider and approve Audited ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/087ec68d-ad4c-4ac7-b49a-f3e232e09cfa.pdf",
+      "sizeKb": 468
+    },
+    {
+      "date": "2022-04-30",
+      "category": "Others",
+      "subcategory": "Format of the Initial Disclosure to be made by an entity identified as a Large Corporate : Annexure A",
+      "headline": "<b>Format of Initial Disclosure to be made by an entity identified as a Large Corporate.</b><br/><br/> <table border='1px'><tr> <td><b>Sr. No.</b></td> <td><b>Particulars</b></td> <td><b>Details</b></td> ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/86f772be-2a2b-4799-a209-797647298b4c.pdf",
+      "sizeKb": 55
+    },
+    {
+      "date": "2022-04-22",
+      "category": "Company Update",
+      "subcategory": "Reg. 40 (10) - PCS Certificate for Transfer / Transmission / Transposition",
+      "headline": "Disclosure under Regulation 40(9) of SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/59362fc3-957e-468c-8dbd-514aa3d0e45c.pdf",
+      "sizeKb": 892
+    },
+    {
+      "date": "2022-04-22",
+      "category": "Company Update",
+      "subcategory": "Reg. 7(3) \u2013 Compliance Certificate (RTA & Compliance Officer)",
+      "headline": "Compliance under regulation 7(3) of SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015 for the financial year ended 31.03.2022",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c5aa6708-4de2-498d-b54d-b05de256de57.pdf",
+      "sizeKb": 956
+    },
+    {
+      "date": "2022-04-20",
+      "category": "Company Update",
+      "subcategory": "Reg. 13(3) - Statement of Investor Complaints",
+      "headline": "<table border='1'><tr bgcolor='#d6d6d6'><th class='TTRow_left'> No.of Investor complaints pending at the beginning of the quarter </th><th class='TTRow'> No.of Investor complaints received during the quarter</th><th class='TTRow'> No.of Investor complaints disposed of during the quarter </th><th class='TTRow'> No.of Investor complaints unresolved at the end of the quarter </th></tr><tr><td class='TTRow'>0</td><td class='TTRow'>0</td><td class='TTRow'>0</td><td class='TTRow'>0</td></tr></table><table border='1'><tr><td  > <span style='font-weight:bold'>Name of the Signatory </span> </td><td> :- </td><td>Khush Mohammad</td></tr><tr><td  ><span style='font-weight:bold'>Designation </span></td><td> :- </td><td>Company Secretary and Compliance Officer</td></tr></table>",
+      "pdf": "",
+      "sizeKb": null
+    },
+    {
+      "date": "2022-04-14",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Submission of Compliances certificate under 74(5) regulation, 2018",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d8bfc621-a5eb-4b05-8488-683d9d41e7f7.pdf",
+      "sizeKb": 892
+    },
+    {
+      "date": "2022-03-29",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Closure of trading window under SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6650ba26-5fe4-4292-a878-bc05f16c3aef.pdf",
+      "sizeKb": 57
+    },
+    {
+      "date": "2022-02-19",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "un audited financial results for the quarter ended december, 2021",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/712c3305-a33c-4ca5-8f54-d8521d67a7a3.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2022-02-14",
+      "category": "Company Update",
+      "subcategory": "Board Meeting Rescheduled",
+      "headline": "Aishwarya Technologies And Telecom Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 19/02/2022 ,inter alia, to consider and approve unaudited ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9189aebd-49e4-4e08-8592-b6e223ee5ecd.pdf",
+      "sizeKb": 54
+    },
+    {
+      "date": "2022-02-03",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Aishwarya Technologies And Telecom Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/02/2022 ,inter alia, to consider and approve Un-audited ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/bfe536fa-e549-432a-8b20-ba0d5e79972d.pdf",
+      "sizeKb": 58
+    },
+    {
+      "date": "2022-01-21",
+      "category": "Company Update",
+      "subcategory": "Shareholding",
+      "headline": "Aishwarya Technologies And Telecom Ltd has submitted to BSE the Shareholding Pattern for the Period Ended December 31, 2021. For more details, kindly <a href=\"http://www.bseindia.com/corporates/shpSecurities.aspx?scripcd=532975&qtrid=112.00\">Click ....",
+      "pdf": "",
+      "sizeKb": null
+    },
+    {
+      "date": "2022-01-20",
+      "category": "Company Update",
+      "subcategory": "Reg. 13(3) - Statement of Investor Complaints",
+      "headline": "<table border='1'><tr bgcolor='#d6d6d6'><th class='TTRow_left'> No.of Investor complaints pending at the beginning of the quarter </th><th class='TTRow'> No.of Investor complaints received during the quarter</th><th class='TTRow'> No.of Investor complaints disposed of during the quarter </th><th class='TTRow'> No.of Investor complaints unresolved at the end of the quarter </th></tr><tr><td class='TTRow'>0</td><td class='TTRow'>0</td><td class='TTRow'>0</td><td class='TTRow'>0</td></tr></table><table border='1'><tr><td  > <span style='font-weight:bold'>Name of the Signatory </span> </td><td> :- </td><td>Khush Mohammad</td></tr><tr><td  ><span style='font-weight:bold'>Designation </span></td><td> :- </td><td>Company Secretary and Compliance Officer</td></tr></table>",
+      "pdf": "",
+      "sizeKb": null
+    },
+    {
+      "date": "2022-01-20",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Compliance Certificate under Regulation 74(5) of SEBI (Depositories & Participants) Regulations, 2018 for quarter ended 31.12.2021",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e6d7ceee-1bda-415e-bc76-7d348eedd544.pdf",
+      "sizeKb": 426
+    },
+    {
+      "date": "2021-12-31",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Trading window closure",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/381280c8-e823-4899-b457-3fb4734c9873.pdf",
+      "sizeKb": 54
+    },
+    {
+      "date": "2021-11-15",
+      "category": "Company Update",
+      "subcategory": "Newspaper Publication",
+      "headline": "Publication of unaudited Financial Results for the quarter and half year ended 30.09.2021.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/016453ac-6bcc-413c-ab05-8b7179ba1bcb.pdf",
+      "sizeKb": 14577
+    },
+    {
+      "date": "2021-11-13",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Disclosure of Related Party Transactions under Regulation 23(9) of SEBI(LODR) Regulation, 2015",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/05092cd7-963e-415a-b963-adeb7e6cd207.pdf",
+      "sizeKb": 902
+    },
+    {
+      "date": "2021-11-13",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Unaudited financial results for the quarter and half-year ended 30.09.2021",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/191ee43e-b33c-4450-94b1-b45d32a29623.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2021-11-03",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Aishwarya Technologies And Telecom Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2021 ,inter alia, to consider and approve Unaudited ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3421b49e-09fa-4cfd-ab9e-e940553c36a6.pdf",
+      "sizeKb": 428
+    },
+    {
+      "date": "2021-10-20",
+      "category": "Company Update",
+      "subcategory": "Shareholding",
+      "headline": "Aishwarya Technologies And Telecom Ltd has submitted to BSE the Shareholding Pattern for the Period Ended September 30, 2021. For more details, kindly <a href=\"http://www.bseindia.com/corporates/shpSecurities.aspx?scripcd=532975&qtrid=111.00\">Click ....",
+      "pdf": "",
+      "sizeKb": null
+    },
+    {
+      "date": "2021-10-20",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Certificate u/r 74(5) of SEBI (DP) Regulations, 2018",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ff2b0998-7384-47af-a831-bd2a8b063054.pdf",
+      "sizeKb": 616
+    },
+    {
+      "date": "2021-10-20",
+      "category": "Company Update",
+      "subcategory": "Reg. 13(3) - Statement of Investor Complaints",
+      "headline": "<table border='1'><tr bgcolor='#d6d6d6'><th class='TTRow_left'> No.of Investor complaints pending at the beginning of the quarter </th><th class='TTRow'> No.of Investor complaints received during the quarter</th><th class='TTRow'> No.of Investor complaints disposed of during the quarter </th><th class='TTRow'> No.of Investor complaints unresolved at the end of the quarter </th></tr><tr><td class='TTRow'>0</td><td class='TTRow'>0</td><td class='TTRow'>0</td><td class='TTRow'>0</td></tr></table><table border='1'><tr><td  > <span style='font-weight:bold'>Name of the Signatory </span> </td><td> :- </td><td>Khush Mohammad</td></tr><tr><td  ><span style='font-weight:bold'>Designation </span></td><td> :- </td><td>Company Secretary and Compliance Officer</td></tr></table>",
+      "pdf": "",
+      "sizeKb": null
+    },
+    {
+      "date": "2021-09-30",
+      "category": "AGM/EGM",
+      "subcategory": "AGM",
+      "headline": "Aishwarya Technologies And Telecom Ltd has informed BSE regarding the details of Voting results of AGM, under Regulation 44(3) of SEBI (LODR) Regulations, 2015. Kindly <a href=\"https://www.bseindia.com/stock-share-price/meetings/voting-results/532975\"> ....",
+      "pdf": "",
+      "sizeKb": null
+    },
+    {
+      "date": "2021-09-30",
+      "category": "AGM/EGM",
+      "subcategory": "AGM",
+      "headline": "Outcome and Scrutinizer's Report",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0c9fc6fa-cbc5-4f26-8932-545c534568bd.pdf",
+      "sizeKb": 11757
+    },
+    {
+      "date": "2021-09-28",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Closure of Trading window",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/fc1948bc-d357-42af-b6d5-9506de1cca5b.pdf",
+      "sizeKb": 365
+    },
+    {
+      "date": "2021-09-08",
+      "category": "Others",
+      "subcategory": "Reg. 34 (1) Annual Report",
+      "headline": "Annual Report for the Financial year 2020-21",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/69684b3c-11d8-4bf2-aa75-a56139cb5187.pdf",
+      "sizeKb": 1984
+    },
+    {
+      "date": "2021-09-08",
+      "category": "Corp. Action",
+      "subcategory": "Book Closure",
+      "headline": "Book Closure for the purpose of Annual General Meeting",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/27cd5088-5049-4a09-8d31-e1f860614c39.pdf",
+      "sizeKb": 386
+    },
+    {
+      "date": "2021-08-23",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "Closure of CIRP proceedings",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1e931e6a-58ef-4fd8-bd63-6bc797c09351.pdf",
+      "sizeKb": 2790
+    },
+    {
+      "date": "2021-08-14",
+      "category": "AGM/EGM",
+      "subcategory": "AGM",
+      "headline": "Aishwarya Technologies And Telecom Ltd has informed BSE regarding Outcome of Board Meeting held on August 14, 2021.",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5728B4FE-4F33-439C-891D-743F07031BFF-190759.pdf",
+      "sizeKb": 4551
+    },
+    {
+      "date": "2021-08-14",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Unaudited financial results for the quarter ended 30.06.2021",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5d624869-f01c-462b-82b1-320ad2fc8b3d.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2021-08-03",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Aishwarya Technologies And Telecom Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 14/08/2021 ,inter alia, to consider and approve Unaudited ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/388b9c65-e7d4-4f63-a383-b2a114d20bea.pdf",
+      "sizeKb": 453
+    },
+    {
+      "date": "2021-07-30",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Related Party Disclosure for the quarter and year ended 31.03.2021",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2204989d-c267-4d85-abb2-2175ab034960.pdf",
+      "sizeKb": 1093
+    },
+    {
+      "date": "2021-07-20",
+      "category": "Company Update",
+      "subcategory": "Shareholding",
+      "headline": "Aishwarya Technologies And Telecom Ltd has submitted to BSE the Shareholding Pattern for the Period Ended June 30, 2021. For more details, kindly <a href=\"http://www.bseindia.com/corporates/shpSecurities.aspx?scripcd=532975&qtrid=110.00\">Click ....",
+      "pdf": "",
+      "sizeKb": null
+    },
+    {
+      "date": "2021-07-20",
+      "category": "Company Update",
+      "subcategory": "Reg. 13(3) - Statement of Investor Complaints",
+      "headline": "<table border='1'><tr bgcolor='#d6d6d6'><th class='TTRow_left'> No.of Investor complaints pending at the beginning of the quarter </th><th class='TTRow'> No.of Investor complaints received during the quarter</th><th class='TTRow'> No.of Investor complaints disposed of during the quarter </th><th class='TTRow'> No.of Investor complaints unresolved at the end of the quarter </th></tr><tr><td class='TTRow'>0</td><td class='TTRow'>0</td><td class='TTRow'>0</td><td class='TTRow'>0</td></tr></table><table border='1'><tr><td  > <span style='font-weight:bold'>Name of the Signatory </span> </td><td> :- </td><td>Khush Mohammad</td></tr><tr><td  ><span style='font-weight:bold'>Designation </span></td><td> :- </td><td>Company Secretary and Compliance Officer</td></tr></table>",
+      "pdf": "",
+      "sizeKb": null
+    },
+    {
+      "date": "2021-07-20",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Certificate under 74(5) of SEBI (DP) Regulation, 2018",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/739c48b7-d3ba-460f-907f-190d761bf4f6.pdf",
+      "sizeKb": 626
+    },
+    {
+      "date": "2021-07-01",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Closure of trading window",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/be70ed69-6c52-4437-9715-7e6d59166387.pdf",
+      "sizeKb": 435
+    },
+    {
+      "date": "2021-07-01",
+      "category": "Company Update",
+      "subcategory": "Reg.24(A)-Annual Secretarial Compliance",
+      "headline": "Annual Secretarial Compliance report for the financial year 2020-1",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e9c9b14e-7d90-49fc-b0d4-b228917953b0.pdf",
+      "sizeKb": 2272
+    },
+    {
+      "date": "2021-06-30",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Audited Financial results for the quarter an year ended 31.03.2021",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9cdb68b3-f119-4c5e-9d0f-ecaf4732e607.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2021-06-29",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "Audited financial results (both standalone and consolidated) for the quarter and period ended 31.03.2021 has been adjourned to 30.06.2021",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/13c3b984-e73b-462b-beb3-7ba1e7d1f456.pdf",
+      "sizeKb": 341
+    },
+    {
+      "date": "2021-06-15",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Aishwarya Technologies And Telecom Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 29/06/2021 ,inter alia, to consider and approve Audited ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/056b250b-21d5-49ea-afa8-ee2691b864ba.pdf",
+      "sizeKb": 470
+    },
+    {
+      "date": "2021-04-29",
+      "category": "Company Update",
+      "subcategory": "Reg. 7(3) \u2013 Compliance Certificate (RTA & Compliance Officer)",
+      "headline": "Compliance certificate for the half year ended 31.03.2021",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/33723458-3fdd-4654-95cd-a586a25d94df.pdf",
+      "sizeKb": 976
+    },
+    {
+      "date": "2021-04-29",
+      "category": "Company Update",
+      "subcategory": "Reg. 40 (10) - PCS Certificate for Transfer / Transmission / Transposition",
+      "headline": "PCS Certificate for Transfer/Transmission/Transposition",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c807b33a-cf4a-4885-875b-7ce43c438bb5.pdf",
+      "sizeKb": 821
+    },
+    {
+      "date": "2021-04-29",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Certificate u/r 74(5) of SEBI (DP) Regulations, 2018",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/30be22e1-e878-4074-9a62-b3ca979cf99a.pdf",
+      "sizeKb": 734
+    },
+    {
+      "date": "2021-04-20",
+      "category": "Company Update",
+      "subcategory": "Shareholding",
+      "headline": "Aishwarya Technologies And Telecom Ltd has submitted to BSE the Shareholding Pattern for the Period Ended March 31, 2021. For more details, kindly <a href=\"http://www.bseindia.com/corporates/shpSecurities.aspx?scripcd=532975&qtrid=109.00\">Click ....",
+      "pdf": "",
+      "sizeKb": null
+    },
+    {
+      "date": "2021-04-20",
+      "category": "Company Update",
+      "subcategory": "Reg. 13(3) - Statement of Investor Complaints",
+      "headline": "<table border='1'><tr bgcolor='#d6d6d6'><th class='TTRow_left'> No.of Investor complaints pending at the beginning of the quarter </th><th class='TTRow'> No.of Investor complaints received during the quarter</th><th class='TTRow'> No.of Investor complaints disposed of during the quarter </th><th class='TTRow'> No.of Investor complaints unresolved at the end of the quarter </th></tr><tr><td class='TTRow'>0</td><td class='TTRow'>0</td><td class='TTRow'>0</td><td class='TTRow'>0</td></tr></table><table border='1'><tr><td  > <span style='font-weight:bold'>Name of the Signatory </span> </td><td> :- </td><td>Khush Mohammad</td></tr><tr><td  ><span style='font-weight:bold'>Designation </span></td><td> :- </td><td>Company Secretary and Compliance Officer</td></tr></table>",
+      "pdf": "",
+      "sizeKb": null
+    },
+    {
+      "date": "2021-03-31",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Closure of Trading Window for the quarter ended 31.03.2021",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0b28c855-43c8-4f1b-818f-47609153bdfc.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2021-02-19",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Un-audited financial results for the quarter ended 31.12.2020",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9012cb19-c7fd-4213-af0e-a83392c0df2f.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2021-02-13",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Delay in Unaudited Financial Results",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/35ae419c-df5e-4300-a5e5-52798ad3c098.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2021-02-13",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "Postponement of Board meeting to 19.02.2021",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7966c67b-a752-48e4-8283-aff0a9dea45c.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2021-01-29",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Aishwarya Technologies And Telecom Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/02/2021 ,inter alia, to consider and approve Unaudited ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/314a7310-5f55-4f0a-ac76-eff56c7665c1.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2021-01-29",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Compliance Certificate under Regulation 74(5) of SEBI (Depositories & Participants) Regulations, 2018",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4816af31-cd00-49c8-86b9-0cfcbf604daa.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2021-01-21",
+      "category": "Company Update",
+      "subcategory": "Shareholding",
+      "headline": "Aishwarya Technologies And Telecom Ltd has submitted to BSE the Shareholding Pattern for the Period Ended December 31, 2020. For more details, kindly <a href=\"http://www.bseindia.com/corporates/shpSecurities.aspx?scripcd=532975&qtrid=108.00\">Click ....",
+      "pdf": "",
+      "sizeKb": null
+    },
+    {
+      "date": "2021-01-21",
+      "category": "Company Update",
+      "subcategory": "Reg. 13(3) - Statement of Investor Complaints",
+      "headline": "<table border='1'><tr bgcolor='#d6d6d6'><th class='TTRow_left'> No.of Investor complaints pending at the beginning of the quarter </th><th class='TTRow'> No.of Investor complaints received during the quarter</th><th class='TTRow'> No.of Investor complaints disposed of during the quarter </th><th class='TTRow'> No.of Investor complaints unresolved at the end of the quarter </th></tr><tr><td class='TTRow'>0</td><td class='TTRow'>0</td><td class='TTRow'>0</td><td class='TTRow'>0</td></tr></table><table border='1'><tr><td  > <span style='font-weight:bold'>Name of the Signatory </span> </td><td> :- </td><td>Khush Mohammad</td></tr><tr><td  ><span style='font-weight:bold'>Designation </span></td><td> :- </td><td>Company Secretary and Compliance Officer</td></tr></table>",
+      "pdf": "",
+      "sizeKb": null
+    },
+    {
+      "date": "2020-12-09",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Related Party Transaction for the Half Year ended 30.09.2020",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/62a03629-b312-4b95-850e-5a665ecb554e.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2020-11-13",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Un-audited financial results (standalone and consolidated) for the quarter ended 30.09.2020",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9b5ccc02-9e8d-4a14-9059-fcf414085fd1.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2020-11-04",
+      "category": "Board Meeting",
+      "subcategory": "Board Meeting",
+      "headline": "Aishwarya Technologies And Telecom Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 13/11/2020 ,inter alia, to consider and approve Unaudited ....",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/75aabcf4-468d-4d80-82dc-931e2f727d2c.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2020-10-19",
+      "category": "AGM/EGM",
+      "subcategory": "AGM",
+      "headline": "Aishwarya Technologies And Telecom Ltd has informed BSE regarding the details of Voting results of AGM, under Regulation 44(3) of SEBI (LODR) Regulations, 2015. Kindly <a href=\"https://www.bseindia.com/stock-share-price/meetings/voting-results/532975\"> ....",
+      "pdf": "",
+      "sizeKb": null
+    },
+    {
+      "date": "2020-10-19",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "Voting Results for the AGM held on 19.10.2020 at 11:00 AM",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/81d5538a-e726-4cc1-a02a-9dba13d6ca20.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2020-10-19",
+      "category": "AGM/EGM",
+      "subcategory": "AGM",
+      "headline": "Scrutinizer Report",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/bf978bd8-3714-4a2b-a8f9-3174479ef365.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2020-10-19",
+      "category": "AGM/EGM",
+      "subcategory": "AGM",
+      "headline": "outcome of AGM held on 19.10.2020 at 11:00 AM",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/38e4b0ef-41fe-4008-96ac-f81b2672145f.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2020-10-16",
+      "category": "Company Update",
+      "subcategory": "Reg. 7(3) \u2013 Compliance Certificate (RTA & Compliance Officer)",
+      "headline": "Compliance Certificate - under Reg 7(3) of SEBI(LODR) Regulations,2015 for half year ended 30.09.2020",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1297199b-eac4-48cb-a7e3-cc6f93039e34.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2020-10-16",
+      "category": "Company Update",
+      "subcategory": "Shareholding",
+      "headline": "Aishwarya Technologies And Telecom Ltd has submitted to BSE the Shareholding Pattern for the Period Ended September 30, 2020. For more details, kindly <a href=\"http://www.bseindia.com/corporates/shpSecurities.aspx?scripcd=532975&qtrid=107.00\">Click ....",
+      "pdf": "",
+      "sizeKb": null
+    },
+    {
+      "date": "2020-10-16",
+      "category": "Company Update",
+      "subcategory": "Reg. 13(3) - Statement of Investor Complaints",
+      "headline": "<table border='1'><tr bgcolor='#d6d6d6'><th class='TTRow_left'> No.of Investor complaints pending at the beginning of the quarter </th><th class='TTRow'> No.of Investor complaints received during the quarter</th><th class='TTRow'> No.of Investor complaints disposed of during the quarter </th><th class='TTRow'> No.of Investor complaints unresolved at the end of the quarter </th></tr><tr><td class='TTRow'>0</td><td class='TTRow'>0</td><td class='TTRow'>0</td><td class='TTRow'>0</td></tr></table><table border='1'><tr><td  > <span style='font-weight:bold'>Name of the Signatory </span> </td><td> :- </td><td>Khush Mohammad</td></tr><tr><td  ><span style='font-weight:bold'>Designation </span></td><td> :- </td><td>Company Secretary and Compliance Officer</td></tr></table>",
+      "pdf": "",
+      "sizeKb": null
+    },
+    {
+      "date": "2020-10-16",
+      "category": "Company Update",
+      "subcategory": "Reg. 40 (10) - PCS Certificate for Transfer / Transmission / Transposition",
+      "headline": "Certificate under Regulation 40(9) of SEBI(LODR) regulations,2015 for Half year ended 30.09.2020",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4614c86f-98bd-4dae-ac8b-4149a7a8895f.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2020-10-16",
+      "category": "Company Update",
+      "subcategory": "Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
+      "headline": "Certificate under Reg 74(5) of SEBI(DP) Regulations, 2018 for Quarter ended 30.09.2020",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b841d693-44e8-415a-98b5-b5746fdf83db.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2020-10-06",
+      "category": "Result",
+      "subcategory": "Financial Results",
+      "headline": "Unaudited financial results for Quarter ended 30.06.2020",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3260b6e0-28a0-4ae5-8b61-730a3871fa4c.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2020-09-29",
+      "category": "Insider Trading / SAST",
+      "subcategory": "Closure of Trading Window",
+      "headline": "Closure of Trading window for Quarter ended 30.09.2020",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f75dbe53-4bbf-4742-9897-2f8b58d10612.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2020-09-25",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "closure of Register of members for AGM",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4990c212-c5f8-4d37-b03c-d44271ef5ee7.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2020-09-25",
+      "category": "Others",
+      "subcategory": "Reg. 34 (1) Annual Report",
+      "headline": "Annual Report for the Year 2019-20",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4536a3a4-3854-4cf5-aafb-d9b21de7e806.pdf",
+      "sizeKb": null
+    },
+    {
+      "date": "2020-09-17",
+      "category": "Company Update",
+      "subcategory": "General",
+      "headline": "Disclosure of reasons for delay in submission of Unaudited Financial Results under Regulation 33 of the SEBI (LODR) Regulations, 2015 for the quarter ended June 30, 2020",
+      "pdf": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/af6ddd72-f009-4f96-92b7-d3aed4eeae14.pdf",
+      "sizeKb": null
+    }
+  ]
+}

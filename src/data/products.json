@@ -1,0 +1,483 @@
+[
+  {
+    "id": "rf-power-amplifiers",
+    "name": "RF Power Amplifiers (100 MHz \u2013 40 GHz)",
+    "category": "Defence",
+    "sectors": [
+      "Defence"
+    ],
+    "description": "We supply a comprehensive range of benchtop and module RF power amplifiers covering the frequency range from 100 MHz to 40 GHz, available in various output power levels to meet diverse application requirements. These amplifiers are extensively used in defense, aerospace, communication, electronic warfare, and RF test applications.\n\nKey Features:\nWide instantaneous bandwidth, Excellent linearity, High output power in multiple levels, High reliability for mission-critical use, Benchtop and module form factors, 100 MHz to 40 GHz frequency coverage, Radar systems, Modern tracking radar seekers, Electronic Warfare (EW) systems, RF jammers, Satellite Communication (SATCOM), Military communication systems, Missile systems, RF test & measurement, Solid-state active phased array systems with electronic beam steering, Electronic Intelligence (ELINT), Signal Intelligence (SIGINT), UAV and aerospace systems, Active missile decoy systems",
+    "images": [
+      "/products/rf-power-amplifiers-0.svg"
+    ],
+    "features": [],
+    "warrantyMonths": null,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324be05f4ee08b5af9f105",
+    "name": "Fusion Splicer-Splice Master 60S",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "High-performance single fusion splicer designed for fast and reliable optical fiber splicing in telecom and FTTH networks.\n\nKey Features:\nClad alignment, 6 sec ultra-fast splicing, 15 sec heating, GPS location system, 500X magnification, 4.5-inch LCD touchscreen.\n\n\nApplications:\nTelecom fiber installation, FTTH deployment, ISP maintenance, fiber optic repair.\n\nTechnical Highlights:\n4000mAh battery, 10000 splice storage, 5000 arc electrode life, lightweight portable design.",
+    "images": [
+      "/products/6a324be05f4ee08b5af9f105-0.webp",
+      "/products/6a324be05f4ee08b5af9f105-1.webp",
+      "/products/6a324be05f4ee08b5af9f105-2.webp",
+      "/products/6a324be05f4ee08b5af9f105-3.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324be05f4ee08b5af9f102",
+    "name": "Fusion Splicer-Splice Master 90R",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "Advanced ribbon fusion splicer supporting single to 12-fiber ribbon splicing for high-capacity optical networks.\n\nKey Features:\nRibbon fiber support, anti-theft password protection, GPS system, ultra-fast splicing, high-resolution LCD touchscreen.\n\n\nApplications:\nBackbone fiber networks, ribbon cable splicing, data centers, telecom infrastructure.\n\nTechnical Highlights:\n5200mAh battery, X/Y 24X magnification, 1000 splice storage, adjustable heating time.",
+    "images": [
+      "/products/6a324be05f4ee08b5af9f102-0.webp",
+      "/products/6a324be05f4ee08b5af9f102-1.webp",
+      "/products/6a324be05f4ee08b5af9f102-2.webp",
+      "/products/6a324be05f4ee08b5af9f102-3.webp",
+      "/products/6a324be05f4ee08b5af9f102-4.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324be05f4ee08b5af9f0ff",
+    "name": "Fusion Splicer-Splice Master 80S",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "Core alignment fusion splicer engineered for precise and efficient optical fiber joining.\n\nKey Features:\nCore alignment, anti-theft protection, 720X magnification, ultra-fast splicing, touchscreen operation.\n\nApplications:\nFiber optic installation, telecom maintenance, CATV and ISP operations.\n\nTechnical Highlights:\n5000 arc electrode life, 10000 splice storage, 4000mAh battery.",
+    "images": [
+      "/products/6a324be05f4ee08b5af9f0ff-0.webp",
+      "/products/6a324be05f4ee08b5af9f0ff-1.webp",
+      "/products/6a324be05f4ee08b5af9f0ff-2.webp",
+      "/products/6a324be05f4ee08b5af9f0ff-3.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324be05f4ee08b5af9f0fc",
+    "name": "Fusion Splicer-Splice Master 70S",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "Reliable single fusion splicer optimized for field deployment and high-speed fiber splicing.\n\nKey Features:\nCore-to-core alignment, GPS location system, ultra-fast splicing, multifunctional fiber holder.\n\nApplications:\nFTTH projects, telecom maintenance, railway communication networks.\n\nTechnical Highlights:\n5200mAh battery, 720X magnification, LCD touchscreen display.",
+    "images": [
+      "/products/6a324be05f4ee08b5af9f0fc-0.webp",
+      "/products/6a324be05f4ee08b5af9f0fc-1.webp",
+      "/products/6a324be05f4ee08b5af9f0fc-2.webp",
+      "/products/6a324be05f4ee08b5af9f0fc-3.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324be05f4ee08b5af9f0f9",
+    "name": "OTDR Smart OTDR 321J",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "Professional OTDR solution for accurate fiber network analysis and troubleshooting.\t28 dB dynamic range, multi-wavelength testing, splitter testing, LAN/WAN/FTTx applications.\tFiber testing, network troubleshooting, datacenter testing, optical network deployment.\tSupports 850/1300/1310/1490/1550/1625nm wavelengths, simultaneous curve and map analysis.",
+    "images": [
+      "/products/6a324be05f4ee08b5af9f0f9-0.webp",
+      "/products/6a324be05f4ee08b5af9f0f9-1.webp",
+      "/products/6a324be05f4ee08b5af9f0f9-2.webp",
+      "/products/6a324be05f4ee08b5af9f0f9-3.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324be05f4ee08b5af9f0f6",
+    "name": "OTDR Smart OTDR 321A",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "Smart multifunction OTDR with integrated OPM, OLS, and VFL for comprehensive fiber testing.\t30 dB dynamic range, built-in power meter and VFL, anti-reflection LCD touchscreen.\tFTTx testing, telecom fiber maintenance, optical troubleshooting.\t2.5 cm sampling resolution, 8-hour operation, splitter penetration up to 1:128.",
+    "images": [
+      "/products/6a324be05f4ee08b5af9f0f6-0.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324be05f4ee08b5af9f0f3",
+    "name": "Optical Testing Laser Light Source",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "Stable optical laser source for accurate fiber optic testing and calibration.\t1300/1550nm wavelengths, adjustable output power, modulation support.\tFiber testing, optical calibration, telecom installation.\tRechargeable battery operation with CW and modulation modes.",
+    "images": [
+      "/products/6a324be05f4ee08b5af9f0f3-0.webp",
+      "/products/6a324be05f4ee08b5af9f0f3-1.webp",
+      "/products/6a324be05f4ee08b5af9f0f3-2.webp",
+      "/products/6a324be05f4ee08b5af9f0f3-3.webp",
+      "/products/6a324be05f4ee08b5af9f0f3-4.webp",
+      "/products/6a324be05f4ee08b5af9f0f3-5.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324bdf5f4ee08b5af9f0f0",
+    "name": "Optical Testing Optical Power Meter",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "Precision optical power meter designed for measuring fiber optic signal strength.\t850 to 1650nm calibration range, wide power measurement range, data storage.\tFiber optic maintenance, network diagnostics, telecom testing.\tStorage capacity of 1000 records, compact handheld design.",
+    "images": [
+      "/products/6a324bdf5f4ee08b5af9f0f0-0.webp",
+      "/products/6a324bdf5f4ee08b5af9f0f0-1.webp",
+      "/products/6a324bdf5f4ee08b5af9f0f0-2.webp",
+      "/products/6a324bdf5f4ee08b5af9f0f0-3.webp",
+      "/products/6a324bdf5f4ee08b5af9f0f0-4.webp",
+      "/products/6a324bdf5f4ee08b5af9f0f0-5.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324bdf5f4ee08b5af9f0ed",
+    "name": "Optical Testing Power Meter with VFL",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "Integrated optical power meter with visual fault locator for field fiber testing applications.\tMultiple wavelength support, high sensitivity detector, LCD backlight display.\tFiber troubleshooting, telecom maintenance, FTTH testing.\tPower range +26 to -50 dBm, integrated 650nm VFL.",
+    "images": [
+      "/products/6a324bdf5f4ee08b5af9f0ed-0.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324bdf5f4ee08b5af9f0ea",
+    "name": "OTDR ATL-1315 Series OTDR",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "Compact multifunction OTDR series for long-haul and short-haul optical fiber network testing.\tTouchscreen interface, live fiber testing, intelligent optical link mapping, remote control support.\tTelecom backbone testing, ISP maintenance, optical network troubleshooting.\tDynamic range up to 46 dB, multi-wavelength support, bi-directional software.",
+    "images": [
+      "/products/6a324bdf5f4ee08b5af9f0ea-0.webp",
+      "/products/6a324bdf5f4ee08b5af9f0ea-1.webp",
+      "/products/6a324bdf5f4ee08b5af9f0ea-2.webp",
+      "/products/6a324bdf5f4ee08b5af9f0ea-3.webp",
+      "/products/6a324bdf5f4ee08b5af9f0ea-4.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324bdf5f4ee08b5af9f0e7",
+    "name": "Cable Locator AG-309 Cable & Pipe Locator",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "High-precision utility locator for underground cable and pipe detection with GPS/GNSS integration.\tDirect current measurement, active frequencies, GPS/GLONASS support, graphical route modes.\tUnderground utility mapping, cable route tracing, telecom cable detection.\t20W transmitter, USB software integration, utility axis deviation indication.",
+    "images": [
+      "/products/6a324bdf5f4ee08b5af9f0e7-0.webp",
+      "/products/6a324bdf5f4ee08b5af9f0e7-1.webp",
+      "/products/6a324bdf5f4ee08b5af9f0e7-2.webp",
+      "/products/6a324bdf5f4ee08b5af9f0e7-3.webp",
+      "/products/6a324bdf5f4ee08b5af9f0e7-4.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324bdf5f4ee08b5af9f0e4",
+    "name": "Cable Fault Locator FM-111 Cable Fault Locator",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "Advanced cable fault locator for precise identification of faults in telecom and electrical cables.\tTDR and bridge testing modes, USB data transfer, intelligent charging.\tCable maintenance, electrical fault testing, telecom cable diagnostics.\tLarge color LCD display, portable lightweight design.",
+    "images": [
+      "/products/6a324bdf5f4ee08b5af9f0e4-0.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324bdf5f4ee08b5af9f0e1",
+    "name": "RFID Marker System TL-9000 RFID Route Marker Locator",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "Smart RFID marker locator with GIS mapping and Bluetooth connectivity for underground utility identification.\tRFID read/write capability, GIS mapping integration, Bluetooth connectivity, cloud data storage.\tSmart city utility mapping, telecom asset tracking, buried marker detection.\tDetection depth up to 1.5 meters, intuitive GUI interface.",
+    "images": [
+      "/products/6a324bdf5f4ee08b5af9f0e1-0.webp",
+      "/products/6a324bdf5f4ee08b5af9f0e1-1.webp",
+      "/products/6a324bdf5f4ee08b5af9f0e1-2.webp",
+      "/products/6a324bdf5f4ee08b5af9f0e1-3.webp",
+      "/products/6a324bdf5f4ee08b5af9f0e1-4.webp",
+      "/products/6a324bdf5f4ee08b5af9f0e1-5.webp",
+      "/products/6a324bdf5f4ee08b5af9f0e1-6.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324bdf5f4ee08b5af9f0de",
+    "name": "RFID Marker RFID Marker Read-and-Write",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "Omni-directional RFID marker designed for reliable underground asset identification and tracking.\tRead-and-write RFID technology, durable HDPE shell, unique RFID number.\tBuried utility identification, telecom route marking, smart infrastructure.\tDetection depth up to 1.5 meters, rugged construction for underground deployment.",
+    "images": [
+      "/products/6a324bdf5f4ee08b5af9f0de-0.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324bdf5f4ee08b5af9f0db",
+    "name": "OTDR COMET-6PRO Multifunctional OTDR",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "Advanced multifunction OTDR designed for optical fiber testing, maintenance, and troubleshooting in telecom and FTTH networks.\t7-inch touchscreen, auto OTDR testing, event mapping, built-in OPM, OLS and VFL, screenshot support, PDF/Excel report export.\tFTTH deployment, metro fiber testing, backbone network maintenance, optical cable troubleshooting.\t30/28 dB dynamic range, dual wavelength 1310/1550nm, 10mW VFL, 5200mAh battery, 10-hour operation.",
+    "images": [
+      "/products/6a324bdf5f4ee08b5af9f0db-0.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324bdf5f4ee08b5af9f0d8",
+    "name": "Cable & Pipe Locator with RTK Techmagix Cable and Pipe Locator with RTK-GNSS",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "High-precision underground utility locator with RTK-GNSS integration for centimeter-level mapping and surveying accuracy.\tMultiple detection modes, RTK GNSS integration, GPS route logging, Bluetooth NMEA output, GIS-ready export, IP68 protection.\tUnderground cable tracing, utility mapping, smart city surveys, telecom route mapping, GIS asset management.\tRTK accuracy \u00b110 mm horizontal, multi-constellation GNSS support, NTRIP corrections, 10W transmitter.",
+    "images": [
+      "/products/6a324bdf5f4ee08b5af9f0d8-0.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324bde5f4ee08b5af9f0d5",
+    "name": "Fiber Monitoring System ALM Series Fiber Monitoring Solution",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "Advanced 24x7 proactive fiber monitoring solution designed to improve network availability and reduce operational expenditure for telecom operators and fiber infrastructure providers.\tReal-time fiber monitoring, support for PON and point-to-point networks, GIS integration, in-service monitoring at 1650nm, high-density monitoring up to 800 ports, SNMP/REST/NETCONF support.\tTelecom backbone monitoring, FTTH network supervision, metro and core fiber monitoring, dark fiber monitoring, GIS-based fiber management.\tDynamic range up to 41 dB, monitoring distance up to 320 km, fanless operation, compact 1RU chassis, passive cooling, built-in SOR viewer.",
+    "images": [
+      "/products/6a324bde5f4ee08b5af9f0d5-0.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324bde5f4ee08b5af9f0d2",
+    "name": "Passive Electronic Marker TLD Passive Electronic Marker (Disc Type)",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "High-performance passive underground electronic marker designed for accurate identification of buried utilities and underground infrastructure.\tMulti-frequency compatibility, maintenance-free passive operation, HDPE rugged construction, IP68 waterproof protection, high pressure resistance.\tTelecom cable identification, underground utility marking, smart city infrastructure, gas and water pipeline marking.\tDetectable depth up to 2.5m, supports telecom 101.4kHz and multiple utility frequencies, withstands 20KN pressure and 3m drop impact.",
+    "images": [
+      "/products/6a324bde5f4ee08b5af9f0d2-0.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324bde5f4ee08b5af9f0cf",
+    "name": "Fiber Testing Tool Visual Fault Locator TL-04T",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "Compact and efficient visual fault locator designed for rapid fiber fault detection and fiber identification in optical communication networks.\tStable output power, CW and pulse operation modes, low battery warning, rugged dust-proof design, portable handheld operation.\tFiber optic troubleshooting, OTDR dead zone detection, FTTH maintenance, fiber identification during installation.\t650nm laser wavelength, output power options up to 30mW, universal FC connector compatibility, battery backup up to 60 hours.",
+    "images": [
+      "/products/6a324bde5f4ee08b5af9f0cf-0.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a324bde5f4ee08b5af9f0cc",
+    "name": "OTDR Comet-1 Multifunction OTDR",
+    "category": "Telecommunication",
+    "sectors": [
+      "Telecommunication",
+      "Railway"
+    ],
+    "description": "Compact multifunction OTDR designed for fiber optic network testing, troubleshooting, and maintenance with integrated advanced optical test functions.\t4.3-inch capacitive touchscreen, auto and expert OTDR modes, event map, OPM, LS, VFL, RJ45 cable tracker, optical loss test, lightweight rugged design.\tFTTX deployment, telecom network maintenance, emergency fiber repair, optical production testing, broadband network troubleshooting.\t28dB dynamic range, 8GB storage supporting 200,000 curves, 4000mAh lithium battery, up to 20 hours standby, 10G OPM support.\tMultifunction OTDR, portable OTDR, fiber optic tester, telecom OTDR, FTTX testing equipment",
+    "images": [
+      "/products/6a324bde5f4ee08b5af9f0cc-0.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a0c40b1e22c1efb88e59543",
+    "name": "Optical Instruments Optical Multitest Platform",
+    "category": "Defence",
+    "sectors": [
+      "Defence"
+    ],
+    "description": "Our Optical Multitest Platform is the ideal tool for measuring and evaluating a wide range of optical devices. A variety of measurement modules are available.\t\"Includes:\n\u2022 Tunable Laser Sources\n\u2022 Polarimeter\n\u2022 Optical Amplifiers (EDFA)\n\u2022 Power Meters\n\u2022 Variable Optical Attenuators (VOA)\n\u2022 Optical Tunable Filters\n\u2022 Optical Switches\"",
+    "images": [
+      "/products/6a0c40b1e22c1efb88e59543-0.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a0c4063e22c1efb88e59515",
+    "name": "Optical Instruments Fiber-coupled polarimeter",
+    "category": "Defence",
+    "sectors": [
+      "Defence"
+    ],
+    "description": "Our stand-alone benchtop fiber-coupled polarimeter enables real time monitoring of the SOP, DOP, and power of a light signal in a fiber.\t\nReal-time measurement of:\nState of polarization (SOP)\nDegree of polarization (DOP)\nPolarization extinction ratio (PER)",
+    "images": [
+      "/products/6a0c4063e22c1efb88e59515-0.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a0c400ae22c1efb88e594e7",
+    "name": "Optical Instruments Broadband ASE Sources",
+    "category": "Defence",
+    "sectors": [
+      "Defence"
+    ],
+    "description": "High power ASE sources providing stable output power up to +23dBm and broad flat spectrum over C+L band, O band, or T band. Such high performance sources allow effective and efficient measurements for component characterization or optical sensing.",
+    "images": [
+      "/products/6a0c400ae22c1efb88e594e7-0.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a0c3cbae22c1efb88e59483",
+    "name": "Optical Instruments Tunable Laser Source",
+    "category": "Defence",
+    "sectors": [
+      "Defence"
+    ],
+    "description": "A tunable laser source which offers wide (up to 110 nm depending on the model) mode-hop-free tuning over many wavelengths ranges between 843 nm up to 1630 nm.\t\"Continuous sweeping\nHigh output power\nHigh SMSR\nNarrow Linewidth\nWavelength Etalon option\nGPIB, Ethernet RS-232 and USB control\"",
+    "images": [
+      "/products/6a0c3cbae22c1efb88e59483-0.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a0c3c71e22c1efb88e59455",
+    "name": "Optical Instruments Optical Frequency Domain Reflectometer",
+    "category": "Defence",
+    "sectors": [
+      "Defence"
+    ],
+    "description": "An Optical Frequency-Domain Reflectometer (OFDR), based upon the Optical Backscatter Reflectometry technology, allowing measurements in reflection (return loss, phase derivative) and transmission (insertion loss, group delay) of fiber optic or waveguide components in spatial/time and spectral domains, with a high resolution and high dynamic range.\t\"Multiple wavelength ranges available\nReflection and transmission measurements\nHighest dynamic range in the market\nSpatial Resolution < 8 \u00b5m\"",
+    "images": [
+      "/products/6a0c3c71e22c1efb88e59455-0.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a0c3bfde22c1efb88e59421",
+    "name": "Optical Instruments High Resolution Optical Complex Spectrum Analyzer",
+    "category": "Defence",
+    "sectors": [
+      "Defence"
+    ],
+    "description": "A High Resolution Optical Spectrum Analyzer combined with a 3 THz Bandwidth Optical Modulation Analyzer in a cost-effective equipment.\t\n\n\nT Band\n1030 \u2013 1075 nm\n\nO Band\n1260 \u2013 1360 nm\n\nE Band\n1345 \u2013 1450 nm\n\nS Band\n1445 \u2013 1520 nm\n\nC+L Band\n1525 \u2013 1630 nm",
+    "images": [
+      "/products/6a0c3bfde22c1efb88e59421-0.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  },
+  {
+    "id": "6a0c3b71e22c1efb88e593f3",
+    "name": "Optical Instruments-High Resolution Optical Spectrum Analyzer",
+    "category": "Defence",
+    "sectors": [
+      "Defence"
+    ],
+    "description": "With a resolution up to 500 times better than the best standard grating based Optical Spectrum Analyzer on the market, these new generation Optical Spectrum Analyzers can display your signal\u2019s real spectrum shape and not just its envelope\n\nHighest resolution : Up to 5 MHz (0.04 pm @ 1550 nm) with+/-2 pm absoluteaccuracy\n\u2022High Close-in dynamic range : > 60 dB @ +/- 0.3 pm from the peak\n\u2022High Spurious Free Dynamic Range : 55 dB (typical)\n\u2022Power Levels : -79 dBm to +10 dBm",
+    "images": [
+      "/products/6a0c3b71e22c1efb88e593f3-0.webp",
+      "/products/6a0c3b71e22c1efb88e593f3-1.webp"
+    ],
+    "features": [],
+    "warrantyMonths": 12,
+    "requiresQuote": true
+  }
+]

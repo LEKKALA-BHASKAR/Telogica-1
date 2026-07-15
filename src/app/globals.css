@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --teal: #16c0a8;
+  --grass: #5ebe89;
+  --lime: #5ebe89;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  color: #ffffff;
+  background: #000000;
+}
+
+@layer components {
+  .container-x {
+    @apply mx-auto w-full max-w-7xl px-5 sm:px-8 lg:px-10;
+  }
+
+  .text-gradient {
+    @apply bg-brand-gradient bg-clip-text text-transparent;
+  }
+
+  /* teal eyebrow (matches the logo mark) */
+  .eyebrow {
+    @apply inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.22em] text-teal;
+  }
+
+  /* Card surface on dark */
+  .card {
+    @apply rounded-2xl border border-line bg-base-800;
+  }
+
+  /* Hairline gradient border */
+  .gradient-ring {
+    position: relative;
+  }
+  .gradient-ring::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    padding: 1px;
+    background: linear-gradient(120deg, #0BAEC9, #16C0A8, #5EBE89);
+    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    pointer-events: none;
+  }
+}
+
+/* Circuit / dot texture for dark sections */
+.bg-grid {
+  background-image:
+    linear-gradient(rgba(22, 192, 168, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(22, 192, 168, 0.06) 1px, transparent 1px);
+  background-size: 54px 54px;
+}
+
+.bg-dots {
+  background-image: radial-gradient(rgba(22, 192, 168, 0.16) 1px, transparent 1.4px);
+  background-size: 26px 26px;
+}
+
+/* Green radial glow */
+.glow-blob {
+  background: radial-gradient(closest-side, rgba(22, 192, 168, 0.42), transparent);
+  filter: blur(48px);
+}
+.glow-teal {
+  background: radial-gradient(closest-side, rgba(22, 192, 168, 0.45), transparent);
+  filter: blur(52px);
+}
+
+/* Subtle top vignette so the black hero has depth */
+.vignette {
+  background:
+    radial-gradient(60% 50% at 50% 0%, rgba(22, 192, 168, 0.12), transparent 70%),
+    radial-gradient(40% 40% at 80% 10%, rgba(22, 192, 168, 0.1), transparent 70%);
+}
+
+::selection {
+  background: rgba(22, 192, 168, 0.25);
+  color: #fff;
+}
+
+::-webkit-scrollbar {
+  width: 11px;
+  height: 11px;
+}
+::-webkit-scrollbar-track {
+  background: #000;
+}
+::-webkit-scrollbar-thumb {
+  background: #1c211e;
+  border-radius: 999px;
+  border: 3px solid #000;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #2a302c;
+}
