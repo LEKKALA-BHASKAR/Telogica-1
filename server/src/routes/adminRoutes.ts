@@ -17,6 +17,8 @@ router.patch(
   validate({ params: objectIdParam, body: updateUserBody }),
   admin.updateUser
 );
+router.get("/quotes", validate({ query: paginationQuery }), admin.listQuotes);
+router.patch("/quotes/:id", validate({ params: objectIdParam }), admin.updateQuoteStatus);
 router.delete("/reviews/:id", validate({ params: objectIdParam }), deleteReview);
 
 // Kept here so the admin panel can audit a moderator's own reviews too.

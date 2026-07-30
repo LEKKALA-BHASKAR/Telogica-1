@@ -158,3 +158,47 @@ export const updateUser = asyncHandler(async (req: Request, res: Response) => {
 
   res.json({ success: true, data: { user: publicUser(user) } });
 });
+
+export const listQuotes = asyncHandler(async (req: Request, res: Response) => {
+  const pagination = getPagination(req.query as Record<string, unknown>, 20);
+  const filter: Record<string, unknown> = {};
+  if (req.query.status) filter.status = req.query.status;
+  if (req.query.q) {
+    const rx = new RegExp(escapeRegex(String(req.query.q).trim()), "i");
+    filter.$or = [
+      { "user.name": rx },
+      { "user.email": rx },
+      { "product.name": rx },
+      { "company": rx },
+    ];
+  }
+
+  const [items, total] = await Promise.all([
+    Quote.find(filter)
+      .populate("user", "name email phone company")
+      .populate("product", "name sku price")
+      .select("quantity unitPrice totalPrice company contactPerson phone email status createdAt")
+      .sort({ createdAt: -1 })
+      .skip(pagination.skip)
+      .limit(pagination.limit)
+      .lean(),
+    Quote.countDocuments(filter),
+  ]);
+
+  res.json({ success: true, data: { items }, meta: buildMeta(total, pagination) });
+});
+
+export const updateQuoteStatus = asyncHandler(async (req: Request, res: Response) => {
+  const { id } = req.params;
+  const { status } = req.body as { status: string };
+
+  const quote = await Quote.findByIdAndUpdate(
+    id,
+    { status },
+    { new: true }
+  ).populate("user", "name email phone").populate("product", "name sku");
+
+  if (!quote) throw ApiError.notFound("Quote not found");
+
+  res.json({ success: true, data: quote });
+});
