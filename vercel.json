@@ -1,0 +1,19 @@
+{
+  "buildCommand": "npm run setup && npm run build:all",
+  "outputDirectory": ".next",
+  "functions": {
+    "api/**/*.ts": {
+      "memory": 1024,
+      "maxDuration": 60
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/api/v1/:path*",
+      "destination": "http://localhost:5001/api/v1/:path*"
+    }
+  ],
+  "env": {
+    "NEXT_PUBLIC_API_URL": "/api/v1"
+  }
+}

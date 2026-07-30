@@ -17,10 +17,12 @@
     "seed:fresh": "npm --prefix server run seed -- --fresh",
     "seed:destroy": "npm --prefix server run seed:destroy",
     "setup": "npm install && npm --prefix server install",
+    "setup:ci": "npm ci && npm ci --prefix server",
     "typecheck": "tsc --noEmit && npm --prefix server run typecheck",
     "lint": "next lint",
     "fetch:bse": "python3 scripts/fetch_bse.py"
   },
+  "postinstall": "npm install --prefix server || true",
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.0",
     "axios": "^1.7.9",
