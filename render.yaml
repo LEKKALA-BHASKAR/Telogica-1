@@ -1,0 +1,50 @@
+services:
+  - type: web
+    name: telogica-api
+    env: node
+    plan: free
+    buildCommand: npm run setup && npm run build:all
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: "10000"
+      - key: CLIENT_URL
+        value: https://telogica-1.vercel.app
+      - key: MONGO_URI
+        sync: false
+      - key: JWT_SECRET
+        sync: false
+      - key: JWT_EXPIRES_IN
+        value: 7d
+      - key: COOKIE_NAME
+        value: telogica_token
+      - key: ADMIN_NAME
+        value: Telogica Admin
+      - key: ADMIN_EMAIL
+        value: admin@telogica.com
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: RAZORPAY_KEY_ID
+        value: ""
+      - key: RAZORPAY_KEY_SECRET
+        value: ""
+      - key: TAX_RATE
+        value: "0.18"
+      - key: FREE_SHIPPING_THRESHOLD
+        value: "25000"
+      - key: SHIPPING_FLAT_RATE
+        value: "750"
+      - key: CURRENCY
+        value: INR
+      - key: SMTP_HOST
+        value: ""
+      - key: SMTP_PORT
+        value: "587"
+      - key: SMTP_USER
+        value: ""
+      - key: SMTP_PASS
+        value: ""
+      - key: EMAIL_FROM
+        value: Telogica <no-reply@telogica.com>
