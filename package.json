@@ -7,9 +7,9 @@
     "dev": "concurrently -n web,api -c cyan,magenta \"npm:dev:web\" \"npm:dev:api\"",
     "dev:web": "next dev",
     "dev:api": "npm --prefix server run dev",
-    "build": "npm install --prefix server 2>/dev/null || true && next build",
+    "build": "next build",
     "build:api": "npm --prefix server run build",
-    "build:all": "npm install --prefix server 2>/dev/null || true && npm run build:api && npm run build",
+    "build:all": "npm run build:api && npm run build",
     "start": "concurrently -n web,api -c cyan,magenta \"npm:start:web\" \"npm:start:api\"",
     "start:web": "next start",
     "start:api": "npm --prefix server run start",
@@ -22,7 +22,6 @@
     "lint": "next lint",
     "fetch:bse": "python3 scripts/fetch_bse.py"
   },
-  "postinstall": "npm install --prefix server || true",
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.0",
     "axios": "^1.7.9",

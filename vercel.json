@@ -1,4 +1,0 @@
-{
-  "buildCommand": "npm install --prefix server 2>/dev/null || true && npm run build:all",
-  "outputDirectory": ".next"
-}
