@@ -5,17 +5,17 @@ import { Reveal } from "@/components/Reveal";
 import { ProductCard } from "@/components/ProductCard";
 import { CTABand } from "@/components/CTABand";
 import { Button } from "@/components/ui";
-import { type Category, categoryMeta, productsByCategory } from "@/lib/products";
+import { type Category, categoryMeta } from "@/lib/products";
+import { listProducts } from "@/lib/server-api";
+
+// Prices and stock come from the API on every request.
+export const dynamic = "force-dynamic";
 
 const slugToCat: Record<string, Category> = {
   telecommunication: "Telecommunication",
   railway: "Railway",
   defence: "Defence",
 };
-
-export function generateStaticParams() {
-  return Object.keys(slugToCat).map((sector) => ({ sector }));
-}
 
 export function generateMetadata({ params }: { params: { sector: string } }): Metadata {
   const cat = slugToCat[params.sector];
@@ -24,11 +24,12 @@ export function generateMetadata({ params }: { params: { sector: string } }): Me
   return { title: `${meta.label} Solutions`, description: meta.blurb };
 }
 
-export default function SectorPage({ params }: { params: { sector: string } }) {
+export default async function SectorPage({ params }: { params: { sector: string } }) {
   const cat = slugToCat[params.sector];
   if (!cat) notFound();
   const meta = categoryMeta[cat];
-  const products = productsByCategory(cat);
+  const result = await listProducts({ sector: cat, limit: 48, sort: "relevance" });
+  const products = result?.items ?? [];
 
   return (
     <>
@@ -49,13 +50,23 @@ export default function SectorPage({ params }: { params: { sector: string } }) {
           </p>
           <Button href="/products" variant="ghost">All products</Button>
         </div>
-        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-          {products.map((p, i) => (
-            <Reveal key={p.id} delay={(i % 4) * 0.05}>
-              <ProductCard product={p} />
-            </Reveal>
-          ))}
-        </div>
+        {products.length ? (
+          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+            {products.map((p, i) => (
+              <Reveal key={p._id} delay={(i % 4) * 0.05}>
+                <ProductCard product={p} />
+              </Reveal>
+            ))}
+          </div>
+        ) : (
+          <p className="rounded-2xl border border-dashed border-line px-6 py-16 text-center text-sm text-fog">
+            The catalogue is unavailable right now.{" "}
+            <a href="/contact" className="font-semibold text-teal">
+              Contact our team
+            </a>{" "}
+            and we&rsquo;ll send the full {meta.label.toLowerCase()} range.
+          </p>
+        )}
       </section>
 
       <CTABand

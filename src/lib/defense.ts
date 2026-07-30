@@ -5,6 +5,18 @@
  * supplier, not a builder of complete weapons systems.
  */
 
+/** Home-page hero copy — the IoT & electronics manufacturing positioning. */
+export const manufacturingHero = {
+  eyebrow: "IoT & Electronics Manufacturing Facility",
+  titleLines: ["Smart Electronics", "Manufacturing for"],
+  titleAccent: "Telecom, Rail &",
+  titleAccentTwo: "Defence",
+  intro:
+    "A modern manufacturing facility building IoT, telecom and instrumentation electronics end to end — from automated SMT pick-and-place and assembly to quality-driven testing for next-generation networks.",
+  primary: { label: "Explore Solutions", href: "/solutions" },
+  secondary: { label: "Contact Us", href: "/contact" },
+};
+
 export const defenseHero = {
   eyebrow: "Defense & Aerospace RF",
   titleLines: ["Defense-Grade", "RF Power Amplifiers"],

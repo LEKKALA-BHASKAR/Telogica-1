@@ -91,6 +91,105 @@ body {
   color: #fff;
 }
 
+/* Skeleton shimmer for loading placeholders */
+.skeleton {
+  position: relative;
+  overflow: hidden;
+  background: #0f1311;
+}
+.skeleton::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.045), transparent);
+  animation: shimmer 1.6s infinite;
+}
+@keyframes shimmer {
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Keyboard focus ring — visible on every interactive element */
+:focus-visible {
+  outline: 2px solid #16c0a8;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/*
+ * Invoice printing. The site is dark by design; on paper we flip to a light
+ * document and drop the site chrome so an order prints as a clean invoice.
+ */
+@media print {
+  header,
+  footer,
+  .print-hide {
+    display: none !important;
+  }
+
+  .print-only {
+    display: block !important;
+  }
+
+  html,
+  body {
+    background: #fff !important;
+    color: #111 !important;
+  }
+
+  .container-x {
+    max-width: none !important;
+    padding: 0 !important;
+  }
+
+  [class*="bg-base"],
+  [class*="bg-black"],
+  [class*="bg-teal"],
+  [class*="bg-grass"] {
+    background: transparent !important;
+  }
+
+  [class*="text-white"],
+  [class*="text-teal"],
+  [class*="text-grass"] {
+    color: #111 !important;
+  }
+
+  [class*="text-fog"] {
+    color: #555 !important;
+  }
+
+  [class*="border-line"],
+  [class*="divide-line"] > * {
+    border-color: #ddd !important;
+  }
+
+  [class*="shadow-"] {
+    box-shadow: none !important;
+  }
+
+  a[href]::after {
+    content: "";
+  }
+}
+
+.print-only {
+  display: none;
+}
+
 ::-webkit-scrollbar {
   width: 11px;
   height: 11px;

@@ -31,11 +31,29 @@ export const site = {
 
 export const nav = [
   { label: "About", href: "/about" },
-  { label: "Capabilities", href: "/capabilities" },
+  { label: "Solutions", href: "/solutions" },
   { label: "Products", href: "/products" },
   { label: "Clients", href: "/clients" },
   { label: "Investors", href: "/investors" },
   { label: "Contact", href: "/contact" },
+];
+
+/** Signed-in customer menu, rendered from the header account dropdown. */
+export const accountNav = [
+  { label: "My orders", href: "/account/orders" },
+  { label: "Quote requests", href: "/account/quotes" },
+  { label: "Wishlist", href: "/account/wishlist" },
+  { label: "Addresses", href: "/account/addresses" },
+  { label: "Profile", href: "/account" },
+];
+
+export const adminNav = [
+  { label: "Dashboard", href: "/admin" },
+  { label: "Products", href: "/admin/products" },
+  { label: "Orders", href: "/admin/orders" },
+  { label: "Quotes", href: "/admin/quotes" },
+  { label: "Messages", href: "/admin/messages" },
+  { label: "Customers", href: "/admin/users" },
 ];
 
 export const stats = [

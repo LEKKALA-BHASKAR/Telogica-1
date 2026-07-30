@@ -2,8 +2,9 @@
 
 import { useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
-import { site } from "@/lib/site";
-import { ArrowRight, Check } from "./Icons";
+import { apiPost, toApiError } from "@/lib/api";
+import { ErrorNote } from "./commerce/Bits";
+import { ArrowRight, Check, Spinner } from "./Icons";
 
 const subjects = ["Sales Inquiry", "Technical Support", "Request a Quote", "Partnership", "Careers", "Other"];
 
@@ -11,6 +12,8 @@ export function ContactForm() {
   const params = useSearchParams();
   const product = params.get("product");
   const [sent, setSent] = useState(false);
+  const [busy, setBusy] = useState(false);
+  const [error, setError] = useState<string | null>(null);
   const [form, setForm] = useState({
     name: "",
     email: "",
@@ -33,15 +36,19 @@ export function ContactForm() {
     setForm((f) => ({ ...f, [k]: v }));
   }
 
-  function onSubmit(e: React.FormEvent) {
+  async function onSubmit(e: React.FormEvent) {
     e.preventDefault();
-    // Static site: open the user's mail client pre-filled (no backend required).
-    const body = `Name: ${form.name}\nEmail: ${form.email}\nPhone: ${form.phone}\n\n${form.message}`;
-    const href = `mailto:${site.email.sales}?subject=${encodeURIComponent(
-      `[${form.subject}] ${form.name}`
-    )}&body=${encodeURIComponent(body)}`;
-    window.location.href = href;
-    setSent(true);
+    setBusy(true);
+    setError(null);
+    try {
+      // Persisted to MongoDB and surfaced in Admin → Messages.
+      await apiPost("/messages", { ...form, productRef: product ?? undefined });
+      setSent(true);
+    } catch (err) {
+      setError(toApiError(err).message);
+    } finally {
+      setBusy(false);
+    }
   }
 
   const field =
@@ -55,7 +62,8 @@ export function ContactForm() {
         </span>
         <h3 className="mt-5 font-display text-xl font-bold text-white">Thank you!</h3>
         <p className="mt-2 max-w-sm text-sm text-fog">
-          Your email client should have opened with your message ready to send. We respond within 24 hours.
+          Your message has reached our sales desk and a confirmation is on its way to your inbox.
+          We respond within 24 hours.
         </p>
         <button onClick={() => setSent(false)} className="mt-6 text-sm font-semibold text-teal">
           Send another message
@@ -68,6 +76,12 @@ export function ContactForm() {
     <form onSubmit={onSubmit} className="rounded-2xl border border-line bg-base-800 p-6 shadow-card sm:p-8">
       <h3 className="font-display text-xl font-bold text-white">Send us a message</h3>
       <p className="mt-1 text-sm text-fog">We&rsquo;ll respond within 24 hours.</p>
+
+      {error && (
+        <div className="mt-5">
+          <ErrorNote message={error} />
+        </div>
+      )}
 
       <div className="mt-6 grid gap-4 sm:grid-cols-2">
         <div className="sm:col-span-1">
@@ -98,10 +112,12 @@ export function ContactForm() {
 
       <button
         type="submit"
-        className="group mt-6 inline-flex w-full items-center justify-center gap-2 rounded-md bg-teal px-6 py-3.5 text-sm font-semibold text-white shadow-glow-teal transition-all hover:-translate-y-0.5 hover:bg-teal-600 sm:w-auto"
+        disabled={busy}
+        className="group mt-6 inline-flex w-full items-center justify-center gap-2 rounded-md bg-teal px-6 py-3.5 text-sm font-semibold text-white shadow-glow-teal transition-all hover:-translate-y-0.5 hover:bg-teal-600 disabled:cursor-not-allowed disabled:opacity-60 sm:w-auto"
       >
-        Send Message
-        <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
+        {busy ? <Spinner className="h-4 w-4" /> : null}
+        {busy ? "Sending…" : "Send Message"}
+        {!busy && <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />}
       </button>
       <p className="mt-3 text-xs text-fog-dim">
         By submitting this form, you agree to our{" "}

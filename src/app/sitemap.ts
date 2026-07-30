@@ -1,10 +1,11 @@
 import type { MetadataRoute } from "next";
 import { site } from "@/lib/site";
-import { allProducts } from "@/lib/products";
+import { listProducts } from "@/lib/server-api";
 
-export const dynamic = "force-static";
+// Product slugs come from MongoDB, so the sitemap is generated per request.
+export const dynamic = "force-dynamic";
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const base = site.url;
   const staticRoutes = [
     "",
@@ -18,6 +19,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/clients",
     "/investors",
     "/contact",
+    "/quote",
     "/privacy-policy",
     "/terms",
   ].map((path) => ({
@@ -26,9 +28,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: path === "" ? 1 : 0.7,
   }));
 
-  const productRoutes = allProducts.map((p) => ({
-    url: `${base}/products/${p.id}`,
-    changeFrequency: "monthly" as const,
+  // If the API is unreachable the sitemap still lists every marketing route.
+  const result = await listProducts({ limit: 100, sort: "name" });
+  const productRoutes = (result?.items ?? []).map((p) => ({
+    url: `${base}/products/${p.slug}`,
+    changeFrequency: "weekly" as const,
     priority: 0.6,
   }));
 

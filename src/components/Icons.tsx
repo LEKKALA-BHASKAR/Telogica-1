@@ -125,3 +125,72 @@ export const Facebook = (p: P) => (
 export const Youtube = (p: P) => (
   <svg {...base(p)}><rect x="3" y="6" width="18" height="12" rx="3" /><path d="m11 9 4 3-4 3V9Z" fill="currentColor" stroke="none"/></svg>
 );
+
+/* ── Commerce ─────────────────────────────────────────────────────────── */
+
+export const Cart = (p: P) => (
+  <svg {...base(p)}><path d="M3 4h2l2.4 11.2a1.5 1.5 0 0 0 1.5 1.2h7.7a1.5 1.5 0 0 0 1.5-1.2L20 8H6" /><circle cx="9.5" cy="20" r="1.4" /><circle cx="17" cy="20" r="1.4" /></svg>
+);
+export const User = (p: P) => (
+  <svg {...base(p)}><circle cx="12" cy="8" r="3.6" /><path d="M4.5 20a7.5 7.5 0 0 1 15 0" /></svg>
+);
+export const Heart = (p: P) => (
+  <svg {...base(p)}><path d="M12 20s-7-4.4-7-9a4 4 0 0 1 7-2.6A4 4 0 0 1 19 11c0 4.6-7 9-7 9Z" /></svg>
+);
+export const Package = (p: P) => (
+  <svg {...base(p)}><path d="M12 2 3 7v10l9 5 9-5V7l-9-5Z" /><path d="m3 7 9 5 9-5M12 12v10M7.5 4.5l9 5" /></svg>
+);
+export const Truck = (p: P) => (
+  <svg {...base(p)}><path d="M3 16V6h11v10M14 9h4l3 3v4h-7" /><circle cx="7" cy="18" r="1.6" /><circle cx="17.5" cy="18" r="1.6" /></svg>
+);
+export const CreditCard = (p: P) => (
+  <svg {...base(p)}><rect x="2.5" y="5" width="19" height="14" rx="2.5" /><path d="M2.5 10h19M6 15h3" /></svg>
+);
+export const Lock = (p: P) => (
+  <svg {...base(p)}><rect x="4.5" y="10" width="15" height="10" rx="2.5" /><path d="M8 10V7.5a4 4 0 0 1 8 0V10" /></svg>
+);
+export const LogOut = (p: P) => (
+  <svg {...base(p)}><path d="M15 4h3a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2h-3M10 16l-4-4 4-4M6 12h10" /></svg>
+);
+export const Star = (p: P) => (
+  <svg {...base(p)}><path d="m12 3.6 2.6 5.3 5.8.8-4.2 4.1 1 5.8-5.2-2.8-5.2 2.8 1-5.8L3.6 9.7l5.8-.8L12 3.6Z" /></svg>
+);
+export const Plus = (p: P) => (
+  <svg {...base(p)}><path d="M12 5v14M5 12h14" /></svg>
+);
+export const Minus = (p: P) => (
+  <svg {...base(p)}><path d="M5 12h14" /></svg>
+);
+export const Trash = (p: P) => (
+  <svg {...base(p)}><path d="M4 7h16M9 7V5.5A1.5 1.5 0 0 1 10.5 4h3A1.5 1.5 0 0 1 15 5.5V7M6.5 7l.8 12a2 2 0 0 0 2 1.9h5.4a2 2 0 0 0 2-1.9l.8-12" /></svg>
+);
+export const Pencil = (p: P) => (
+  <svg {...base(p)}><path d="M4 20h4L19 9a2.1 2.1 0 0 0-3-3L5 17v3Z" /><path d="m14.5 6.5 3 3" /></svg>
+);
+export const Search = (p: P) => (
+  <svg {...base(p)}><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>
+);
+export const ChevronDown = (p: P) => (
+  <svg {...base(p)}><path d="m6 9 6 6 6-6" /></svg>
+);
+export const ChevronLeft = (p: P) => (
+  <svg {...base(p)}><path d="m15 6-6 6 6 6" /></svg>
+);
+export const ChevronRight = (p: P) => (
+  <svg {...base(p)}><path d="m9 6 6 6-6 6" /></svg>
+);
+export const Dashboard = (p: P) => (
+  <svg {...base(p)}><rect x="3" y="3" width="7.5" height="8.5" rx="1.6" /><rect x="13.5" y="3" width="7.5" height="5" rx="1.6" /><rect x="13.5" y="10.5" width="7.5" height="10.5" rx="1.6" /><rect x="3" y="14" width="7.5" height="7" rx="1.6" /></svg>
+);
+export const Users = (p: P) => (
+  <svg {...base(p)}><circle cx="9" cy="8" r="3.2" /><path d="M3 19a6 6 0 0 1 12 0" /><path d="M16 5.6a3.2 3.2 0 0 1 0 6.3M17.5 19a6 6 0 0 0-2-4.5" /></svg>
+);
+export const Inbox = (p: P) => (
+  <svg {...base(p)}><rect x="3" y="4.5" width="18" height="15" rx="2.5" /><path d="M3 13h5l1.5 2.5h5L16 13h5" /></svg>
+);
+export const Warning = (p: P) => (
+  <svg {...base(p)}><path d="M12 4.5 21 19H3l9-14.5Z" /><path d="M12 10v4M12 16.5v.01" /></svg>
+);
+export const Spinner = (p: P) => (
+  <svg {...base(p)} className={`animate-spin ${p.className ?? ""}`}><path d="M12 3a9 9 0 1 0 9 9" /></svg>
+);

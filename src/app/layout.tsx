@@ -3,6 +3,8 @@ import { Inter, Fredoka } from "next/font/google";
 import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import { Providers } from "@/components/Providers";
+import { OrganizationSchema } from "@/components/Seo";
 import { site } from "@/lib/site";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
@@ -46,9 +48,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className={`${inter.variable} ${fredoka.variable}`}>
       <body className="bg-black font-sans text-white antialiased">
-        <Header />
-        <main>{children}</main>
-        <Footer />
+        <OrganizationSchema />
+        <Providers>
+          <Header />
+          <main className="min-h-[60vh]">{children}</main>
+          <Footer />
+        </Providers>
       </body>
     </html>
   );

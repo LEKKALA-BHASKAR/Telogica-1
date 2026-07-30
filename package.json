@@ -1,25 +1,42 @@
 {
-  "name": "telogica-website",
-  "version": "1.0.0",
+  "name": "telogica-commerce",
+  "version": "2.0.0",
   "private": true,
+  "description": "Telogica full-stack commerce platform — Next.js (React) storefront on an Express + MongoDB API",
   "scripts": {
-    "dev": "next dev",
-    "fetch:bse": "python3 scripts/fetch_bse.py",
+    "dev": "concurrently -n web,api -c cyan,magenta \"npm:dev:web\" \"npm:dev:api\"",
+    "dev:web": "next dev",
+    "dev:api": "npm --prefix server run dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "build:api": "npm --prefix server run build",
+    "build:all": "npm run build:api && npm run build",
+    "start": "concurrently -n web,api -c cyan,magenta \"npm:start:web\" \"npm:start:api\"",
+    "start:web": "next start",
+    "start:api": "npm --prefix server run start",
+    "seed": "npm --prefix server run seed",
+    "seed:fresh": "npm --prefix server run seed -- --fresh",
+    "seed:destroy": "npm --prefix server run seed:destroy",
+    "setup": "npm install && npm --prefix server install",
+    "typecheck": "tsc --noEmit && npm --prefix server run typecheck",
+    "lint": "next lint",
+    "fetch:bse": "python3 scripts/fetch_bse.py"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^2.5.0",
+    "axios": "^1.7.9",
     "framer-motion": "^11.11.0",
     "next": "14.2.15",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-hot-toast": "^2.5.1",
+    "react-redux": "^9.2.0"
   },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.4.20",
+    "concurrently": "^9.1.2",
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.14",
     "typescript": "^5.6.3"
