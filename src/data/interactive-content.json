@@ -1,0 +1,302 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Telogica: 30 Years of RF Excellence",
+      "description": "Company overview video showcasing Telogica's journey from 1995 to market leadership in RF components.",
+      "duration": "3:45",
+      "thumbnail": "/videos/company-overview-thumb.jpg",
+      "url": "https://youtube.com/telogica-company-overview",
+      "category": "Company"
+    },
+    {
+      "id": 2,
+      "title": "RF Power Amplifier Design & Manufacturing",
+      "description": "Behind-the-scenes look at Telogica's RF amplifier design process from concept to production.",
+      "duration": "4:20",
+      "thumbnail": "/videos/rf-manufacturing-thumb.jpg",
+      "url": "https://youtube.com/telogica-rf-manufacturing",
+      "category": "Technology"
+    },
+    {
+      "id": 3,
+      "title": "FTTH Fiber Splicing - Best Practices",
+      "description": "Training video demonstrating professional fiber fusion splicing techniques using Telogica equipment.",
+      "duration": "8:15",
+      "thumbnail": "/videos/fiber-splicing-thumb.jpg",
+      "url": "https://youtube.com/telogica-fiber-splicing",
+      "category": "Training"
+    },
+    {
+      "id": 4,
+      "title": "Case Study: ISRO Satellite Communications",
+      "description": "How Telogica's RF systems enable India's satellite communication network.",
+      "duration": "6:30",
+      "thumbnail": "/videos/isro-casestudy-thumb.jpg",
+      "url": "https://youtube.com/telogica-isro-casestudy",
+      "category": "Case Study"
+    },
+    {
+      "id": 5,
+      "title": "Defense RF Systems - Technology Innovation",
+      "description": "Exclusive look at next-generation defense RF amplifier technology and innovation.",
+      "duration": "5:45",
+      "thumbnail": "/videos/defense-innovation-thumb.jpg",
+      "url": "https://youtube.com/telogica-defense-innovation",
+      "category": "Technology"
+    }
+  ],
+  "infographics": [
+    {
+      "id": 1,
+      "title": "RF Spectrum Coverage: 100 MHz–40 GHz",
+      "description": "Visual representation of Telogica's RF frequency coverage and applications",
+      "image": "/infographics/rf-spectrum.png",
+      "category": "Technical"
+    },
+    {
+      "id": 2,
+      "title": "FTTH Deployment Success Metrics",
+      "description": "500,000+ homes connected - splicing speed improvements and quality metrics",
+      "image": "/infographics/ftth-metrics.png",
+      "category": "Telecom"
+    },
+    {
+      "id": 3,
+      "title": "Defense Applications - 13 Sectors Served",
+      "description": "Infographic showing Telogica's defense applications across radar, EW, SATCOM, etc.",
+      "image": "/infographics/defense-applications.png",
+      "category": "Defense"
+    },
+    {
+      "id": 4,
+      "title": "Manufacturing Process Flow",
+      "description": "Step-by-step visual of Telogica's RF component manufacturing and testing",
+      "image": "/infographics/manufacturing-flow.png",
+      "category": "Manufacturing"
+    },
+    {
+      "id": 5,
+      "title": "Company Timeline: 30 Years of Innovation",
+      "description": "Timeline from 1995 founding to 2025 market leadership",
+      "image": "/infographics/company-timeline.png",
+      "category": "Company"
+    }
+  ],
+  "interactiveTools": [
+    {
+      "id": 1,
+      "type": "calculator",
+      "name": "RF Amplifier Selection Calculator",
+      "description": "Tool to help users select the right RF amplifier based on frequency, power, and linearity requirements",
+      "url": "/tools/rf-amplifier-selector",
+      "category": "Technical"
+    },
+    {
+      "id": 2,
+      "type": "comparison",
+      "name": "Product Comparison Tool",
+      "description": "Compare RF amplifiers and test equipment side-by-side on specifications and performance",
+      "url": "/tools/product-comparison",
+      "category": "Products"
+    },
+    {
+      "id": 3,
+      "type": "roi-calculator",
+      "name": "FTTH Deployment ROI Calculator",
+      "description": "Calculate return on investment for fiber-to-home deployments using Telogica equipment",
+      "url": "/tools/ftth-roi-calculator",
+      "category": "Telecom"
+    },
+    {
+      "id": 4,
+      "type": "configurator",
+      "name": "Custom RF Subsystem Configurator",
+      "description": "Configure custom RF subsystem based on your specific requirements and get instant specifications",
+      "url": "/tools/rf-configurator",
+      "category": "Custom Solutions"
+    },
+    {
+      "id": 5,
+      "type": "ecosystem-map",
+      "name": "Telogica Ecosystem Map",
+      "description": "Interactive visualization of Telogica's partnerships, capabilities, and service network",
+      "url": "/tools/ecosystem-map",
+      "category": "Company"
+    }
+  ],
+  "downloadableContent": [
+    {
+      "title": "RF Amplifier Selection Guide",
+      "type": "PDF",
+      "size": "3.2 MB",
+      "pages": 32,
+      "url": "/downloads/rf-amplifier-guide.pdf"
+    },
+    {
+      "title": "Product Catalog 2024",
+      "type": "PDF",
+      "size": "4.8 MB",
+      "pages": 48,
+      "url": "/downloads/product-catalog-2024.pdf"
+    },
+    {
+      "title": "FTTH Deployment Best Practices",
+      "type": "PDF",
+      "size": "2.8 MB",
+      "pages": 28,
+      "url": "/downloads/ftth-best-practices.pdf"
+    },
+    {
+      "title": "Quality Certifications & Compliance",
+      "type": "PDF",
+      "size": "1.5 MB",
+      "pages": 12,
+      "url": "/downloads/certifications-compliance.pdf"
+    },
+    {
+      "title": "Case Studies Collection",
+      "type": "PDF",
+      "size": "5.2 MB",
+      "pages": 52,
+      "url": "/downloads/casestudies-collection.pdf"
+    },
+    {
+      "title": "Company Fact Sheet",
+      "type": "PDF",
+      "size": "0.8 MB",
+      "pages": 2,
+      "url": "/downloads/company-factsheet.pdf"
+    }
+  ],
+  "customerStories": [
+    {
+      "id": 1,
+      "title": "ISRO's Next-Gen Satellite Communication",
+      "summary": "How Telogica enabled 99.97% uptime for India's satellite communication network",
+      "metrics": "+45% uplink capacity, 99.97% uptime, 8000+ MTBF",
+      "videoUrl": "/videos/isro-casestudy",
+      "downloadUrl": "/downloads/isro-casestudy.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Bharti Airtel's FTTH Revolution",
+      "summary": "Connecting 500,000+ homes to high-speed fiber using Telogica's rapid-splicing technology",
+      "metrics": "500,000+ homes connected, 2.5 min splice time, 98.5% success rate",
+      "videoUrl": "/videos/airtel-ftth-deployment",
+      "downloadUrl": "/downloads/airtel-ftth-casestudy.pdf"
+    },
+    {
+      "id": 3,
+      "title": "HAL Fighter Radar Enhancement",
+      "summary": "Defense-grade RF amplifiers enabling advanced fighter aircraft radar capability",
+      "metrics": "5,500+ MTBF, 100% field reliability, 35% range improvement",
+      "videoUrl": "/videos/hal-radar-system",
+      "downloadUrl": "/downloads/hal-radar-casestudy.pdf"
+    }
+  ],
+  "testimonialCarousel": [
+    {
+      "id": 1,
+      "quote": "Telogica's RF amplifiers are the backbone of our satellite communication infrastructure. Their quality and reliability are unmatched.",
+      "author": "Dr. K. Sivan",
+      "title": "Former Director, ISRO",
+      "company": "Indian Space Research Organisation"
+    },
+    {
+      "id": 2,
+      "quote": "The fusion splicers transformed our FTTH deployment efficiency. Speed, reliability, and technical support — all exceptional.",
+      "author": "Rajesh Patel",
+      "title": "VP Network Infrastructure",
+      "company": "Bharti Airtel"
+    },
+    {
+      "id": 3,
+      "quote": "Telogica's defense-grade components have proven critical to our fighter aircraft radar systems. Zero field failures is remarkable.",
+      "author": "Air Marshal R. S. Bhatia",
+      "title": "Former Air Officer-in-Charge",
+      "company": "Indian Air Force HQ"
+    },
+    {
+      "id": 4,
+      "quote": "The technical support team at Telogica is responsive and knowledgeable. They treat every issue as mission-critical.",
+      "author": "Priya Sharma",
+      "title": "Network Operations Manager",
+      "company": "BSNL"
+    }
+  ],
+  "eventInformation": [
+    {
+      "id": 1,
+      "type": "Trade Show",
+      "name": "India Electronics Week 2024",
+      "date": "March 15-17, 2024",
+      "location": "New Delhi",
+      "booth": "Hall C, Booth 245",
+      "highlights": ["Product demonstrations", "Technical sessions", "Networking events"],
+      "url": "/events/india-electronics-week-2024"
+    },
+    {
+      "id": 2,
+      "type": "Webinar",
+      "name": "Trends in Defense RF Systems",
+      "date": "February 28, 2024",
+      "time": "3:00 PM - 4:30 PM IST",
+      "speaker": "Rajesh Kumar, CEO Telogica",
+      "topic": "2024 trends, GaN technology, AI diagnostics",
+      "register": "/events/defense-rf-trends-webinar"
+    },
+    {
+      "id": 3,
+      "type": "Workshop",
+      "name": "Fiber Splicing Certification Workshop",
+      "date": "Bi-weekly (Register anytime)",
+      "location": "Telogica HQ, Hyderabad + Online",
+      "duration": "8 hours",
+      "certification": true,
+      "register": "/training/fiber-splicing-workshop"
+    },
+    {
+      "id": 4,
+      "type": "Webinar",
+      "name": "FTTH Deployment Best Practices",
+      "date": "March 5, 2024",
+      "time": "2:00 PM - 3:30 PM IST",
+      "speaker": "Priya Sharma, Head of Telecom Solutions",
+      "topic": "Rapid deployment, cost optimization, quality assurance",
+      "register": "/events/ftth-best-practices-webinar"
+    }
+  ],
+  "badges": [
+    {
+      "name": "30+ Years of Excellence",
+      "icon": "🏆",
+      "description": "Three decades of continuous innovation and customer satisfaction"
+    },
+    {
+      "name": "ISO 9001:2015 Certified",
+      "icon": "✓",
+      "description": "Quality management system compliance verified"
+    },
+    {
+      "name": "BSE Listed",
+      "icon": "📈",
+      "description": "Transparent governance and public company standards"
+    },
+    {
+      "name": "Trusted by ISRO & HAL",
+      "icon": "🛰️",
+      "description": "Defense-critical systems supplier for India's premier organizations"
+    },
+    {
+      "name": "500,000+ Deployments",
+      "icon": "🌍",
+      "description": "Proven track record at scale across India"
+    },
+    {
+      "name": "48-Hour Support Response",
+      "icon": "⚡",
+      "description": "Emergency technical support available 24/7"
+    }
+  ]
+}
