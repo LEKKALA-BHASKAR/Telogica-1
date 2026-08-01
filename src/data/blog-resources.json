@@ -1,0 +1,150 @@
+{
+  "resources": [
+    {
+      "id": 1,
+      "type": "Whitepaper",
+      "title": "RF Amplifier Selection Guide for Defense Applications",
+      "description": "Comprehensive guide to selecting RF amplifiers for radar, EW, and communications systems. Covers frequency selection, power requirements, linearity, and reliability considerations.",
+      "category": "Technical",
+      "readTime": "25 min",
+      "size": "3.2 MB",
+      "url": "/resources/rf-amplifier-selection-guide.pdf"
+    },
+    {
+      "id": 2,
+      "type": "Whitepaper",
+      "title": "FTTH Deployment: Best Practices for Rapid Fiber Installation",
+      "description": "Best practices guide for fiber-to-the-home deployment covering fiber splicing, testing, quality assurance, and field operations management.",
+      "category": "Telecom",
+      "readTime": "20 min",
+      "size": "2.8 MB",
+      "url": "/resources/ftth-deployment-guide.pdf"
+    },
+    {
+      "id": 3,
+      "type": "Technical Article",
+      "title": "Understanding Linearity in RF Power Amplifiers",
+      "description": "Deep dive into linearity metrics (1 dB compression point, IMD, ACPR) and their impact on system performance for communication and radar systems.",
+      "category": "Technical",
+      "readTime": "15 min",
+      "author": "Dr. Vikram Sharma, Senior RF Engineer",
+      "url": "/resources/rf-linearity-analysis.html"
+    },
+    {
+      "id": 4,
+      "type": "Case Study",
+      "title": "Achieving 99.97% Uptime in Satellite Communications",
+      "description": "Technical case study detailing the design and implementation of redundant RF subsystems for 24/7 satellite communications operations.",
+      "category": "Aerospace",
+      "readTime": "18 min",
+      "url": "/resources/satellite-uptime-casestudy.pdf"
+    },
+    {
+      "id": 5,
+      "type": "Blog Post",
+      "title": "The Future of RF Component Manufacturing in India",
+      "description": "Strategic insights on India's growing capabilities in RF component design and manufacturing, reducing import dependency for defense and telecom.",
+      "category": "Industry Trends",
+      "readTime": "10 min",
+      "published": "2024-01-15",
+      "author": "Rajesh Kumar, CEO",
+      "url": "/blog/rf-manufacturing-future.html"
+    },
+    {
+      "id": 6,
+      "type": "Technical Guide",
+      "title": "Network Analyzer Fundamentals and Best Practices",
+      "description": "Complete guide to using network analyzers for characterization and troubleshooting of RF components and subsystems.",
+      "category": "Test & Measurement",
+      "readTime": "22 min",
+      "size": "4.1 MB",
+      "url": "/resources/network-analyzer-guide.pdf"
+    },
+    {
+      "id": 7,
+      "type": "Webinar Recording",
+      "title": "Trends in Defense RF Systems: 2024 and Beyond",
+      "description": "Industry expert panel discussing emerging trends in defense RF systems, including GaN technology, modular architectures, and AI-driven diagnostics.",
+      "category": "Defense",
+      "duration": "60 min",
+      "recorded": "2024-02-20",
+      "url": "/resources/defense-rf-trends-webinar.mp4"
+    },
+    {
+      "id": 8,
+      "type": "Application Note",
+      "title": "Thermal Management in High-Power RF Amplifiers",
+      "description": "Practical application note on designing thermal management systems for high-power RF amplifiers in aerospace and defense applications.",
+      "category": "Technical",
+      "readTime": "12 min",
+      "url": "/resources/thermal-management-appnote.pdf"
+    },
+    {
+      "id": 9,
+      "type": "Blog Post",
+      "title": "5G Test Equipment: The Role of Advanced Analyzers",
+      "description": "Exploration of how modern test equipment is enabling 5G/6G network deployment and the role of spectrum and network analyzers.",
+      "category": "5G/6G",
+      "readTime": "13 min",
+      "published": "2024-02-10",
+      "author": "Priya Sharma, Product Marketing",
+      "url": "/blog/5g-test-equipment.html"
+    },
+    {
+      "id": 10,
+      "type": "Data Sheet",
+      "title": "Fusion Splicer Series - Technical Specifications",
+      "description": "Complete technical specifications for Telogica's line of fusion splicers including performance metrics, environmental ratings, and certifications.",
+      "category": "Product",
+      "readTime": "8 min",
+      "size": "1.5 MB",
+      "url": "/datasheets/fusion-splicer-series.pdf"
+    },
+    {
+      "id": 11,
+      "type": "Industry Report",
+      "title": "India's Defense Electronics Market: Growth Opportunities",
+      "description": "Comprehensive market analysis of India's defense electronics sector, growth drivers, government initiatives, and opportunities for component manufacturers.",
+      "category": "Market Analysis",
+      "readTime": "30 min",
+      "published": "2024-01-05",
+      "url": "/resources/defense-electronics-market-report.pdf"
+    },
+    {
+      "id": 12,
+      "type": "Training Module",
+      "title": "Fiber Splicing Certification Course",
+      "description": "Complete online training module covering fiber splicing theory, hands-on techniques, quality assurance, and industry best practices.",
+      "category": "Training",
+      "duration": "8 hours",
+      "certification": true,
+      "url": "/training/fiber-splicing-certification.html"
+    }
+  ],
+  "insights": [
+    {
+      "title": "Defense Electronics Market Growth",
+      "value": "₹2.5 Trillion",
+      "period": "2024-2030",
+      "source": "Industry Analysis"
+    },
+    {
+      "title": "Telecom Infrastructure Investment",
+      "value": "₹1.8 Trillion",
+      "period": "5G & Beyond",
+      "source": "Government Initiative"
+    },
+    {
+      "title": "India's RF Component Import Dependency",
+      "value": "₹8,500 Crores/year",
+      "period": "Current",
+      "source": "Trade Data"
+    },
+    {
+      "title": "Expected Reduction Through Make in India",
+      "value": "60%",
+      "period": "By 2030",
+      "source": "Government Target"
+    }
+  ]
+}

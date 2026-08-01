@@ -1,0 +1,139 @@
+{
+  "productCategories": [
+    {
+      "id": "rf-amplifiers",
+      "name": "RF Power Amplifiers",
+      "icon": "radio-tower",
+      "tagline": "Defense-Grade RF Amplification | 100 MHz–40 GHz",
+      "description": "High-performance RF power amplifiers engineered for demanding defense, aerospace, and critical infrastructure applications. Our amplifiers deliver exceptional linearity, efficiency, and reliability across the full RF spectrum.",
+      "heroImage": "/products/rf-hero.jpg",
+      "features": [
+        "100 MHz–40 GHz frequency coverage",
+        "High linearity performance (±1 dB flatness typical)",
+        "Wide dynamic range (70+ dB)",
+        "Aerospace-grade reliability and redundancy",
+        "Custom power ratings from 10W to 5KW",
+        "MIL-STD tested and certified"
+      ],
+      "applications": [
+        {
+          "name": "Radar Systems",
+          "description": "High-power amplifiers for search, tracking, and fire-control radar with precise phase linearity and gain flatness.",
+          "products": 8
+        },
+        {
+          "name": "Electronic Warfare",
+          "description": "Broadband amplifiers for EW systems, jamming, and ECM with rapid frequency switching capability.",
+          "products": 6
+        },
+        {
+          "name": "Satellite Communications",
+          "description": "Linear amplifiers for SATCOM uplinks with exceptional efficiency and thermal management.",
+          "products": 5
+        },
+        {
+          "name": "Missile & Guidance Systems",
+          "description": "Compact, high-reliability amplifiers for guidance and telemetry with extreme environmental tolerance.",
+          "products": 4
+        },
+        {
+          "name": "UAV & Drone Systems",
+          "description": "Lightweight, power-efficient RF systems for unmanned aerial vehicle communications.",
+          "products": 3
+        }
+      ],
+      "benefits": [
+        "Single-source accountability from component to subsystem",
+        "Reduced MTTR with proven reliability records",
+        "Accelerated integration through vertical integration",
+        "Support for legacy and cutting-edge platforms"
+      ]
+    },
+    {
+      "id": "test-measurement",
+      "name": "Test & Measurement Equipment",
+      "icon": "microscope",
+      "tagline": "Professional Network & RF Testing Solutions",
+      "description": "Advanced test and measurement instruments for telecom infrastructure, RF systems, and network deployment. Industry-standard equipment used by major telecom operators and defense agencies.",
+      "heroImage": "/products/test-hero.jpg",
+      "subcategories": [
+        {
+          "name": "Optical Testing",
+          "items": [
+            "Fusion Splicers (single & ribbon fiber)",
+            "OTDR Systems (Optical Time-Domain Reflectometers)",
+            "Cable Fault Locators",
+            "Optical Power Meters"
+          ]
+        },
+        {
+          "name": "RF Testing",
+          "items": [
+            "Spectrum Analyzers",
+            "Network Analyzers",
+            "Signal Generators",
+            "Power Meters"
+          ]
+        },
+        {
+          "name": "Telecom Testing",
+          "items": [
+            "SDH Analyzers",
+            "BTS Testers",
+            "Site Analyzers",
+            "Protocol Analyzers"
+          ]
+        }
+      ],
+      "benefits": [
+        "Industry-standard reliability trusted by major operators",
+        "Portable, ruggedized design for field deployment",
+        "Comprehensive technical documentation and support",
+        "Training programs for deployment teams"
+      ]
+    },
+    {
+      "id": "custom-solutions",
+      "name": "Custom RF & Subsystems",
+      "icon": "cog",
+      "tagline": "Engineered for Your Mission | Component to Subsystem Integration",
+      "description": "Bespoke RF solutions designed specifically for your application requirements. From single-component customization to complete integrated subsystems, we deliver tailored engineering solutions.",
+      "heroImage": "/products/custom-hero.jpg",
+      "capabilities": [
+        "Custom frequency and power ratings",
+        "Impedance and interface customization",
+        "Environmental hardening (temperature, vibration, altitude)",
+        "Integration with existing platforms",
+        "Rapid prototyping and testing",
+        "Production documentation and support"
+      ],
+      "engineeringProcess": [
+        {
+          "step": 1,
+          "name": "Requirements Analysis",
+          "description": "Detailed technical review of your application, performance metrics, environmental constraints, and integration needs."
+        },
+        {
+          "step": 2,
+          "name": "Design & Simulation",
+          "description": "Advanced CAD and electromagnetic simulation to optimize performance before hardware development."
+        },
+        {
+          "step": 3,
+          "name": "Prototype Development",
+          "description": "Rapid prototyping with full testing and validation against your specifications."
+        },
+        {
+          "step": 4,
+          "name": "Testing & Certification",
+          "description": "Comprehensive testing including environmental, performance, and reliability testing with full documentation."
+        },
+        {
+          "step": 5,
+          "name": "Production & Support",
+          "description": "Full production support with quality assurance, logistics, and long-term technical support."
+        }
+      ]
+    }
+  ]
+}

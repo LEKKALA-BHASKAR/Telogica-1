@@ -1,0 +1,166 @@
+{
+  "partnerships": [
+    {
+      "category": "Strategic Government Partnerships",
+      "partners": [
+        {
+          "name": "ISRO (Indian Space Research Organisation)",
+          "relationship": "Strategic RF component supplier for satellite communication systems",
+          "duration": "15+ years",
+          "scope": "RF amplifiers, custom subsystems for satellite uplinks",
+          "impact": "Enabled India's indigenous satellite communication capability"
+        },
+        {
+          "name": "HAL (Hindustan Aeronautics Limited)",
+          "relationship": "Approved supplier for defense aircraft platforms",
+          "duration": "12+ years",
+          "scope": "Radar RF amplifiers, fighter aircraft systems",
+          "impact": "Supporting next-generation combat aircraft development"
+        },
+        {
+          "name": "BEL (Bharat Electronics Limited)",
+          "relationship": "Joint supplier for defense radar systems",
+          "duration": "10+ years",
+          "scope": "RF components, integrated subsystems",
+          "impact": "Strengthening India's defense electronics capability"
+        },
+        {
+          "name": "DRDO (Defence Research and Development Organisation)",
+          "relationship": "Technology partner for advanced RF systems research",
+          "duration": "8+ years",
+          "scope": "Radar, EW, and communication systems",
+          "impact": "Contributing to indigenous defense technology development"
+        }
+      ]
+    },
+    {
+      "category": "Telecom & Infrastructure Partnerships",
+      "partners": [
+        {
+          "name": "Bharti Airtel",
+          "relationship": "Preferred supplier for FTTH deployment equipment",
+          "duration": "8+ years",
+          "scope": "Fusion splicers, cable locators, site analyzers",
+          "impact": "Enabling 500,000+ home fiber connections"
+        },
+        {
+          "name": "BSNL (Bharat Sanchar Nigam Limited)",
+          "relationship": "Approved vendor for telecom infrastructure testing",
+          "duration": "10+ years",
+          "scope": "Network testing equipment, fiber installation tools",
+          "impact": "Supporting nationwide telecom infrastructure maintenance"
+        },
+        {
+          "name": "Tata Communications",
+          "relationship": "Infrastructure partner for network optimization",
+          "duration": "6+ years",
+          "scope": "Test equipment, network analyzers",
+          "impact": "Enabling high-performance telecom network operations"
+        },
+        {
+          "name": "Indian Railways",
+          "relationship": "Communication systems supplier",
+          "duration": "7+ years",
+          "scope": "RF communication systems, signaling equipment",
+          "impact": "Supporting railway operations across India"
+        }
+      ]
+    },
+    {
+      "category": "Technology & Component Partners",
+      "partners": [
+        {
+          "name": "Analog Devices",
+          "relationship": "Component supplier partnership",
+          "focus": "High-performance RF ICs and mixed-signal semiconductors"
+        },
+        {
+          "name": "Skyworks Solutions",
+          "relationship": "Semiconductor technology partner",
+          "focus": "RF power amplifiers and integrated solutions"
+        },
+        {
+          "name": "Qorvo",
+          "relationship": "GaN and advanced RF technology partner",
+          "focus": "Next-generation power amplifier technologies"
+        },
+        {
+          "name": "Nexperia",
+          "relationship": "Discrete semiconductor supplier",
+          "focus": "RF and power management semiconductors"
+        }
+      ]
+    },
+    {
+      "category": "Academic & Research Collaborations",
+      "partners": [
+        {
+          "name": "IIT Bombay",
+          "focus": "RF chip design and microwave engineering research"
+        },
+        {
+          "name": "IIT Delhi",
+          "focus": "Antenna and RF systems design",
+          "collaboration": "Joint research on advanced RF architectures"
+        },
+        {
+          "name": "NIT Warangal",
+          "focus": "Microwave and communication systems",
+          "collaboration": "Talent pipeline and research partnerships"
+        },
+        {
+          "name": "IEEE India Council",
+          "focus": "Technical standards and industry knowledge sharing",
+          "collaboration": "Participating in standards development committees"
+        }
+      ]
+    }
+  ],
+  "ecosystem": {
+    "manufacturing": {
+      "title": "Manufacturing Ecosystem",
+      "description": "Integrated manufacturing capability spanning component assembly to complete subsystem integration",
+      "capabilities": [
+        "Automated SMT (Surface Mount Technology)",
+        "Advanced PCB assembly and testing",
+        "High-frequency RF testing and characterization",
+        "Thermal imaging and reliability testing",
+        "EMI/EMC testing facilities",
+        "Environmental chamber testing (-40°C to +85°C)"
+      ]
+    },
+    "research": {
+      "title": "Research & Development",
+      "description": "Continuous innovation in RF technology, thermal management, and system integration",
+      "focus": [
+        "GaN and advanced semiconductor technology adoption",
+        "AI-driven diagnostic systems for predictive maintenance",
+        "Modular RF subsystem architectures",
+        "Thermal management innovations",
+        "Next-generation test equipment design"
+      ]
+    },
+    "distribution": {
+      "title": "Distribution & Support Network",
+      "description": "Pan-India support infrastructure with field service centers",
+      "reach": [
+        "12 field service centers across major cities",
+        "48-hour emergency support response",
+        "On-site installation and commissioning teams",
+        "Remote diagnostics and monitoring capability",
+        "Comprehensive spare parts inventory"
+      ]
+    },
+    "training": {
+      "title": "Training & Certification",
+      "description": "Professional development programs for customers and partners",
+      "programs": [
+        "Fiber splicing certification (8-hour course)",
+        "RF system fundamentals (40-hour course)",
+        "Test equipment operation and troubleshooting",
+        "Product-specific training for deployed systems",
+        "Custom training for enterprise customers"
+      ]
+    }
+  }
+}

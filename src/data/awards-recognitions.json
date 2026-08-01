@@ -1,0 +1,126 @@
+{
+  "awards": [
+    {
+      "year": 2024,
+      "title": "Best Defence Component Manufacturer",
+      "issuer": "CII - Confederation of Indian Industry",
+      "category": "Defense & Aerospace",
+      "description": "Recognition for excellence in manufacturing defense-grade RF components and subsystems meeting international quality standards."
+    },
+    {
+      "year": 2023,
+      "title": "Innovation Excellence Award",
+      "issuer": "NASSCOM",
+      "category": "Electronics & Manufacturing",
+      "description": "Award for breakthrough innovations in RF amplifier technology and test equipment design."
+    },
+    {
+      "year": 2023,
+      "title": "Supplier of Excellence",
+      "issuer": "Bharti Airtel",
+      "category": "Telecommunications",
+      "description": "Recognition for exceptional service delivery and quality in FTTH deployment equipment."
+    },
+    {
+      "year": 2022,
+      "title": "Make in India Champion",
+      "issuer": "Ministry of Commerce & Industry",
+      "category": "Electronics Manufacturing",
+      "description": "Recognition for contributing to indigenous manufacturing of defense electronics and reducing import dependency."
+    },
+    {
+      "year": 2022,
+      "title": "Quality Leadership Award",
+      "issuer": "Indian Standards Institution",
+      "category": "Manufacturing Excellence",
+      "description": "Award for maintaining ISO 9001:2015 standards and continuous process improvement across all manufacturing operations."
+    },
+    {
+      "year": 2021,
+      "title": "Strategic Defense Partner",
+      "issuer": "Hindustan Aeronautics Limited (HAL)",
+      "category": "Aerospace & Defense",
+      "description": "Recognition as trusted strategic partner for advanced defense RF systems and components."
+    },
+    {
+      "year": 2021,
+      "title": "Technology Excellence",
+      "issuer": "India Electronics & Semiconductor Association",
+      "category": "Component Design",
+      "description": "Award for excellence in semiconductor-based RF amplifier design and integration."
+    },
+    {
+      "year": 2020,
+      "title": "Best Emerging Technology Company",
+      "issuer": "ET Magazine",
+      "category": "Electronics",
+      "description": "Recognition for emerging leadership in RF technology and innovative test equipment solutions."
+    },
+    {
+      "year": 2019,
+      "title": "Export Excellence Award",
+      "issuer": "FIEO - Federation of Indian Export Organisations",
+      "category": "Electronics Export",
+      "description": "Award for contributing to India's electronics export revenue and global market presence."
+    },
+    {
+      "year": 2019,
+      "title": "Supplier Partnership Award",
+      "issuer": "ISRO",
+      "category": "Space & Satellite",
+      "description": "Recognition for excellence as strategic supplier for ISRO's satellite communication systems."
+    }
+  ],
+  "recognitions": [
+    {
+      "type": "Government Approvals",
+      "items": [
+        "Approved vendor for Department of Defense",
+        "Listed supplier for ISRO procurement",
+        "Authorized vendor for BSNL and PSU telecom operators",
+        "Approved supplier for Indian Railways",
+        "Government e-Marketplace (GeM) registered"
+      ]
+    },
+    {
+      "type": "Industry Certifications",
+      "items": [
+        "ISO 9001:2015 - Quality Management",
+        "ISO 14001:2015 - Environmental Management",
+        "OHSAS 18001 - Occupational Health & Safety",
+        "SEBI LODR - Stock Exchange Compliance",
+        "BIS (Bureau of Indian Standards) certified"
+      ]
+    },
+    {
+      "type": "Technical Standards Compliance",
+      "items": [
+        "MIL-STD 461 - Electromagnetic Emissions",
+        "MIL-STD 462 - Electromagnetic Susceptibility",
+        "MIL-STD 810 - Environmental Test Methods",
+        "ITU recommendations for telecom equipment",
+        "CCITT standards for network equipment"
+      ]
+    },
+    {
+      "type": "Media Coverage & Publications",
+      "items": [
+        "Featured in 'India's Defense Manufacturers' (2023 - Armed Forces Journal)",
+        "Case study: 'RF Engineering Excellence' (2022 - IEEE Spectrum India)",
+        "Interview: 'Making India Atmanirbhar in Defense Electronics' (2023 - ET Magazine)",
+        "Article: 'Next Generation Satellite Communications' (2023 - ISS Digest)",
+        "Profile: 'Telogica: From Aishwarya to Global Recognition' (2022 - Business Today)"
+      ]
+    },
+    {
+      "type": "Industry Leadership",
+      "items": [
+        "Member - CII (Confederation of Indian Industry) - Electronics Task Force",
+        "Member - IESA (India Electronics & Semiconductor Association)",
+        "Member - FIEO (Federation of Indian Export Organisations)",
+        "Presenter - IEEE conferences on RF and microwave technology",
+        "Contributor - International Journal of RF and Microwave Engineering"
+      ]
+    }
+  ]
+}

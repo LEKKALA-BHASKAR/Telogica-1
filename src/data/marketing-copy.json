@@ -1,0 +1,197 @@
+{
+  "heroSections": [
+    {
+      "id": "homepage",
+      "headline": "The RF That Keeps Missions Running",
+      "subheadline": "Defense-Grade RF Power Amplifiers & Components | Component to Subsystem | 100 MHz–40 GHz",
+      "ctaText": "Explore Our Solutions",
+      "backgroundImage": "/images/hero-defense.jpg",
+      "keyPoints": [
+        "30+ years of RF engineering excellence",
+        "Trusted by ISRO, HAL, BEL, DRDO, and major telecom operators",
+        "ISO 9001:2015 certified, BSE listed (532975)",
+        "From component design to complete subsystem integration"
+      ]
+    },
+    {
+      "id": "defense",
+      "headline": "Defense-Grade RF Systems That Exceed MIL-SPEC",
+      "subheadline": "Supporting India's Defense & Aerospace Innovation",
+      "ctaText": "Learn About Defense Solutions",
+      "backgroundImage": "/images/hero-radar.jpg",
+      "stats": [
+        "13 defense applications served",
+        "5,500+ MTBF in combat aircraft",
+        "99.97% uptime in satellite networks",
+        "Zero field failures across platforms"
+      ]
+    },
+    {
+      "id": "telecom",
+      "headline": "Fiber To Every Home — At Scale",
+      "subheadline": "Test & Measurement Equipment Enabling Rapid FTTH Deployment",
+      "ctaText": "Explore Telecom Solutions",
+      "backgroundImage": "/images/hero-ftth.jpg",
+      "achievements": [
+        "500,000+ homes connected",
+        "2.5 min per splice (vs 5+ min industry standard)",
+        "98.5% splice success rate",
+        "50% reduction in maintenance callbacks"
+      ]
+    }
+  ],
+  "valuePropositions": [
+    {
+      "icon": "circuit-board",
+      "title": "Component to Subsystem",
+      "description": "Vertical integration from component design to complete subsystem delivery. Single source accountability. Reduced complexity. Faster integration.",
+      "benefits": [
+        "Single point of accountability",
+        "Seamless system integration",
+        "Reduced supplier management",
+        "Optimized performance"
+      ]
+    },
+    {
+      "icon": "spectrum",
+      "title": "Broad Spectrum Coverage",
+      "description": "100 MHz–40 GHz capability across all RF applications. Reduces qualification burden. Accelerates project timelines.",
+      "benefits": [
+        "Cover all frequency bands",
+        "Reduce vendor management",
+        "Faster system deployment",
+        "Future-proof architecture"
+      ]
+    },
+    {
+      "icon": "chart-line",
+      "title": "Measured Performance",
+      "description": "Built on test-and-measurement foundation. Our performance is proven through rigorous testing, not claimed through marketing.",
+      "benefits": [
+        "Verified performance metrics",
+        "Rigorous quality assurance",
+        "Transparent specifications",
+        "Reliable in mission-critical scenarios"
+      ]
+    },
+    {
+      "icon": "shield",
+      "title": "Defense-Grade Reliability",
+      "description": "Engineered for demanding defense, aerospace, and critical infrastructure applications. Proven reliability in harsh environments.",
+      "benefits": [
+        "MIL-SPEC compliance",
+        "Extreme environment tolerance",
+        "Long-term reliability",
+        "Redundancy and failover capability"
+      ]
+    }
+  ],
+  "marketingMessages": [
+    {
+      "type": "authority",
+      "title": "Trusted by India's Defense & Space",
+      "message": "ISRO, HAL, BEL, DRDO, and Indian Railways depend on Telogica RF systems for their most critical missions.",
+      "visuals": ["ISRO logo", "HAL logo", "BEL logo", "DRDO logo"]
+    },
+    {
+      "type": "innovation",
+      "title": "Pioneering Advanced RF Technology",
+      "message": "From GaN-based power amplifiers to AI-driven diagnostics, Telogica leads innovation in RF component design and manufacturing.",
+      "features": ["Next-gen GaN technology", "AI diagnostics", "Modular architecture", "Thermal management innovation"]
+    },
+    {
+      "type": "scale",
+      "title": "Scaling India's Digital Infrastructure",
+      "message": "Enabled 500,000+ FTTH connections. Supporting nationwide telecom infrastructure. Bringing high-speed internet to millions.",
+      "metrics": [
+        "500,000+ homes connected via FTTH",
+        "12+ metropolitan cities covered",
+        "50,000+ direct/indirect jobs created",
+        "₹8,500 Cr import dependency reduced"
+      ]
+    },
+    {
+      "type": "quality",
+      "title": "ISO Certified Excellence",
+      "message": "Quality is not an afterthought. ISO 9001:2015 certification reflects our commitment to excellence across every process.",
+      "certifications": ["ISO 9001:2015", "SEBI LODR", "BSE Listed", "MIL-SPEC Compliant"]
+    },
+    {
+      "type": "partnership",
+      "title": "Your Technology Partner",
+      "message": "More than a supplier. We're engineering partners supporting your most critical projects with technical expertise and responsive support.",
+      "support": [
+        "48-hour emergency support",
+        "Field commissioning teams",
+        "Remote diagnostics",
+        "Long-term technical partnership"
+      ]
+    }
+  ],
+  "socialProof": {
+    "testimonialCounts": "Trusted by 13+ major organizations",
+    "yearsinBusiness": "30+ years of RF engineering",
+    "employeeCount": "75+ RF engineers and technicians",
+    "deploymentScale": "500,000+ systems deployed globally",
+    "uptimeRecord": "99.97% average system uptime"
+  },
+  "callsToAction": [
+    {
+      "text": "Request a Quote",
+      "action": "open-quote-form",
+      "target": "enterprise-customers"
+    },
+    {
+      "text": "Browse Products",
+      "action": "navigate-to-catalog",
+      "target": "all-users"
+    },
+    {
+      "text": "Schedule Technical Consultation",
+      "action": "book-consultation",
+      "target": "defense-aerospace-clients"
+    },
+    {
+      "text": "Download Technical Resources",
+      "action": "access-resources",
+      "target": "engineers"
+    },
+    {
+      "text": "Explore Case Studies",
+      "action": "view-casestudies",
+      "target": "enterprise-buyers"
+    },
+    {
+      "text": "Contact Sales",
+      "action": "open-contact-form",
+      "target": "all-users"
+    }
+  ],
+  "differentiators": [
+    {
+      "vs": "Import Dependency",
+      "telogica": "100% indigenous design & manufacturing",
+      "benefit": "Reduce import dependency, support Make in India"
+    },
+    {
+      "vs": "Multi-Vendor Complexity",
+      "telogica": "Single-source component to subsystem",
+      "benefit": "Simplified procurement, faster integration"
+    },
+    {
+      "vs": "Unproven Vendors",
+      "telogica": "Proven track record with ISRO, HAL, DRDO",
+      "benefit": "Trusted partner for critical missions"
+    },
+    {
+      "vs": "Generic Solutions",
+      "telogica": "Custom engineering for your requirements",
+      "benefit": "Optimized performance, reduced risk"
+    },
+    {
+      "vs": "Limited Support",
+      "telogica": "48-hour emergency support, field teams",
+      "benefit": "Peace of mind with responsive partnership"
+    }
+  ]
+}

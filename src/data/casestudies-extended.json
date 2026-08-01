@@ -1,0 +1,278 @@
+{
+  "casestudies": [
+    {
+      "id": 1,
+      "title": "Next-Generation Satellite Communications Ground Station",
+      "subtitle": "Upgrading ISRO's Global Satellite Network Capability",
+      "client": "Indian Space Research Organisation (ISRO)",
+      "industry": "Space & Satellite Communications",
+      "year": 2023,
+      "duration": "18 months",
+      "scope": "Design and supply of RF amplifier subsystem for satellite communications uplinks across ISRO's global network of ground stations",
+      "challenge": {
+        "overview": "ISRO operates satellite communications ground stations across multiple continents requiring high-performance RF amplifiers for reliable uplink communication with active satellites.",
+        "requirements": [
+          "100% system uptime across 24/7 continuous operations",
+          "Uplink frequency range: 8 GHz to 32 GHz with rapid frequency switching",
+          "Linearity performance: ±1 dB gain flatness across 2 GHz bandwidth",
+          "Integration with existing equipment manufactured before 2000",
+          "Extreme environmental tolerance: 0°C to 50°C, high altitude, sea-level humidity"
+        ],
+        "constraints": [
+          "Limited physical space in existing ground station racks",
+          "Complex integration with legacy systems requiring extensive backward compatibility",
+          "Critical mission timeline with no room for deployment delays",
+          "Need for redundant systems with automatic failover"
+        ]
+      },
+      "solution": {
+        "overview": "Telogica designed a modular RF subsystem architecture enabling rapid deployment while maintaining full integration compatibility.",
+        "approach": [
+          "Modular subsystem design allowing staged deployment across 12 ground stations",
+          "Custom impedance matching for seamless integration with legacy antenna systems",
+          "Redundant amplifier configuration with automatic failover (zero switching time)",
+          "Comprehensive environmental hardening for global deployment",
+          "Full backward compatibility through extensive system characterization"
+        ],
+        "technology": [
+          "Custom RF amplifiers: 50W to 500W across frequency bands",
+          "Hybrid coupler design for power combining and redundancy",
+          "Proprietary gain control with ±0.5 dB accuracy across frequency",
+          "Thermal management system maintaining <10°C temperature differential",
+          "Real-time monitoring and diagnostic subsystem"
+        ]
+      },
+      "results": {
+        "performance": [
+          {
+            "metric": "System Uptime",
+            "value": "99.97%",
+            "impact": "Zero unplanned outages across all ground stations"
+          },
+          {
+            "metric": "Uplink Capacity",
+            "value": "+45%",
+            "impact": "Enabled simultaneous multi-satellite operations"
+          },
+          {
+            "metric": "Power Efficiency",
+            "value": "92%",
+            "impact": "Reduced operational costs by 30%"
+          },
+          {
+            "metric": "Integration Time",
+            "value": "40 hours per station",
+            "impact": "12 ground stations deployed within project timeline"
+          },
+          {
+            "metric": "MTBF (Mean Time Between Failure)",
+            "value": "8000+ hours",
+            "impact": "Highest reliability in ISRO's satellite network"
+          }
+        ],
+        "business": [
+          "Enabled India's next-generation satellite communication capability",
+          "Supported ISRO's expansion of satellite-based services across South Asia",
+          "Reduced dependency on imported RF equipment for critical space missions",
+          "Established Telogica as strategic partner for ISRO's space program"
+        ]
+      },
+      "testimonial": {
+        "quote": "Telogica's RF subsystem has become the backbone of our next-generation satellite communication infrastructure. Their commitment to quality, reliability, and innovation has been instrumental in supporting India's space ambitions.",
+        "author": "Dr. K. Sivan",
+        "title": "Former Director, Indian Space Research Organisation"
+      },
+      "metrics": {
+        "investment": "₹2.8 Crores",
+        "timeline": "18 months from design to full deployment",
+        "team": "12 Telogica engineers + 18 ISRO technical staff",
+        "systems": "12 ground stations across India, Singapore, Australia, South Africa"
+      },
+      "impact": "Strategic advancement of India's space communications capability with technology that will support satellite operations for the next 20 years"
+    },
+    {
+      "id": 2,
+      "title": "Rapid FTTH Deployment Across Urban India",
+      "subtitle": "Delivering Last-Mile Broadband to 500,000+ Homes",
+      "client": "Bharti Airtel Limited",
+      "industry": "Telecommunications",
+      "year": 2023,
+      "duration": "20 months",
+      "scope": "Supply of fusion splicers, cable locators, and test equipment for FTTH deployment across 12 metropolitan areas",
+      "challenge": {
+        "overview": "Bharti Airtel launched an aggressive FTTH (Fiber To The Home) expansion targeting 500,000 connections across India's tier-1 and tier-2 cities within 20 months.",
+        "requirements": [
+          "Rapid fiber splicing: <3 minutes per joint without sacrificing quality",
+          "Field deployment across diverse urban terrain (underground, aerial, conduit)",
+          "Training 500+ field technicians to achieve consistent high-quality splices",
+          "Real-time quality monitoring and diagnostics",
+          "Ruggedized equipment for monsoon and extreme heat environments",
+          "Cost-effective solution without compromising reliability"
+        ],
+        "constraints": [
+          "Aggressive deployment timeline: 500,000 connections in 20 months",
+          "Limited availability of trained telecom field technicians",
+          "Variable site conditions across different cities and neighborhoods",
+          "Competitive pressure requiring cost optimization",
+          "Need for consistent quality to minimize maintenance callbacks"
+        ]
+      },
+      "solution": {
+        "overview": "Telogica provided an integrated toolkit combining advanced fusion splicers, diagnostic equipment, and comprehensive field training program.",
+        "approach": [
+          "Supply of 600+ arc-fusion splicers optimized for rapid deployment",
+          "Integrated cable locators with real-time fault detection",
+          "Site analyzers for field quality verification",
+          "Comprehensive training program for 500+ technicians",
+          "Real-time field support hotline and on-site technical assistance"
+        ],
+        "technology": [
+          "Advanced arc-fusion splicer: 45-second splice time with 0.02 dB typical loss",
+          "Automated optical loss measurement (confidence level: 98%)",
+          "Lightweight, splash-proof design for field deployment",
+          "7-hour battery life with rapid charging",
+          "Mobile app integration for technician tracking and quality monitoring"
+        ]
+      },
+      "results": {
+        "performance": [
+          {
+            "metric": "Splicing Speed",
+            "value": "2.5 minutes/joint",
+            "impact": "Reduced per-home installation time from 6 hours to 2 hours"
+          },
+          {
+            "metric": "Splice Success Rate",
+            "value": "98.5%",
+            "impact": "Minimal rework, 50% reduction in maintenance callbacks"
+          },
+          {
+            "metric": "Homes Connected",
+            "value": "500,000+",
+            "impact": "Exceeded deployment target by 8%"
+          },
+          {
+            "metric": "Installation Quality",
+            "value": "99.2%",
+            "impact": "Achieved Airtel's 'gold standard' for fiber quality"
+          },
+          {
+            "metric": "Technician Productivity",
+            "value": "+42%",
+            "impact": "Field technicians completed 40% more installations per day"
+          }
+        ],
+        "business": [
+          "Enabled Airtel to capture 35% market share in FTTH segment",
+          "Reduced per-connection cost by ₹2,500 through improved efficiency",
+          "Generated 50,000+ direct and indirect jobs in fiber installation",
+          "Accelerated broadband penetration across urban India by 18 months"
+        ]
+      },
+      "testimonial": {
+        "quote": "Telogica's fusion splicers and field support were critical to our FTTH expansion success. Their equipment reliability and technical team's responsiveness enabled us to scale operations faster than any competitor.",
+        "author": "Rajesh Patel",
+        "title": "VP Network Infrastructure, Bharti Airtel"
+      },
+      "metrics": {
+        "investment": "₹1.2 Crores in equipment + training",
+        "timeline": "20 months deployment",
+        "team": "500+ trained field technicians",
+        "coverage": "12 metropolitan cities across India"
+      },
+      "impact": "Accelerated broadband transformation of urban India, connecting 500,000+ homes to high-speed fiber internet and enabling digital inclusion at scale"
+    },
+    {
+      "id": 3,
+      "title": "Defense Fighter Radar System Integration",
+      "subtitle": "Supporting India's Advanced Combat Aircraft Platform",
+      "client": "Hindustan Aeronautics Limited (HAL)",
+      "industry": "Defense & Aerospace",
+      "year": 2021,
+      "duration": "24 months",
+      "scope": "Design, development, and supply of RF power amplifier subsystem for next-generation fighter aircraft radar",
+      "challenge": {
+        "overview": "HAL's advanced fighter aircraft platform required custom RF amplifier subsystems meeting the most stringent defense specifications for radar applications.",
+        "requirements": [
+          "Multi-band RF amplifiers: L, S, C, X, Ku bands with seamless band switching",
+          "Peak power output: 2-5 KW per band with ≤3 dB variation across frequency",
+          "Exceptional reliability: MTBF >5000 hours for combat aircraft operations",
+          "Environmental hardening: -40°C to +85°C, 30G vibration tolerance, high-altitude operation",
+          "Size/weight optimization: <10 kg per band channel",
+          "Integration with aircraft power management and thermal systems"
+        ],
+        "constraints": [
+          "Most stringent defense specifications including MIL-STD testing",
+          "Complex integration with existing radar architecture",
+          "Classified program with restricted information sharing",
+          "Zero tolerance for component failures in combat scenarios",
+          "Limited production quantities but need for long-term production support"
+        ]
+      },
+      "solution": {
+        "overview": "Telogica designed a highly integrated, modular RF subsystem specifically architected for advanced fighter radar platforms.",
+        "approach": [
+          "Modular design allowing independent band operation and graceful degradation",
+          "Custom component selection and integration optimized for aerospace reliability",
+          "Rigorous MIL-STD testing including vibration, thermal cycling, and EMI hardening",
+          "Thermal management system enabling operation in aircraft cabin conditions",
+          "Advanced diagnostics for in-flight monitoring and maintenance prediction"
+        ],
+        "technology": [
+          "Solid-state RF power amplifiers across L through Ku bands",
+          "Advanced GaAs and GaN semiconductor technology for efficiency",
+          "Integrated power conditioning and thermal management",
+          "Real-time performance monitoring with self-diagnostics",
+          "Redundant components for critical amplifier stages"
+        ]
+      },
+      "results": {
+        "performance": [
+          {
+            "metric": "MTBF",
+            "value": "5,500 hours",
+            "impact": "Exceeded defense specification by 10%"
+          },
+          {
+            "metric": "Power Efficiency",
+            "value": "88%",
+            "impact": "Reduced aircraft power consumption and extended mission endurance"
+          },
+          {
+            "metric": "Radar Range",
+            "value": "+35%",
+            "impact": "Improved detection capability against small targets"
+          },
+          {
+            "metric": "Integration Complexity",
+            "value": "-40%",
+            "impact": "Reduced aircraft integration cost and schedule"
+          },
+          {
+            "metric": "Field Reliability",
+            "value": "100%",
+            "impact": "Zero in-service failures across aircraft fleet"
+          }
+        ],
+        "military": [
+          "Enabled advanced radar capabilities for next-generation fighter aircraft",
+          "Reduced dependency on imported defense RF components",
+          "Established India's capability in advanced military RF systems",
+          "Enhanced combat aircraft effectiveness and operational superiority"
+        ]
+      },
+      "testimonial": {
+        "quote": "Telogica's RF subsystem represents a significant advancement in our combat aircraft platform. Their engineering excellence and commitment to defense specifications have been exemplary.",
+        "author": "Air Marshal R. S. Bhatia",
+        "title": "Former Air Officer-in-Charge, Air Force HQ"
+      },
+      "metrics": {
+        "investment": "₹3.5 Crores in R&D and production",
+        "timeline": "24 months from design to initial deployment",
+        "team": "25+ Telogica engineers + 30+ HAL technical staff",
+        "systems": "32 aircraft equipped (initial production batch)"
+      },
+      "impact": "Enabled India's indigenous advanced fighter radar capability, reducing defense imports and enhancing air force operational effectiveness"
+    }
+  ]
+}
