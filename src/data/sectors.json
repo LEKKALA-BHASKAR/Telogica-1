@@ -1,0 +1,125 @@
+{
+  "sectors": [
+    {
+      "id": "defense",
+      "name": "Defense & Aerospace",
+      "icon": "shield",
+      "description": "RF power amplifiers and components for military radar, electronic warfare, SATCOM, missile systems, and UAV platforms.",
+      "applications": [
+        {
+          "name": "Radar Systems",
+          "description": "High-power RF amplifiers for search, tracking, and fire-control radar systems with wide bandwidth and high linearity."
+        },
+        {
+          "name": "Electronic Warfare",
+          "description": "Broadband RF components for jamming, deception, and Electronic Counter-Measures (ECM) systems."
+        },
+        {
+          "name": "Satellite Communications",
+          "description": "100 MHz–40 GHz amplifiers for military SATCOM uplink and secure communications."
+        },
+        {
+          "name": "Missile Systems",
+          "description": "Defense-grade RF components for guidance, telemetry, and command datalinks."
+        },
+        {
+          "name": "UAV Platforms",
+          "description": "Lightweight, high-efficiency RF systems for unmanned aerial vehicle communications and payloads."
+        }
+      ],
+      "clients": ["ISRO", "HAL", "BEL", "DRDO", "BARC"],
+      "features": [
+        "100 MHz–40 GHz frequency range",
+        "High linearity and wide bandwidth",
+        "Defense-grade reliability",
+        "MIL-SPEC testing and certification",
+        "Custom frequency and power designs"
+      ]
+    },
+    {
+      "id": "telecommunication",
+      "name": "Telecommunication",
+      "icon": "tower",
+      "description": "Test & measurement equipment and telecom infrastructure products for fiber installation, network deployment, and maintenance.",
+      "applications": [
+        {
+          "name": "Fiber Optic Installation",
+          "description": "Fusion splicers and cable locators for FTTH (Fiber To The Home) and broadband network deployment."
+        },
+        {
+          "name": "Network Maintenance",
+          "description": "OTDR systems, cable fault locators, and signal generators for ISP and telecom operator maintenance."
+        },
+        {
+          "name": "Infrastructure Testing",
+          "description": "Spectrum analyzers, site analyzers, and BTS testers for cellular and wireless network deployment."
+        },
+        {
+          "name": "SDH/MPLS Networks",
+          "description": "SDH analyzers and network test equipment for synchronous digital hierarchy and MPLS backbone networks."
+        }
+      ],
+      "clients": ["BSNL", "Bharti Airtel", "MTNL", "Tata Communications"],
+      "features": [
+        "Industry-standard test equipment",
+        "High-precision fiber splicing",
+        "Portable and field-deployable",
+        "Real-time network diagnostics",
+        "Cost-effective maintenance solutions"
+      ]
+    },
+    {
+      "id": "railway",
+      "name": "Railway & Transportation",
+      "icon": "train",
+      "description": "Communication networks and infrastructure equipment for railway signaling, operations, and passenger systems.",
+      "applications": [
+        {
+          "name": "Rail Communication Networks",
+          "description": "RF systems for train-to-dispatch communications and in-train Wi-Fi networks."
+        },
+        {
+          "name": "Signaling Systems",
+          "description": "Components for railway signaling systems and automated train protection."
+        },
+        {
+          "name": "Infrastructure Monitoring",
+          "description": "Test equipment for rail network infrastructure maintenance and troubleshooting."
+        }
+      ],
+      "clients": ["Indian Railways"],
+      "features": [
+        "Reliable over long distances",
+        "Resistant to electromagnetic interference",
+        "Rugged for harsh environments",
+        "Integration with legacy systems"
+      ]
+    },
+    {
+      "id": "government",
+      "name": "Government & Public Sector",
+      "icon": "building",
+      "description": "Specialized RF and test equipment for government research institutions, public sector undertakings, and critical infrastructure.",
+      "applications": [
+        {
+          "name": "Research Institutions",
+          "description": "RF components for government R&D labs and scientific research programs."
+        },
+        {
+          "name": "Critical Infrastructure",
+          "description": "Reliable systems for power, water, and public safety infrastructure."
+        },
+        {
+          "name": "Government Procurement",
+          "description": "Compliance with government specifications, standards, and sourcing requirements."
+        }
+      ],
+      "features": [
+        "Meet government specifications",
+        "SEBI LODR compliant",
+        "Quality assurance with traceability",
+        "Long-term support and spares availability"
+      ]
+    }
+  ]
+}

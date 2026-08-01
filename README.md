@@ -1,9 +1,27 @@
-# Telogica — full-stack commerce platform
+# Telogica Limited — B2B Commerce Platform
 
-A MERN application for **Telogica Limited** (formerly Aishwarya Technologies and
-Telecom Ltd, BSE: 532975): a Next.js/React storefront for test & measurement
-instruments, backed by an Express + MongoDB API with carts, orders, payments,
-quotations and a full admin panel.
+A full-stack MERN commerce application for **Telogica Limited** — a defense-grade RF power amplifier and component manufacturer serving aerospace, telecom, and critical infrastructure sectors.
+
+## About Telogica Limited
+
+**Telogica Limited** (formerly Aishwarya Technologies and Telecom Ltd, BSE: 532975) is an ISO 9001:2015 certified design and manufacturing company established in 1995. We supply:
+
+- **RF Power Amplifiers** (100 MHz–40 GHz) for defense radar, electronic warfare, satellite communications, missile systems, and UAVs
+- **Test & Measurement Equipment** — fusion splicers, OTDR systems, network analyzers for telecom infrastructure
+- **Telecom Products** — cable fault locators, signal generators, SDH analyzers for fiber installation and network maintenance
+
+Trusted by **ISRO, HAL, BEL, DRDO, BSNL, Bharti Airtel, Tata Communications, and Indian Railways** for over 30 years.
+
+---
+
+## Platform
+
+A Next.js/React storefront backed by an Express + MongoDB API with:
+- Product catalogue with server-side filtering and search
+- Shopping cart, multi-step checkout, order tracking
+- Quotation system for enterprise RF and defense products
+- Full admin dashboard (orders, quotes, customers, inventory)
+- Razorpay payment integration (card, UPI, netbanking, mock mode)
 
 ```
 MongoDB  ·  Express  ·  React (Next.js 14)  ·  Node

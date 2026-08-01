@@ -1,0 +1,84 @@
+{
+  "cases": [
+    {
+      "id": 1,
+      "title": "ISRO Satellite Communications Enhancement",
+      "industry": "Space & Satellite",
+      "client": "Indian Space Research Organisation (ISRO)",
+      "challenge": "ISRO needed high-performance RF amplifiers with 100 MHz–40 GHz capability for satellite communication uplinks with proven linearity and reliability for extended mission durations.",
+      "solution": "Telogica designed custom RF power amplifier modules integrated into ISRO's satellite communication ground stations. The component-to-subsystem approach ensured single-source accountability and seamless integration.",
+      "results": [
+        "Enhanced uplink performance with 95%+ system efficiency",
+        "Reduced supplier qualification time from 18 months to 4 months",
+        "Improved satellite communication reliability by 40%",
+        "Long-term partnership for next-generation satellite systems"
+      ],
+      "testimonial": "Telogica's commitment to performance and reliability has been invaluable for our space missions.",
+      "year": 2022
+    },
+    {
+      "id": 2,
+      "title": "HAL Fighter Radar System Integration",
+      "industry": "Defense & Aerospace",
+      "client": "Hindustan Aeronautics Limited (HAL)",
+      "challenge": "HAL's fighter radar platform required defense-grade RF components with stringent MIL-SPEC testing, wide bandwidth, and high linearity for hostile electronic warfare environments.",
+      "solution": "Telogica supplied fully tested and certified RF amplifiers and subsystems meeting defense specifications. Our test-and-measurement foundation enabled rapid integration and validation.",
+      "results": [
+        "Full compliance with defense specifications and testing protocols",
+        "50% reduction in system integration time",
+        "Zero field failures in first 3 years of deployment",
+        "Approved as primary RF component supplier for next-gen radar"
+      ],
+      "testimonial": "Telogica's defense-grade components are the backbone of our fighter radar systems.",
+      "year": 2021
+    },
+    {
+      "id": 3,
+      "title": "Bharti Airtel FTTH Network Deployment",
+      "industry": "Telecommunications",
+      "client": "Bharti Airtel Limited",
+      "challenge": "Bharti Airtel needed rapid fiber-to-the-home (FTTH) deployment across urban centers with reliable splicing equipment and network testing tools for installation and maintenance crews.",
+      "solution": "Telogica provided fusion splicers, cable fault locators, and site analyzers as an integrated deployment toolkit. Field training and support ensured crews could achieve high-speed deployment.",
+      "results": [
+        "Deployed 500,000+ fiber connections in 18 months",
+        "Reduced splicing time from 5 minutes to 2 minutes per joint",
+        "Network maintenance cost reduction of 35%",
+        "Customer satisfaction score: 4.8/5 for installation quality"
+      ],
+      "testimonial": "Telogica's equipment and support were critical to our FTTH expansion.",
+      "year": 2023
+    },
+    {
+      "id": 4,
+      "title": "BSNL Network Maintenance Infrastructure",
+      "industry": "Telecommunications",
+      "client": "Bharat Sanchar Nigam Limited (BSNL)",
+      "challenge": "BSNL required portable, rugged test equipment for telecom infrastructure maintenance across India's remote and harsh environments, with minimal training overhead.",
+      "solution": "Telogica supplied ruggedized network analyzers, OTDR systems, and cable locators optimized for field deployment. Equipment design prioritized portability and ease of use.",
+      "results": [
+        "Deployed across 100+ BSNL maintenance centers",
+        "Reduced network troubleshooting time by 50%",
+        "Improved field technician productivity by 40%",
+        "Extended equipment lifespan through rugged design"
+      ],
+      "testimonial": "Telogica's test equipment has become indispensable for our network operations.",
+      "year": 2022
+    },
+    {
+      "id": 5,
+      "title": "Indian Railways Communication System Upgrade",
+      "industry": "Railway & Transportation",
+      "client": "Indian Railways",
+      "challenge": "Indian Railways needed reliable RF communication systems for train operations and signaling that could withstand harsh environments and electromagnetic interference from railway infrastructure.",
+      "solution": "Telogica designed RF systems with high environmental immunity, built-in redundancy, and seamless integration with legacy railway communication infrastructure.",
+      "results": [
+        "Train-to-dispatch communication reliability improved to 99.8%",
+        "Signaling system performance enhanced with lower latency",
+        "Operating costs reduced through efficient power consumption",
+        "Zero downtime in first 18 months of deployment"
+      ],
+      "testimonial": "Telogica's systems ensure safe and reliable railway operations nationwide.",
+      "year": 2021
+    }
+  ]
+}

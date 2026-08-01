@@ -1,0 +1,118 @@
+{
+  "faqs": [
+    {
+      "category": "Products & Services",
+      "questions": [
+        {
+          "q": "What is Telogica's core business?",
+          "a": "Telogica Limited designs and manufactures defense-grade RF power amplifiers (100 MHz–40 GHz), RF components, and test & measurement equipment for defense, aerospace, telecom, and critical infrastructure sectors."
+        },
+        {
+          "q": "What sectors does Telogica serve?",
+          "a": "We serve Defense & Aerospace (ISRO, HAL, BEL, DRDO), Telecommunications (BSNL, Airtel, Tata Communications), Railway & Transportation, and Government & Public Sector organizations."
+        },
+        {
+          "q": "Does Telogica customize products?",
+          "a": "Yes. We offer custom RF amplifier designs, frequency configurations, and power ratings tailored to specific defense and aerospace applications. Contact our sales team for custom engineering inquiries."
+        },
+        {
+          "q": "Are products available internationally?",
+          "a": "Telogica is expanding international supply partnerships. Our catalog products are available for export subject to regulatory compliance. Contact sales@telogica.com for international inquiries."
+        }
+      ]
+    },
+    {
+      "category": "Ordering & Pricing",
+      "questions": [
+        {
+          "q": "How do I purchase products?",
+          "a": "Browse our catalog, add items to your cart, and proceed to checkout. For enterprise RF systems and bespoke solutions, submit a quotation request and our team will provide pricing and technical specifications."
+        },
+        {
+          "q": "What payment methods are accepted?",
+          "a": "We accept credit/debit cards (Visa, Mastercard), UPI, net banking, and cash on delivery (COD) for select locations. International orders may require bank transfer or letter of credit."
+        },
+        {
+          "q": "How are prices determined?",
+          "a": "Catalog products have fixed list prices with volume discounts available. Custom RF systems and enterprise solutions are quoted based on specifications, quantity, and delivery requirements. Contact sales for bulk pricing."
+        },
+        {
+          "q": "Is there a minimum order quantity?",
+          "a": "Standard catalog items have no MOQ. Custom RF designs and enterprise systems typically have volume requirements based on specifications."
+        }
+      ]
+    },
+    {
+      "category": "Quotations",
+      "questions": [
+        {
+          "q": "What products require quotations?",
+          "a": "Enterprise RF power amplifiers, custom RF subsystems, defense applications, and specialized test equipment require quotations. These are marked 'Request Quote' in the catalog."
+        },
+        {
+          "q": "How quickly will I receive a quote?",
+          "a": "Standard quotations are provided within 2-3 business days. Complex custom designs may require 5-7 business days for technical review and pricing."
+        },
+        {
+          "q": "Can I negotiate pricing on quotes?",
+          "a": "Yes. Telogica works closely with enterprise customers on volume discounts, payment terms, and long-term agreements. Our sales team will discuss flexible options."
+        }
+      ]
+    },
+    {
+      "category": "Shipping & Delivery",
+      "questions": [
+        {
+          "q": "Do you ship internationally?",
+          "a": "Yes, with export compliance screening. Shipping times and costs vary by destination. Contact support@telogica.com for international delivery inquiries."
+        },
+        {
+          "q": "What is the typical delivery time?",
+          "a": "In-stock catalog items ship within 3-5 business days. Custom RF systems and special orders require 4-8 weeks depending on complexity."
+        },
+        {
+          "q": "Can I track my order?",
+          "a": "Yes. After order confirmation, you'll receive a tracking number via email. Track your shipment in real-time from the order status page."
+        }
+      ]
+    },
+    {
+      "category": "Technical Support",
+      "questions": [
+        {
+          "q": "Do you provide technical documentation?",
+          "a": "Yes. Datasheets, application notes, and technical guides are available for download in each product listing. Detailed engineering specs are provided with quotations for custom systems."
+        },
+        {
+          "q": "Is field support available?",
+          "a": "Yes. Telogica provides on-site installation, commissioning, and training support for enterprise RF systems. Contact support@telogica.com to arrange field support."
+        },
+        {
+          "q": "What warranty is provided?",
+          "a": "All products come with a standard 12-month warranty covering manufacturing defects. Extended warranties and service agreements are available for enterprise customers."
+        },
+        {
+          "q": "How do I report a technical issue?",
+          "a": "Contact support@telogica.com with your product serial number and issue description. Our technical team will respond within 24 hours with troubleshooting steps or replacement options."
+        }
+      ]
+    },
+    {
+      "category": "Company & Certifications",
+      "questions": [
+        {
+          "q": "Is Telogica certified?",
+          "a": "Yes. Telogica is ISO 9001:2015 certified for quality management, SEBI LODR compliant, and listed on the BSE (532975). All products meet relevant defense and telecom standards."
+        },
+        {
+          "q": "Can Telogica supply government contracts?",
+          "a": "Yes. We are an approved supplier for Indian government defense, telecom, and research agencies including ISRO, HAL, BEL, DRDO, and BSNL."
+        },
+        {
+          "q": "Does Telogica have SEBI compliance?",
+          "a": "Yes. As a BSE-listed company (532975), Telogica maintains full SEBI LODR (Listing Obligations and Disclosure Requirements) compliance with transparent governance and reporting."
+        }
+      ]
+    }
+  ]
+}

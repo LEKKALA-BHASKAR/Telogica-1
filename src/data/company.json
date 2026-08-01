@@ -1,0 +1,79 @@
+{
+  "about": {
+    "heading": "Leading RF Power Amplifier and Component Manufacturer",
+    "subheading": "Serving Defense, Aerospace, and Telecom for 30+ Years",
+    "mission": "To design and manufacture defense-grade RF power amplifiers and RF components that keep critical missions running with proven reliability.",
+    "vision": "To be the trusted single-source provider for RF components and subsystems across the full spectrum (100 MHz–40 GHz).",
+    "established": 1995,
+    "certifications": ["ISO 9001:2015 Certified", "SEBI LODR Compliant"],
+    "employees": "75+ from India's finest institutions"
+  },
+  "capabilities": [
+    {
+      "title": "Component to Subsystem",
+      "description": "Vertical integration from component design to complete subsystem delivery—ensuring single accountability and seamless integration."
+    },
+    {
+      "title": "Broad Spectrum Coverage",
+      "description": "100 MHz–40 GHz capability reduces supplier qualification burden and accelerates customer projects."
+    },
+    {
+      "title": "Measured Performance",
+      "description": "Built on a test-and-measurement foundation. Our performance is proven, not claimed."
+    },
+    {
+      "title": "Built for Environment",
+      "description": "High reliability engineering for demanding defense, aerospace, and critical infrastructure applications."
+    }
+  ],
+  "team": {
+    "total": 75,
+    "breakdown": [
+      { "role": "Research & Development", "count": 9 },
+      { "role": "Production & Assembly", "count": 45 },
+      { "role": "Sales & Marketing", "count": 20 },
+      { "role": "Support & Administration", "count": 1 }
+    ]
+  },
+  "clients": {
+    "defense": ["ISRO", "HAL", "BEL", "DRDO", "BARC"],
+    "telecom": ["BSNL", "Bharti Airtel", "MTNL", "Tata Communications"],
+    "transportation": ["Indian Railways"]
+  },
+  "manufacturing": {
+    "capabilities": [
+      "Automated SMT Assembly",
+      "Advanced Component Testing",
+      "Full Calibration Services",
+      "Quality Assurance (ISO 9001:2015)",
+      "High-frequency RF Testing"
+    ],
+    "facility": "State-of-the-art manufacturing facility in Hyderabad"
+  },
+  "history": [
+    {
+      "year": 1995,
+      "milestone": "Founded as Aishwarya Technologies and Telecom Ltd"
+    },
+    {
+      "year": 2010,
+      "milestone": "Expanded into RF power amplifiers and defense electronics"
+    },
+    {
+      "year": 2015,
+      "milestone": "Achieved ISO 9001:2015 certification"
+    },
+    {
+      "year": 2020,
+      "milestone": "Listed on BSE (532975)"
+    },
+    {
+      "year": 2022,
+      "milestone": "Rebranded as Telogica Limited"
+    },
+    {
+      "year": 2025,
+      "milestone": "Launched next-generation RF subsystems and vector analyzers"
+    }
+  ]
+}

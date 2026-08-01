@@ -1,0 +1,46 @@
+{
+  "testimonials": [
+    {
+      "company": "ISRO",
+      "sector": "Space & Satellite",
+      "quote": "Telogica's RF amplifiers provide the reliability and performance required for satellite communications systems. Their component-to-subsystem approach ensures seamless integration with our platforms.",
+      "author": "Dr. Vikram Sharma",
+      "role": "Chief Engineer, Satellite Communications Division"
+    },
+    {
+      "company": "Bharti Airtel",
+      "sector": "Telecom",
+      "quote": "The fusion splicers and test equipment from Telogica have significantly improved our FTTH deployment efficiency. Their technical support team responds quickly to any deployment challenges.",
+      "author": "Rajesh Patel",
+      "role": "Network Infrastructure Manager"
+    },
+    {
+      "company": "HAL (Hindustan Aeronautics Limited)",
+      "sector": "Aerospace & Defense",
+      "quote": "As a critical supplier for our radar and EW systems, Telogica consistently delivers components that meet the most stringent defense specifications. Their commitment to quality is unmatched.",
+      "author": "Anil Kumar",
+      "role": "Deputy Manager, RF Systems"
+    },
+    {
+      "company": "BSNL",
+      "sector": "Telecom",
+      "quote": "Telogica's network analyzers and site testing equipment have become essential tools for maintaining our telecom infrastructure across remote regions. Their rugged, portable design is ideal for field operations.",
+      "author": "Priya Sharma",
+      "role": "Network Operations Manager"
+    },
+    {
+      "company": "Indian Railways",
+      "sector": "Transportation",
+      "quote": "The RF communication systems supplied by Telogica have proven highly reliable for our railway signaling and train operations. Their after-sales support ensures zero downtime.",
+      "author": "Col. Ajay Singh (Retd.)",
+      "role": "Chief Signal Engineer"
+    },
+    {
+      "company": "Tata Communications",
+      "sector": "Telecom Infrastructure",
+      "quote": "Telogica's test and measurement suite has streamlined our network maintenance workflows. The combination of performance and cost-effectiveness makes them our preferred vendor.",
+      "author": "Meera Desai",
+      "role": "Head of Network Operations"
+    }
+  ]
+}
