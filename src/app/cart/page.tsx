@@ -1,11 +1,8 @@
 import type { Metadata } from "next";
+import { privateMetadata } from "@/lib/seo";
 import { CartView } from "@/components/commerce/CartView";
 
-export const metadata: Metadata = {
-  title: "Your cart",
-  description: "Review the instruments in your Telogica cart and proceed to secure checkout.",
-  robots: { index: false, follow: false },
-};
+export const metadata: Metadata = privateMetadata("Your cart");
 
 export default function CartPage() {
   return <CartView />;

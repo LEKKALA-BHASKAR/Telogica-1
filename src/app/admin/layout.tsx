@@ -1,12 +1,10 @@
 import type { Metadata } from "next";
+import { privateMetadata } from "@/lib/seo";
 import type { ReactNode } from "react";
 import { RequireAuth } from "@/components/commerce/AuthGuard";
 import { AdminNav } from "@/components/Header";
 
-export const metadata: Metadata = {
-  title: "Admin",
-  robots: { index: false, follow: false },
-};
+export const metadata: Metadata = privateMetadata("Admin");
 
 export default function AdminLayout({ children }: { children: ReactNode }) {
   return (

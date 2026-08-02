@@ -13,28 +13,133 @@ function JsonLd({ data }: { data: Record<string, unknown> }) {
   );
 }
 
+/**
+ * Company-level structured data. Typed as `Corporation` rather than plain
+ * `Organization` because Telogica is BSE-listed — `tickerSymbol` and
+ * `isicV4`-style identifiers only carry meaning on a corporate subtype, and it
+ * is what powers the knowledge-panel entry for a listed company.
+ */
 export function OrganizationSchema() {
+  const address = {
+    "@type": "PostalAddress",
+    streetAddress: `${site.address.line1}, ${site.address.line2}`,
+    addressLocality: "Hyderabad",
+    addressRegion: "Telangana",
+    postalCode: "500033",
+    addressCountry: "IN",
+  };
+
   return (
     <JsonLd
       data={{
         "@context": "https://schema.org",
-        "@type": "Organization",
+        "@type": "Corporation",
+        "@id": `${site.url}/#organization`,
         name: site.name,
-        alternateName: site.shortName,
+        alternateName: [site.shortName, "Aishwarya Technologies and Telecom Ltd"],
+        legalName: site.name,
         url: site.url,
-        logo: `${site.url}/logo-full.svg`,
+        logo: {
+          "@type": "ImageObject",
+          url: `${site.url}/logo-full.svg`,
+          caption: site.name,
+        },
+        image: `${site.url}/opengraph-image`,
         description: site.description,
         email: site.email.sales,
         telephone: site.phones[0],
-        address: {
-          "@type": "PostalAddress",
-          streetAddress: `${site.address.line1}, ${site.address.line2}`,
-          addressLocality: "Hyderabad",
-          addressRegion: "Telangana",
-          postalCode: "500033",
-          addressCountry: "IN",
+        tickerSymbol: "BSE:532975",
+        address,
+        location: {
+          "@type": "Place",
+          name: "Telogica Limited — Hyderabad facility",
+          address,
+          geo: { "@type": "GeoCoordinates", latitude: 17.430595, longitude: 78.409771 },
         },
+        areaServed: { "@type": "Country", name: "India" },
+        knowsAbout: [
+          "Telecom test and measurement equipment",
+          "Optical time-domain reflectometers",
+          "Fusion splicing machines",
+          "Cable fault and route locators",
+          "Railway optical fibre and signalling test equipment",
+          "RF power amplifiers 100 MHz to 40 GHz",
+          "Electronics manufacturing services",
+        ],
+        hasCredential: {
+          "@type": "EducationalOccupationalCredential",
+          credentialCategory: "certification",
+          name: "ISO 9001:2015",
+        },
+        contactPoint: [
+          {
+            "@type": "ContactPoint",
+            contactType: "sales",
+            email: site.email.sales,
+            telephone: site.phones[0],
+            areaServed: "IN",
+            availableLanguage: ["en", "hi", "te"],
+          },
+          {
+            "@type": "ContactPoint",
+            contactType: "technical support",
+            email: site.email.support,
+            areaServed: "IN",
+            availableLanguage: ["en"],
+          },
+          {
+            "@type": "ContactPoint",
+            contactType: "investor relations",
+            email: site.email.investors,
+            areaServed: "IN",
+            availableLanguage: ["en"],
+          },
+        ],
         sameAs: [site.social.linkedin, site.social.facebook, site.social.youtube],
+      }}
+    />
+  );
+}
+
+/** Site-level entity, linked to the organisation above by @id. */
+export function WebSiteSchema() {
+  return (
+    <JsonLd
+      data={{
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": `${site.url}/#website`,
+        url: site.url,
+        name: site.name,
+        description: site.description,
+        inLanguage: "en-IN",
+        publisher: { "@id": `${site.url}/#organization` },
+      }}
+    />
+  );
+}
+
+/** ItemList for category/listing pages, so results can show a carousel. */
+export function ItemListSchema({
+  name,
+  items,
+}: {
+  name: string;
+  items: { name: string; href: string }[];
+}) {
+  return (
+    <JsonLd
+      data={{
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        name,
+        numberOfItems: items.length,
+        itemListElement: items.map((item, i) => ({
+          "@type": "ListItem",
+          position: i + 1,
+          name: item.name,
+          url: `${site.url}${item.href}`,
+        })),
       }}
     />
   );

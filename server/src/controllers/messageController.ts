@@ -20,8 +20,10 @@ export const createMessage = asyncHandler(async (req: Request, res: Response) =>
       to: env.ADMIN_EMAIL,
       subject: `[${message.subject}] ${message.name}`,
       text: `${message.name} (${message.email}${message.phone ? `, ${message.phone}` : ""})${
-        message.productRef ? `\nProduct: ${message.productRef}` : ""
-      }\n\n${message.message}\n\nInbox: ${env.CLIENT_URL}/admin/messages`,
+        message.organisation ? `\nOrganisation: ${message.organisation}` : ""
+      }${message.productRef ? `\nProduct: ${message.productRef}` : ""}\n\n${
+        message.message
+      }\n\nInbox: ${env.CLIENT_URL}/admin/messages`,
     }),
   ]);
 

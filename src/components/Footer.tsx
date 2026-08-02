@@ -1,17 +1,26 @@
 import Link from "next/link";
 import { Logo } from "./Brand";
 import { site, nav } from "@/lib/site";
+import { footerTagline } from "@/lib/content";
 import { Mail, Phone, MapPin, Linkedin, Facebook, Youtube, ArrowUpRight } from "./Icons";
 
-const solutions = [
-  { label: "Telecommunication", href: "/solutions/telecommunication" },
-  { label: "Railway", href: "/solutions/railway" },
-  { label: "Defence & Military", href: "/solutions/defence" },
+const products = [
+  { label: "RF Power Amplifiers", href: "/solutions/defence" },
+  { label: "Optical Fibre Test", href: "/products" },
+  { label: "Copper & Cable Testing", href: "/products" },
+  { label: "RF & Transmission Testing", href: "/products" },
   { label: "All Products", href: "/products" },
+];
+
+const industries = [
+  { label: "Telecom", href: "/solutions/telecommunication" },
+  { label: "Railways", href: "/solutions/railway" },
+  { label: "Defence & Aerospace", href: "/solutions/defence" },
 ];
 
 const company = [
   { label: "About Us", href: "/about" },
+  { label: "Manufacturing & R&D", href: "/manufacturing" },
   { label: "Clients", href: "/clients" },
   { label: "Investor Relations", href: "/investors" },
   { label: "Contact", href: "/contact" },
@@ -23,13 +32,16 @@ export function Footer() {
       <div className="bg-dots absolute inset-0 opacity-30" />
       <div className="glow-blob absolute -left-20 top-10 h-72 w-72 opacity-20" />
       <div className="container-x relative py-16">
-        <div className="grid gap-12 lg:grid-cols-[1.4fr_1fr_1fr_1.2fr]">
+        <div className="grid gap-12 lg:grid-cols-[1.4fr_1fr_1fr_1fr_1.2fr]">
           <div>
             <Logo />
-            <p className="mt-4 max-w-xs text-sm leading-relaxed text-fog">
-              {site.legalNote}. A semiconductor &amp; electronics equipment
-              manufacturer serving telecom, railway and defence networks across
-              India and beyond.
+            <p className="mt-4 max-w-xs font-display text-base font-semibold text-white">
+              {footerTagline}
+            </p>
+            <p className="mt-3 max-w-xs text-sm leading-relaxed text-fog">
+              {site.legalNote}. A Hyderabad-based designer and manufacturer of
+              telecom test &amp; measurement equipment, railway communication
+              solutions and defence-grade RF systems.
             </p>
             <div className="mt-5 flex flex-wrap gap-2">
               <span className="rounded-full border border-line px-3 py-1 text-xs font-semibold text-fog">
@@ -41,7 +53,8 @@ export function Footer() {
             </div>
           </div>
 
-          <FooterCol title="Solutions" links={solutions} />
+          <FooterCol title="Products" links={products} />
+          <FooterCol title="Industries" links={industries} />
           <FooterCol title="Company" links={company} />
 
           <div>
@@ -77,10 +90,13 @@ export function Footer() {
         </div>
 
         <div className="mt-14 flex flex-col items-center justify-between gap-4 border-t border-line pt-7 text-xs text-fog-dim sm:flex-row">
-          <p>© {new Date().getFullYear()} {site.name}. All rights reserved.</p>
+          {/* TODO: append the company CIN once confirmed from company records. */}
+          <p>
+            © {new Date().getFullYear()} {site.name}. All rights reserved. {site.bse}
+          </p>
           <div className="flex flex-wrap items-center gap-x-6 gap-y-2">
             <Link href="/privacy-policy" className="hover:text-white">Privacy Policy</Link>
-            <Link href="/terms" className="hover:text-white">Terms &amp; Conditions</Link>
+            <Link href="/terms" className="hover:text-white">Terms of Use</Link>
             {nav.map((n) => (
               <Link key={n.href} href={n.href} className="hover:text-white">{n.label}</Link>
             ))}

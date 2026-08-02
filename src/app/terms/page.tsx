@@ -1,11 +1,13 @@
 import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 import { PageHero } from "@/components/PageHero";
 import { site } from "@/lib/site";
 
-export const metadata: Metadata = {
-  title: "Terms & Conditions",
+export const metadata: Metadata = pageMetadata({
+  title: "Terms of Use | Telogica Limited",
   description: "Terms and conditions governing the use of the Telogica Limited website and services.",
-};
+  path: "/terms",
+});
 
 export default function TermsPage() {
   return (

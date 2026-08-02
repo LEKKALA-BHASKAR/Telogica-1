@@ -1,12 +1,10 @@
 import type { Metadata } from "next";
+import { privateMetadata } from "@/lib/seo";
 import type { ReactNode } from "react";
 import { RequireAuth } from "@/components/commerce/AuthGuard";
 import { AccountShell } from "@/components/commerce/AccountShell";
 
-export const metadata: Metadata = {
-  title: "My account",
-  robots: { index: false, follow: false },
-};
+export const metadata: Metadata = privateMetadata("My account");
 
 export default function AccountLayout({ children }: { children: ReactNode }) {
   return (

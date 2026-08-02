@@ -2,9 +2,9 @@ export const site = {
   name: "Telogica Limited",
   shortName: "Telogica",
   legalNote: "Formerly Aishwarya Technologies and Telecom Ltd",
-  tagline: "Defense & Aerospace RF Power Amplifiers and Components",
+  tagline: "Telecom Test & Measurement, Railway Electronics and Defence RF Solutions",
   description:
-    "Telogica Limited supplies defense-grade RF power amplifiers (100 MHz–40 GHz) and RF components for radar, electronic warfare, satellite and military communications, missile and UAV platforms — engineered for wide bandwidth, high linearity and high reliability, on a test-and-measurement foundation.",
+    "Telogica Limited (BSE: 532975) designs and manufactures telecom test & measurement equipment, railway communication solutions, and defence-grade RF systems in India. ISO 9001:2015 certified.",
   url: "https://telogica.com",
   bse: "BSE: 532975",
   iso: "ISO 9001:2015 Certified",
@@ -31,9 +31,9 @@ export const site = {
 
 export const nav = [
   { label: "About", href: "/about" },
-  { label: "Solutions", href: "/solutions" },
   { label: "Products", href: "/products" },
-  { label: "Clients", href: "/clients" },
+  { label: "Industries", href: "/solutions" },
+  { label: "Manufacturing", href: "/manufacturing" },
   { label: "Investors", href: "/investors" },
   { label: "Contact", href: "/contact" },
 ];
@@ -57,8 +57,8 @@ export const adminNav = [
 ];
 
 export const stats = [
+  { value: "3", label: "Sectors served" },
   { value: "100 MHz–40 GHz", label: "RF spectrum coverage" },
-  { value: "13", label: "Defense applications served" },
-  { value: "30+", label: "Years of RF engineering" },
+  { value: "20+", label: "Years of engineering" },
   { value: "ISO 9001", label: "2015 certified quality" },
 ];

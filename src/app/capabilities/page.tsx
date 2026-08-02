@@ -1,31 +1,36 @@
 import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 import { PageHero } from "@/components/PageHero";
 import { Reveal } from "@/components/Reveal";
 import { SectionHeading, Button, Divider } from "@/components/ui";
 import { CTABand } from "@/components/CTABand";
-import { MissionAreas, AmplifierHighlight, WhyDefense } from "@/components/DefenseSections";
+import {
+  CapabilitySnapshot, MissionAreas, AmplifierHighlight, WhyDefense,
+} from "@/components/DefenseSections";
 import { capabilityTable } from "@/lib/defense";
 import { Layers, Boxes, Check } from "@/components/Icons";
+import { BreadcrumbSchema } from "@/components/Seo";
 
-export const metadata: Metadata = {
-  title: "Capabilities",
+export const metadata: Metadata = pageMetadata({
+  title: "RF Capabilities | Power Amplifiers 100 MHz–40 GHz — Telogica",
   description:
-    "Telogica's defense-grade RF capabilities — RF power amplifiers 100 MHz–40 GHz and components for radar, electronic warfare, SATCOM, military communications, and missile and UAV platforms.",
-};
+    "Telogica's defence-grade RF capabilities — RF power amplifiers 100 MHz–40 GHz and components for radar, electronic warfare, SATCOM, military communications, and missile and UAV platforms.",
+  path: "/capabilities",
+});
 
 const tiers = [
   {
     icon: Boxes,
     tag: "Tier 1",
     title: "RF Power Amplifiers",
-    text: "Benchtop and module amplifiers spanning 100 MHz to 40 GHz in multiple output-power levels — the flagship of our defense RF line.",
+    text: "Benchtop and module amplifiers spanning 100 MHz to 40 GHz in multiple output-power levels — the flagship of our defence RF line.",
     points: ["100 MHz – 40 GHz", "Benchtop & module", "Multiple power levels", "Wide bandwidth & linearity"],
   },
   {
     icon: Layers,
     tag: "Tier 2",
     title: "RF Components & Subsystems",
-    text: "The RF building blocks that populate defense systems — selected and engineered for bandwidth, linearity and reliability in the applications we serve.",
+    text: "The RF building blocks that populate defence systems — selected and engineered for bandwidth, linearity and reliability in the applications we serve.",
     points: ["Components into primes' systems", "Characterized & proven", "Single accountable partner", "Lifecycle support"],
   },
 ];
@@ -33,16 +38,25 @@ const tiers = [
 export default function CapabilitiesPage() {
   return (
     <>
+      <BreadcrumbSchema
+        trail={[
+          { name: "Home", href: "/" },
+          { name: "RF Capabilities", href: "/capabilities" },
+        ]}
+      />
+
       <PageHero
         eyebrow="Capabilities"
-        title={<>Defense RF systems and the <span className="text-gradient">components that power them</span></>}
-        intro="Telogica supplies defense-grade RF equipment and the components inside it — across radar, electronic warfare, secure communications, and the platforms that carry them."
+        title={<>Defence RF systems and the <span className="text-gradient">components that power them</span></>}
+        intro="Telogica supplies defence-grade RF equipment and the components inside it — across radar, electronic warfare, secure communications, and the platforms that carry them."
       >
         <div className="mt-7 flex flex-wrap gap-3">
-          <Button href="/contact" variant="primary">Discuss your program</Button>
-          <Button href="/products" variant="outline">View products</Button>
+          <Button href="/contact" variant="primary">Discuss your programme</Button>
+          <Button href="/solutions/defence" variant="outline">Defence & Aerospace</Button>
         </div>
       </PageHero>
+
+      <CapabilitySnapshot />
 
       {/* Two tiers */}
       <section className="container-x py-16 sm:py-20">

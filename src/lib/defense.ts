@@ -1,33 +1,13 @@
 /**
- * Defense-tech repositioning content.
- * Telogica supplies RF power amplifiers (100 MHz–40 GHz) and RF components that
- * go INTO defense/aerospace systems — framed as a component & subsystem
- * supplier, not a builder of complete weapons systems.
+ * Defence & aerospace RF content, used by the /capabilities deep-dive and the
+ * defence industry page. Telogica supplies RF power amplifiers (100 MHz–40 GHz)
+ * and the RF components that go INTO defence/aerospace systems — framed as a
+ * component & subsystem supplier, not a builder of complete weapons systems.
+ *
+ * Site-wide and home-page copy lives in `@/lib/content`.
  */
 
-/** Home-page hero copy — the IoT & electronics manufacturing positioning. */
-export const manufacturingHero = {
-  eyebrow: "IoT & Electronics Manufacturing Facility",
-  titleLines: ["Smart Electronics", "Manufacturing for"],
-  titleAccent: "Telecom, Rail &",
-  titleAccentTwo: "Defence",
-  intro:
-    "A modern manufacturing facility building IoT, telecom and instrumentation electronics end to end — from automated SMT pick-and-place and assembly to quality-driven testing for next-generation networks.",
-  primary: { label: "Explore Solutions", href: "/solutions" },
-  secondary: { label: "Contact Us", href: "/contact" },
-};
-
-export const defenseHero = {
-  eyebrow: "Defense & Aerospace RF",
-  titleLines: ["Defense-Grade", "RF Power Amplifiers"],
-  titleAccent: "100 MHz – 40 GHz",
-  intro:
-    "Telogica supplies benchtop and module RF power amplifiers, and the components that populate them, for radar, electronic warfare, satellite and military communications, and missile and UAV platforms — engineered for wide bandwidth, high linearity and high reliability.",
-  primary: { label: "Explore Capabilities", href: "/capabilities" },
-  secondary: { label: "Talk to an Engineer", href: "/contact" },
-};
-
-/** Homepage capability-snapshot strip. */
+/** Capability-snapshot strip on the capabilities page. */
 export const snapshot = [
   { value: "100 MHz–40 GHz", label: "Frequency coverage" },
   { value: "Benchtop · Module", label: "Form factors" },
@@ -101,7 +81,7 @@ export const whyDefense = [
   {
     icon: "Shield",
     title: "Built for the environment",
-    text: "Wide bandwidth, high linearity and high reliability engineered for demanding defense and aerospace conditions.",
+    text: "Wide bandwidth, high linearity and high reliability engineered for demanding defence and aerospace conditions.",
   },
 ] as const;
 
@@ -123,7 +103,7 @@ export const amplifier = {
   id: "rf-power-amplifiers",
   name: "RF Power Amplifiers (100 MHz – 40 GHz)",
   summary:
-    "A comprehensive range of benchtop and module RF power amplifiers spanning 100 MHz to 40 GHz, in output-power levels to meet diverse defense, aerospace, communication, electronic-warfare and RF-test requirements.",
+    "A comprehensive range of benchtop and module RF power amplifiers spanning 100 MHz to 40 GHz, in output-power levels to meet diverse defence, aerospace, communication, electronic-warfare and RF-test requirements.",
   performance: [
     "Wide instantaneous bandwidth",
     "Excellent linearity",

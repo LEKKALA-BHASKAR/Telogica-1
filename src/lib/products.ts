@@ -93,21 +93,21 @@ export const categoryMeta: Record<
   { label: string; blurb: string; href: string }
 > = {
   Telecommunication: {
-    label: "Telecommunication",
+    label: "Telecom",
     blurb:
-      "Field-proven fiber, copper and RF test instruments for building and maintaining modern telecom networks.",
+      "The complete field-testing toolkit for India's fibre and copper networks — OTDRs, fusion splicers, fault and route locators, and RF test instruments.",
     href: "/solutions/telecommunication",
   },
   Railway: {
-    label: "Railway",
+    label: "Railways",
     blurb:
-      "Ruggedised fiber splicing, OTDR and route-marker systems engineered for trackside and signalling networks.",
+      "Test and communication solutions for trackside OFC, signalling cable and railway telecom circuits — rugged, portable and serviceable within India.",
     href: "/solutions/railway",
   },
   Defence: {
-    label: "Defence & Military",
+    label: "Defence & Aerospace",
     blurb:
-      "High-resolution optical instrumentation and secure communication test platforms for critical defence programmes.",
+      "Defence-grade RF power amplifiers and components from 100 MHz to 40 GHz for radar, electronic warfare, satellite and military communication platforms.",
     href: "/solutions/defence",
   },
 };

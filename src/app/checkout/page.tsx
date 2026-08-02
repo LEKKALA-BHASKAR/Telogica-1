@@ -1,12 +1,9 @@
 import type { Metadata } from "next";
+import { privateMetadata } from "@/lib/seo";
 import { Checkout } from "@/components/commerce/Checkout";
 import { RequireAuth } from "@/components/commerce/AuthGuard";
 
-export const metadata: Metadata = {
-  title: "Checkout",
-  description: "Complete your Telogica order — secure payment by card, UPI, netbanking or cash on delivery.",
-  robots: { index: false, follow: false },
-};
+export const metadata: Metadata = privateMetadata("Checkout");
 
 export default function CheckoutPage() {
   return (

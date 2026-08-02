@@ -98,7 +98,8 @@ export default function AdminMessagesPage() {
                       <StatusBadge status={message.status} />
                     </p>
                     <p className="mt-1.5 text-sm text-fog">
-                      {message.name} ·{" "}
+                      {message.name}
+                      {message.organisation && ` (${message.organisation})`} ·{" "}
                       <a href={`mailto:${message.email}`} className="hover:text-teal">
                         {message.email}
                       </a>

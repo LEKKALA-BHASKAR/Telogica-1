@@ -1,12 +1,10 @@
 import type { Metadata } from "next";
+import { privateMetadata } from "@/lib/seo";
 import { Suspense } from "react";
 import { ResetPasswordForm } from "@/components/commerce/AuthForms";
 import { Loading } from "@/components/commerce/Bits";
 
-export const metadata: Metadata = {
-  title: "Choose a new password",
-  description: "Set a new password for your Telogica account.",
-};
+export const metadata: Metadata = privateMetadata("Reset password");
 
 export default function ResetPasswordPage() {
   return (

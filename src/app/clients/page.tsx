@@ -1,15 +1,18 @@
 import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 import { PageHero } from "@/components/PageHero";
 import { Reveal } from "@/components/Reveal";
 import { CTABand } from "@/components/CTABand";
 import { SectionHeading } from "@/components/ui";
 import { clients } from "@/lib/products";
+import { BreadcrumbSchema } from "@/components/Seo";
 
-export const metadata: Metadata = {
-  title: "Clients",
+export const metadata: Metadata = pageMetadata({
+  title: "Our Clients | Telecom, Railway and Defence Organisations — Telogica",
   description:
-    "Telogica serves India's leading defence, space, government and telecom organisations — ISRO, HAL, BEL, DRDO, BARC, BSNL, Airtel, RailTel and more.",
-};
+    "Telogica instruments are trusted across India's defence and space research bodies, public sector undertakings, railway organisations and telecom carriers.",
+  path: "/clients",
+});
 
 // Group the real client roster into meaningful buckets.
 const groups: { title: string; match: string[] }[] = [
@@ -41,6 +44,13 @@ export default function ClientsPage() {
 
   return (
     <>
+      <BreadcrumbSchema
+        trail={[
+          { name: "Home", href: "/" },
+          { name: "Clients", href: "/clients" },
+        ]}
+      />
+
       <PageHero
         eyebrow="Our clients"
         title={<>Trusted where <span className="text-gradient">reliability is non-negotiable</span></>}
@@ -61,8 +71,9 @@ export default function ClientsPage() {
                       {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img
                         src={c.logo as string}
-                        alt={c.name}
+                        alt={`${c.name} — Telogica client`}
                         loading="lazy"
+                        decoding="async"
                         className="max-h-16 max-w-full object-contain"
                       />
                     </div>

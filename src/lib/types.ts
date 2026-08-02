@@ -44,6 +44,8 @@ export interface ApiProduct {
   numReviews: number;
   soldCount?: number;
   createdAt?: string;
+  /** Mongoose timestamp; drives <lastmod> in the sitemap. */
+  updatedAt?: string;
 }
 
 export interface Address {
@@ -180,6 +182,8 @@ export interface Quote {
 export interface ContactMessage {
   _id: string;
   name: string;
+  /** Company or organisation the enquirer represents. Optional. */
+  organisation?: string;
   email: string;
   phone: string;
   subject: string;

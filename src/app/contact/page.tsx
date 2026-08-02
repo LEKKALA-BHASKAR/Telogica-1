@@ -1,16 +1,19 @@
 import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 import { Suspense } from "react";
 import { PageHero } from "@/components/PageHero";
 import { Reveal } from "@/components/Reveal";
 import { ContactForm } from "@/components/ContactForm";
 import { site } from "@/lib/site";
+import { contactSeo, contactIntro } from "@/lib/content";
 import { Mail, Phone, MapPin, Clock, Linkedin, Facebook, Youtube } from "@/components/Icons";
+import { BreadcrumbSchema } from "@/components/Seo";
 
-export const metadata: Metadata = {
-  title: "Contact",
-  description:
-    "Get in touch with Telogica Limited — sales, technical support and partnership enquiries. Head office in Jubilee Hills, Hyderabad.",
-};
+export const metadata: Metadata = pageMetadata({
+  title: contactSeo.title,
+  description: contactSeo.description,
+  path: "/contact",
+});
 
 const cards = [
   { icon: Mail, label: "Sales Inquiry", value: site.email.sales, href: `mailto:${site.email.sales}` },
@@ -22,10 +25,17 @@ const cards = [
 export default function ContactPage() {
   return (
     <>
+      <BreadcrumbSchema
+        trail={[
+          { name: "Home", href: "/" },
+          { name: "Contact", href: "/contact" },
+        ]}
+      />
+
       <PageHero
         eyebrow="Contact us"
-        title={<>We&rsquo;re here to <span className="text-gradient">help</span></>}
-        intro="Have a question or need assistance? Our team provides expert support for all your test & measurement needs."
+        title={<>We respond within <span className="text-gradient">one working day</span></>}
+        intro={contactIntro}
       />
 
       {/* Quick cards */}

@@ -6,6 +6,8 @@ export type MessageStatus = (typeof MESSAGE_STATUSES)[number];
 export interface IMessage {
   _id: Types.ObjectId;
   name: string;
+  /** Company or organisation the enquirer represents. Optional. */
+  organisation: string;
   email: string;
   phone: string;
   subject: string;
@@ -22,6 +24,7 @@ type MessageModel = Model<IMessage>;
 const messageSchema = new Schema<IMessage, MessageModel>(
   {
     name: { type: String, required: [true, "Name is required"], trim: true, maxlength: 120 },
+    organisation: { type: String, trim: true, default: "", maxlength: 160 },
     email: {
       type: String,
       required: [true, "Email is required"],

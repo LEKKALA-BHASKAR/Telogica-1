@@ -1,20 +1,22 @@
 import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 import { PageHero } from "@/components/PageHero";
 import { Reveal } from "@/components/Reveal";
 import { SectionHeading, Button } from "@/components/ui";
 import { CTABand } from "@/components/CTABand";
 import { InvestorDisclosures } from "@/components/InvestorDisclosures";
+import { InvestorDocuments } from "@/components/InvestorDocuments";
 import { site } from "@/lib/site";
 import { bse } from "@/lib/bse";
+import { investorsSeo, investorsIntro } from "@/lib/content";
 import { Mail, Phone, ArrowUpRight } from "@/components/Icons";
+import { BreadcrumbSchema } from "@/components/Seo";
 
-export const metadata: Metadata = {
-  title: "Investor Relations",
-  description:
-    "Telogica Limited (BSE: 532975, ISIN INE778I01024) investor relations — live BSE quote, key financials and LODR disclosures: financial results, board meetings, AGM/EGM, insider trading and corporate announcements.",
-};
-
-const DOCS_URL = "https://www.telogica.com/investors";
+export const metadata: Metadata = pageMetadata({
+  title: investorsSeo.title,
+  description: investorsSeo.description,
+  path: "/investors",
+});
 
 const metric = (label: string, value: string | null, suffix = "") =>
   ({ label, value: value && value !== "0.00" ? value + suffix : "—" });
@@ -34,10 +36,17 @@ export default function InvestorsPage() {
 
   return (
     <>
+      <BreadcrumbSchema
+        trail={[
+          { name: "Home", href: "/" },
+          { name: "Investor Relations", href: "/investors" },
+        ]}
+      />
+
       <PageHero
         eyebrow="Investor relations"
         title={<>Financial transparency &amp; <span className="text-gradient">LODR disclosures</span></>}
-        intro="Live market data and statutory filings for Telogica Limited, sourced directly from BSE (scrip 532975) under the SEBI LODR framework."
+        intro={investorsIntro}
       />
 
       {/* Live market snapshot + key metrics */}
@@ -128,19 +137,33 @@ export default function InvestorsPage() {
         </div>
       </section>
 
-      {/* Document library + IR contact */}
+      {/* Document libraries required under SEBI LODR */}
       <section className="container-x py-16 sm:py-20">
+        <Reveal>
+          <SectionHeading
+            eyebrow="Document library"
+            title={<>Statutory filings, <span className="text-gradient">section by section</span></>}
+            intro="Annual reports, quarterly results, shareholding patterns, governance reports, policies and codes of conduct are maintained in our full investor document library."
+          />
+        </Reveal>
+        <div className="mt-10">
+          <InvestorDocuments />
+        </div>
+      </section>
+
+      {/* IR contact */}
+      <section className="container-x pb-16 sm:pb-20">
         <div className="grid gap-6 lg:grid-cols-2">
           <Reveal>
             <div className="flex h-full flex-col rounded-2xl border border-line bg-base-800 p-8">
-              <h3 className="font-display text-xl font-bold text-white">Document library</h3>
+              <h3 className="font-display text-xl font-bold text-white">Filings on BSE</h3>
               <p className="mt-3 flex-1 text-sm leading-relaxed text-fog">
-                Annual reports (FY 2012–13 onward), quarterly results, shareholding
-                patterns, corporate governance reports, MGT-7 returns, policies and
-                codes of conduct are maintained in our full investor document library.
+                Every intimation Telogica has filed under the LODR framework is
+                also available in full on the exchange&rsquo;s own corporate
+                announcements portal, alongside the documents published above.
               </p>
               <div className="mt-6">
-                <Button href={DOCS_URL} variant="outline">Open document library</Button>
+                <Button href={quote.bseUrl} variant="outline">View filings on BSE</Button>
               </div>
             </div>
           </Reveal>

@@ -1,11 +1,13 @@
 import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
 import { PageHero } from "@/components/PageHero";
 import { site } from "@/lib/site";
 
-export const metadata: Metadata = {
-  title: "Privacy Policy",
+export const metadata: Metadata = pageMetadata({
+  title: "Privacy Policy | Telogica Limited",
   description: "How Telogica Limited collects, uses and protects your information.",
-};
+  path: "/privacy-policy",
+});
 
 export default function PrivacyPage() {
   return (

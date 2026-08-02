@@ -12,6 +12,7 @@ import { StarRating } from "@/components/commerce/Bits";
 import { RecentlyViewed, TrackProductView } from "@/components/commerce/RecentlyViewed";
 import { BreadcrumbSchema, ProductSchema } from "@/components/Seo";
 import { getProductByKey } from "@/lib/server-api";
+import { pageMetadata } from "@/lib/seo";
 import { cleanName } from "@/lib/format";
 import { parseDescription } from "@/lib/products";
 import { ArrowRight, Check } from "@/components/Icons";
@@ -31,16 +32,25 @@ export async function generateMetadata({
   params: { slug: string };
 }): Promise<Metadata> {
   const data = await getProductByKey(params.slug);
-  if (!data) return { title: "Product" };
-  return {
-    title: cleanName(data.product.name),
-    description: data.product.shortDescription,
-    openGraph: {
-      title: cleanName(data.product.name),
-      description: data.product.shortDescription,
-      images: data.product.images[0] ? [data.product.images[0]] : undefined,
-    },
-  };
+  if (!data) return { title: "Product", robots: { index: false, follow: true } };
+
+  const { product } = data;
+  const name = cleanName(product.name);
+  return pageMetadata({
+    // Category and brand in the title win the long-tail "<model> price india"
+    // style queries that drive most of the catalogue's organic traffic.
+    title: `${name} | ${product.category} Test Equipment — Telogica`,
+    description:
+      product.shortDescription ||
+      `${name} from Telogica Limited — designed and manufactured in India, ISO 9001:2015 certified, with nationwide calibration and repair support.`,
+    // Canonical on the slug: the catalogue also links products by legacy id,
+    // and both routes resolve, so one of them has to be declared the original.
+    path: `/products/${product.slug}`,
+    images: product.images.filter(Boolean).slice(0, 3),
+    type: "article",
+    keywords: [name, product.sku, product.brand, product.category, ...(product.tags ?? [])]
+      .filter((k): k is string => Boolean(k)),
+  });
 }
 
 export default async function ProductPage({ params }: { params: { slug: string } }) {

@@ -1,11 +1,9 @@
 import type { Metadata } from "next";
+import { privateMetadata } from "@/lib/seo";
 import { RequireAuth } from "@/components/commerce/AuthGuard";
 import { OrderDetail } from "@/components/commerce/OrderDetail";
 
-export const metadata: Metadata = {
-  title: "Order confirmed",
-  robots: { index: false, follow: false },
-};
+export const metadata: Metadata = privateMetadata("Order confirmed");
 
 export default function OrderConfirmedPage({ params }: { params: { id: string } }) {
   return (
